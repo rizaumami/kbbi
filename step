@@ -1,0 +1,45 @@
+#!/bin/bash
+
+split_pdf_to_jpegs() {
+  for i in {1485..1489}; do
+    convert -density 1200 Kamus-Besar-Bahasa-Indonesia.pdf[$i] /tmp/Z-$i.jpg
+  done
+}
+
+convert_to_text() {
+  find /tmp -maxdepth 1 -type f -iname "Z-*" | xargs -I '{}' tesseract -l ind '{}' '{}'
+}
+
+move_text_to_letter_folder() {
+  mv /tmp/*.txt text/Z/
+}
+
+remove_jpegs() {
+  rm /tmp/*.jpg
+}
+
+#cleanup_unwanted_chars() {
+#  find text/ -type f -iname "*.txt" | xargs -I '{}' sed -i 's|»|~|g' '{}'
+
+#  # tambah spasi di akhir baris dalam paragraf
+#  # hapus tanda sambung di akhir baris dalam paragraf
+#  # kembalikan tanda sambung dua yang terhapus
+#  #sed 's|$| |g;s|- $||g;s|-$|-- |g' A-76.jpg.txt
+#  #sed 's|F is|Fis|g;s| 71 | n |g'
+#}
+
+#convert_paragraphs_into_single_line() {
+#  # jika baris tidak kosong, cetak baris
+#  # jika baris kosong, cetak newline
+#  awk '$0 != "" {printf "%s ",$0} $0 == "" {printf "\n\n"}' A-76.jpg.txt \
+#  # calling undefined function gensub
+#  # input record number 1, file
+#  # source line number 1
+#  | awk '{print gensub(/(^|[^-])- /, "\\1\\2", "g");}'
+#}
+
+while read berkas; do
+  awk -i inplace '$0 != "" {printf "%s ",$0} $0 == "" {printf "\n\n"}' "$berkas"
+  awk -i inplace '{print gensub(/(^|[^-])- /, "\\1\\2", "g");}' "$berkas"
+  sed -i 's|»|~|g;s|F is|Fis|g;s| 71 | n |g' "$berkas"
+done < <(find text/ -type f -iname "*.txt")

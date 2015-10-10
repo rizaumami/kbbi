@@ -1,0 +1,34 @@
+321 
+
+positif; jika suatu logaritma mempunyai basis a, maka alog M : X bila aX : M 
+
+3dasar n Fis komponen frekuensi terendah dalam gelombang kompleks; juga disebut harmonik pertama, larasan dasar atau komponen fundamental 
+
+dasasila n sepuluh ketentuan dasar; -- bandung sepuluh ketentuan dasar yg merupakan hasil keputusan konferensi Asia-Afrika di Bandung pd tahun 1955 
+
+dasawarsa n sepuluh tahun 
+
+dasawindu num sepuluh Windu (80 tahun) 
+
+dasi n perlengkapan pakaian yg dibuat dr sutra dsb, dipasang (dikalungkan) pd leher kemeja dan bergantung di dada; -- askot dasi lebar dng lipit-lipit yg membuat dasi itu mengecil pd bagian yg mengikat leher, diikatkan secara longgar dan dipakai di belakang kerah yg terbuka; -- kupu-kupu dasi pendek yg simpulnya spt sayap kupu-kupu; berdasi v memakai dasi 
+
+dasimeter /dasimeter/ n Kim instrumen untuk mengukur panas yg hilang dr sebuah tungku dng cara analisis gas yg terbuang 
+
+dasipur n keluarga bintang yg bersabuk 
+
+daster n gaun wanita yg dibuat longgar untuk dipakai di rumah 
+
+dasun n bawang putih, Allium sativum; -- tunggal 1 bawang putih yg tunggal; 2 ki bentuk hidung yg elok: hidungnya bak ~; mendasun, ~ tunggal Sas elok sbg dasun tunggal (tt bentuk hidung yg elok) 
+
+dat n yg menyebabkan sesuatu menjadi ada; wujud 
+
+1data n 1 kenyataan yg ada yg berfungsi sbg bahan sumber untuk menyusun suatu pendapat; 2 keterangan yg benar; 3 keterangan atau bahan yg dipakai untuk penalaran atau penyelidikan; -- analog Komp data yg dinyatakan dl bentuk bersinambung; -- dasar pasien 
+
+3dasar . datagram 
+
+data yg diperoleh dr klien atau pasien yg dapat dijadikan dasar oleh tenaga kesehatan untuk melakukan tindakan atau pelayanan kesehatan; -- kategoris Komp data yg diperoleh sbg hasil pengukuran dng skala yg berkategori; -- langsung Komp data yg langsung diberikan dl instruksi; -- lisan data yg diperoleh melalui tutur kata; -- numerik data yg hanya berisi sekumpulan angka; -- pribadi data yg berkenaan dng ciri responden msl diri; nama, umur, jenis kelamin, alamat, dsb; -- termodinamika Kim data yg berupa panas, kerja, entalpi, dan bentuk energi lainnya; pendataan n pengumpulan data pencarian data; mendatakan v 1 mengambil sbg data; 2 memasukkan data 
+
+2data n Mat 1 huruf-huruf, simbol-simbol, dan kuantitas analog yg dapat dianggap sbg masukan bagi pemrosesan komputer; 2 informasi yang mempunyai makna untuk keperluan tertentu; -- analog Mat data yang dinyatakan dlm bentuk kontinu; -- kategoris Mat hasil pengukuran dng skala yg berkategori; -- keterandalan dan mutu n Fis data yg menunjukkan tingkat keterandalan suatu untai atau alat yg biasanya diuur dng umur-kerja alat, sedangkan mutu alat bersangkutan dng presisi keluaran alat dibandingkan dengan spesifikasi yg ditetapkan; -- kuantitatif Mat berhubungan dng data dalam bentuk besaran numerik spt hasil pengukuran atau cacahan; -- langsung Mat data yang langsung di berikan dl instruksi; -- numerik Mat data yg hanya dapat berisi sekumpulan angka 
+
+datagram n satuan informasi dl internet, biasanya sekaligus berisi alamat asal dan alamat tujuan pengirim 
+

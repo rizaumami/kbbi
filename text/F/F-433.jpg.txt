@@ -1,0 +1,36 @@
+fosfin . fotoelastisitas 
+
+-- basa Kim fosfatase yg pH optimumnya lebih besar daripada 7,0 
+
+fosfin n gas yg tidak berwarna, baunya spt bawang putih, sangat beracun, digunakan sbg katalis; PH3 
+
+fosfolipid n Kim senyawa mirip-lemak terdapat pada semua sel sayuran dan hewan, terutama terdapat di jaringan syaraf 
+
+fosfoprotein /fosfoprotein/ n Kim kelompok protein terkonjugasi, terdiri atas protein sederhana yg berpadu dng senyawa fosforus; kecuali asam nukleat dan lesitina, lainnya tidak dikenal 
+
+fosfor n nama unsur kimia, kuning warnanya dan mudah terbakar, sangat penting bagi kehidupan; -- hitam Kim alotrop fosforus yg juga disebut fosforus hitam-B dan berupa bubuk hitam yg cukup menghantar arus elektrik; -- merah Kim alotrop fosforus yg juga disebut fosforus amorf (meskipun bisa berupa kristal rombohedral), berwarna merah kecokelatan, tidak bersifat racun dan tidak membara; -- putih Kim alotrop fosforus yg lazim disebut fosforus kuning yg biasa dicetak berupa batangan kuning mirip lilin 
+
+fosforilasi n Kim proses memasukkan gugus fosfat ke dalam senyawa lewat pembentukan ikatan ester antara senyawa itu dan asam fosfat 
+
+fosforimetri /fosforimetri/ n Kim analisis spektrofotometri untuk zat-zat yg berpendar fosfor oleh sinar ultralembayung 
+
+fosforus n Kim unsur dengan nomor atom 15, lambang P 
+
+fosil n sisa tulang belulang binatang atau sisa tumbuhan zaman purba yg telah membatu dan tertanam di bawah lapisan tanah; memfosil v menjadi fosil; pemfosilan n hal menjadi fosil 
+
+416 
+
+fosilisasi n hal (keadaan, proses) menjadi fosil 
+
+fosvitin n Kim protein yg mengandung gugus fosfat yg terdapat dl kuning telur 
+
+foto n 1 gambar potret; 2 ki gambaran; bayangan; pantulan; -- arus Fis arus elektron yg timbul pd proses fotoelektrik akibat penyinaran cahaya pd permukaan suatu bahan (logam); -- hambatan Fis bahan yg digunakan dl fotolitografi yg akan mengeras kalau dikenai cahaya, dan tidak terkunci dl proses pencucian; berguna untuk pembuatan pola kedok dl fabrikasi untai terpadu; -- litografi Fis proses untuk secara selektif membuang oksida yg menutup permukaan dng sinar ultraviolet; -- oksidasi Kim oksidasi yg dipengaruhi oleh adanya sinar; berfoto v bergambar; berpotret: mereka ~ bersama 
+
+fotoautotrofik n sifat makhluk yg menggunakan cahaya sbg sumber energi dan karbondioksida sbg sumber karbon untuk membentuk makanannya 
+
+fotodiode n diode semikoduktor yg dioperasikan dng tegangan balik di bawah tegangan rusaknya, yg daya hantarnya dipengaruhi oleh intensitas cahaya yg dijatuhkan pdnya, dng demikian arus dapat dimodulasi oleh cahaya, dapat digunakan untuk mengubah getaran cahaya menjadi getaran listrik 
+
+fotoelastisasi /fotoelastisasi/ n pengkajian pengaruh tegangan thd cahaya melalui sebuah bahan tembus cahaya, digunakan untuk menetapkan tempat pd bahan berbentuk tertentu yg mengalami tegangan besar atau kecil 
+
+fotoelastisitas /fotoelastisitas/ n Kim adanya perubahan dl sifat optis dr dielektrik tembus cahaya secara isotropik 
+
