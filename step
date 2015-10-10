@@ -41,5 +41,5 @@ remove_jpegs() {
 while read berkas; do
   awk -i inplace '$0 != "" {printf "%s ",$0} $0 == "" {printf "\n\n"}' "$berkas"
   awk -i inplace '{print gensub(/(^|[^-])- /, "\\1\\2", "g");}' "$berkas"
-  sed -i 's|»|~|g;s|F is|Fis|g;s| 71 | n |g' "$berkas"
+  sed -i 's| » | ~ |g;s| F is | Fis |g;s| 71 | n |g;s|— ||g' "$berkas"
 done < <(find text/ -type f -iname "*.txt")
