@@ -18,28 +18,23 @@ remove_jpegs() {
   rm /tmp/*.jpg
 }
 
-#cleanup_unwanted_chars() {
-#  find text/ -type f -iname "*.txt" | xargs -I '{}' sed -i 's|»|~|g' '{}'
-
-#  # tambah spasi di akhir baris dalam paragraf
-#  # hapus tanda sambung di akhir baris dalam paragraf
-#  # kembalikan tanda sambung dua yang terhapus
-#  #sed 's|$| |g;s|- $||g;s|-$|-- |g' A-76.jpg.txt
-#  #sed 's|F is|Fis|g;s| 71 | n |g'
-#}
-
-#convert_paragraphs_into_single_line() {
-#  # jika baris tidak kosong, cetak baris
-#  # jika baris kosong, cetak newline
-#  awk '$0 != "" {printf "%s ",$0} $0 == "" {printf "\n\n"}' A-76.jpg.txt \
-#  # calling undefined function gensub
-#  # input record number 1, file
-#  # source line number 1
-#  | awk '{print gensub(/(^|[^-])- /, "\\1\\2", "g");}'
-#}
-
 while read berkas; do
-  awk -i inplace '$0 != "" {printf "%s ",$0} $0 == "" {printf "\n\n"}' "$berkas"
+  # cetak baris berisi dan ganti newline ganda untuk baris yang kosong
+  awk -i inplace '$0 != "" {printf "%s ",$0} $0 == "" {printf "\n"}' "$berkas"
+  
+  # ganti tanda sambung tunggal (single dash)
   awk -i inplace '{print gensub(/(^|[^-])- /, "\\1\\2", "g");}' "$berkas"
-  sed -i 's| » | ~ |g;s| F is | Fis |g;s| 71 | n |g;s|— ||g' "$berkas"
+  
+  # beberapa karakter kacau karena OCR yang tidak sempurna, sed berikut adalah
+  # upaya memulihkannya
+  sed -i 's|”|"|g;s|a\x27|d|g;s|»|~|g;s| F is | Fis |g;s| 71 | n |g;s|— ||g' "$berkas"
+
+  # delete trailing whitespace (spaces, tabs) from end of each line
+  awk '{sub(/[ \t]+$/, "")};1'
+
+  #sed -e '/ \x27 /,+1d' "$berkas"
 done < <(find text/ -type f -iname "*.txt")
+
+while read map; do
+  cat $map >> ${map%\/*}.txt
+done < <(find text -type f | sort -t '-' -k 2n)
