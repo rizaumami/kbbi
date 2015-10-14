@@ -33,6 +33,8 @@ while read berkas; do
   awk '{sub(/[ \t]+$/, "")};1'
 
   #sed -e '/ \x27 /,+1d' "$berkas"
+
+  for lc in {a..z} ; do UC=${lc^}; awk -i inplace '$1 ~ /^["'"$lc$UC"'"]/ {print} $1 ~ !/^["'"$lc$UC"'"]/ {printf "%s ", $0}' ${UC}.txt ; done
 done < <(find text/ -type f -iname "*.txt")
 
 while read map; do
