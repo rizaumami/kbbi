@@ -1,23 +1,38 @@
 #!/bin/bash
 
+# FUNCTIONS --------------------------------------------------------------------
+
+# tesseract akan _crash_ jika mengolah banyak halaman sekaligus
+# fungsi ini untuk memilah PDF sedikit-demi sedikit
+# TODO - buat _loop_ untuk mengolah semua laman
 split_pdf_to_jpegs() {
   for i in {1485..1489}; do
     convert -density 1200 Kamus-Besar-Bahasa-Indonesia.pdf[$i] /tmp/Z-$i.jpg
   done
 }
 
+# TODO - buat _loop_ untuk mengolah semua abjad
 convert_to_text() {
   find /tmp -maxdepth 1 -type f -iname "Z-*" | xargs -I '{}' tesseract -l ind '{}' '{}'
 }
 
+# TODO - mungkin sebaiknya memilah berdasar abjad dilakukan selama konversi oleh
+# tesseract
 move_text_to_letter_folder() {
   mv /tmp/*.txt text/Z/
 }
 
+# TODO mungkin sebaiknya menghapus berkas dilakukan setelah konversi oleh tesseract
 remove_jpegs() {
   rm /tmp/*.jpg
 }
 
+# MAIN -------------------------------------------------------------------------
+
+rm -vr text
+
+7z x cadangan/text.7z -o./
+ 
 while read berkas; do
   # cetak baris berisi dan ganti newline ganda untuk baris yang kosong
   awk -i inplace '$0 != "" {printf "%s ",$0} $0 == "" {printf "\n"}' "$berkas"
@@ -27,16 +42,28 @@ while read berkas; do
   
   # beberapa karakter kacau karena OCR yang tidak sempurna, sed berikut adalah
   # upaya memulihkannya
-  sed -i 's|”|"|g;s|a\x27|d|g;s|»|~|g;s| F is | Fis |g;s| 71 | n |g;s|— ||g' "$berkas"
+  sed -i 's|”|"|g;s|a\x27|d|g;s|»|~|g;s| F is | Fis |g;s| 71 | n |g;s|— ||g;s|[ ]$||g;s|—|-|g' "$berkas"
 
-  # delete trailing whitespace (spaces, tabs) from end of each line
-  awk '{sub(/[ \t]+$/, "")};1'
-
-  #sed -e '/ \x27 /,+1d' "$berkas"
-
-  for lc in {a..z} ; do UC=${lc^}; awk -i inplace '$1 ~ /^["'"$lc$UC"'"]/ {print} $1 ~ !/^["'"$lc$UC"'"]/ {printf "%s ", $0}' ${UC}.txt ; done
+  # menghapus baris berjumlah tiga kolom dengan kolom kedua berupa karakter "'" 
+  sed -i '/ \x27 /,1d' "$berkas"  
 done < <(find text/ -type f -iname "*.txt")
 
+# gabungkan semua berkas urut berdasarkan abjad
 while read map; do
-  cat $map >> ${map%\/*}.txt
+  cat "$map" >> "${map%\/*}.txt"
 done < <(find text -type f | sort -t '-' -k 2n)
+
+rm tree
+
+tree text > tree
+
+#for lc in {a..z} ; do UC=${lc^}; awk -i inplace '$1 ~ /^["'"$lc$UC"'"]/ {print} $1 ~ !/^["'"$lc$UC"'"]/ {printf "%s ", $0}' ${UC}.txt ; done
+
+# TODO -------------------------------------------------------------------------
+#
+# Berkas ini merupakan catatan singkat langkah yang ditempuh untuk membuat berkas
+# teks dari berkas PDF KBBI edisi 4. Banyak perintah dalam berkas ini merupakan 
+# hasil pencaraian di internet, karenanya banyak perintah bercampur dan mungkin
+# tidak efisien.
+# Rencananya akan dibuatkan script yang lebih baik dan 'fool proof'
+
