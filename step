@@ -46,6 +46,14 @@ while read berkas; do
 
   # menghapus baris berjumlah tiga kolom dengan kolom kedua berupa karakter "'" 
   sed -i '/ \x27 /,1d' "$berkas"  
+
+  # hapus halaman
+  sed -i '/^[0-9][0-9][0-9][0-9][0-9]/,1d' "$berkas"
+
+  # beberapa lema memiliki banyak sinonim, dalam KBBI sinonim ini ditulis berurut
+  # dibedakan nomor di depan lema.
+  # perintah berikut menghapus nomor di depan lema.
+  awk -i inplace '/^[[:digit:]][[:alpha:]]/{gsub(/^[[:digit:]]/, "")};1' "$berkas"
 done < <(find text/ -type f -iname "*.txt")
 
 # gabungkan semua berkas urut berdasarkan abjad
@@ -63,7 +71,7 @@ tree text > tree
 #
 # Berkas ini merupakan catatan singkat langkah yang ditempuh untuk membuat berkas
 # teks dari berkas PDF KBBI edisi 4. Banyak perintah dalam berkas ini merupakan 
-# hasil pencaraian di internet, karenanya banyak perintah bercampur dan mungkin
+# hasil pencarian di internet, karenanya banyak perintah bercampur dan mungkin
 # tidak efisien.
 # Rencananya akan dibuatkan script yang lebih baik dan 'fool proof'
 
