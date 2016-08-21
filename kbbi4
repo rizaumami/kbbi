@@ -1,0 +1,138 @@
+#!/bin/bash
+
+# Script ini untuk mengalih-tuliskan Kamus Besar Bahasa Indonesia edisi IV
+# tahun 2008 dari bentuk PDF ke bentuk teks biasa (plain text)
+#
+# Membutuhkan paket pdftotext, awk, dan bash (minimal versi 4)
+#
+# Teks yang dihasilkan script ini masih harus disunting secara manual
+
+
+readonly KBBI='sumber/Kamus-Besar-Bahasa-Indonesia.pdf'
+readonly LEMA='sumber/Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4.pdf'
+
+# FUNCTIONS --------------------------------------------------------------------
+
+usage() {
+  printf '%s\n' "
+  Cara pakai: $0 pilihan
+
+  Mengalih-tuliskan berkas PDF Kamus Besar Bahasa Indonesia edisi IV (2008)
+  ke dalam bentuk berkas teks biasa.
+
+  Menjalankan $0 tanpa pilihan sama dengan menjalankan -g, -t, dan -r secara berurutan.
+
+  PILIHAN:
+    -g --gabung       Gabungkan berkas teks berdasar huruf lema
+    -t --teks         Rubah berkas PDF KBBI menjadi teks
+    -r --rubah        Perbaiki karakter hasil pdftotext yang salah
+    -h --help         Tampilkan bantuan ini
+  "
+}
+
+# tampilkan pesan berupa huruf tebal berwarna hijau
+green() {
+  printf "\e[1;32m$1\n\e[0;39;49m"
+}
+
+# rubah pdf menjadi berkas biasa menggunakan pdftotext
+pdf_to_text() {
+  [[ ! -d 'teks' ]] && mkdir 'teks'
+
+  local i
+
+  for i in {19..129}; do
+    green "Converting page ${i}"
+    # laman untuk lema a memiliki tinggi bagian nomor yang berbeda dengan
+    # halaman lainnya (sekitar 600px pada resolusi 500dpi)
+    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 600 -W 3250 -H 3636 "$KBBI" teks/kbbi4-"$i".txt
+  done
+
+  for i in {130..1490}; do
+    green "Converting page ${i}"
+    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 436 -W 3250 -H 3800 "$KBBI" teks/kbbi4-"$i".txt
+  done
+
+  # Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4 hanya akan dirubah ke teks
+  # untuk selanjutnya disunting secara manual
+  green "Converting ${LEMA##*/}"
+  pdftotext -r 500 -eol unix -nopgbrk "$LEMA" teks/"${LEMA##*/}".txt
+}
+
+group_text() {
+  cat teks/kbbi4-{19..129}.txt > teks/kbbi4-A.txt
+  cat teks/kbbi4-{130..263}.txt > teks/kbbi4-B.txt
+  cat teks/kbbi4-{264..319}.txt > teks/kbbi4-C.txt
+  cat teks/kbbi4-{320..390}.txt > teks/kbbi4-D.txt
+  cat teks/kbbi4-{391..418}.txt > teks/kbbi4-E.txt
+  cat teks/kbbi4-{419..439}.txt > teks/kbbi4-F.txt
+  cat teks/kbbi4-{440..516}.txt > teks/kbbi4-G.txt
+  cat teks/kbbi4-{517..553}.txt > teks/kbbi4-H.txt
+  cat teks/kbbi4-{554..585}.txt > teks/kbbi4-I.txt
+  # tidak ada lema J di berkas PDF KBBI 2008
+  #cat teks/kbbi4-{..}.txt > teks/kbbi4-J.txt
+  cat teks/kbbi4-{586..764}.txt > teks/kbbi4-K.txt
+  cat teks/kbbi4-{765..866}.txt > teks/kbbi4-L.txt
+  cat teks/kbbi4-{867..968}.txt > teks/kbbi4-M.txt
+  cat teks/kbbi4-{969..989}.txt > teks/kbbi4-N.txt
+  cat teks/kbbi4-{990..1002}.txt > teks/kbbi4-O.txt
+  # tidak ada lema P di berkas PDF KBBI 2008
+  #cat teks/kbbi4-{..}.txt > teks/kbbi4-P.txt
+  cat teks/kbbi4-1003.txt > teks/kbbi4-Q.txt
+  cat teks/kbbi4-{1004..1092}.txt > teks/kbbi4-R.txt
+  cat teks/kbbi4-{1093..1259}.txt > teks/kbbi4-S.txt
+  cat teks/kbbi4-{1260..1430}.txt > teks/kbbi4-T.txt
+  cat teks/kbbi4-{1431..1459}.txt > teks/kbbi4-U.txt
+  cat teks/kbbi4-{1460..1467}.txt > teks/kbbi4-V.txt
+  cat teks/kbbi4-{1468..1481}.txt > teks/kbbi4-W.txt
+  cat teks/kbbi4-1482.txt > teks/kbbi4-X.txt
+  cat teks/kbbi4-{1483..1485}.txt > teks/kbbi4-Y.txt
+  cat teks/kbbi4-{1486..1490}.txt > teks/kbbi4-Z.txt
+}
+
+perbaiki_kata() {
+  local i
+  for i in {A..Z}; do
+    # kbbi 2008 menggunakan drop cap letter pada halaman awal lema
+    # perintah berikut akan menghapus huruf yang berada di baris 1 tersebut
+    awk -i inplace 'NR>1' "teks/kbbi4-$i.txt"
+
+    # hapus baris kosong
+    awk -i inplace 'NF' "teks/kbbi4-$i.txt"
+
+    # pdftotext gagal menerjemahkan beberapa double-dash
+    # rubah dash menjadi double dash
+    awk -i inplace '/ -[[:alnum:]]/{gsub("-", "-- ")};1' "teks/kbbi4-$i.txt"
+
+    # kbbi 2008 menggunakan angka di depan lema yang memiliki banyak arti
+    # angka tersebut dirasa tidak penting dan akan dihapus oleh perintah berikut
+    awk -i inplace '!/^[[:digit:]]$/' "teks/kbbi4-$i.txt"
+
+    # gabung baris berdasar lema
+    awk -v huruf=^"[$i${i,,}]" '$0 ~ huruf {if (x)print x;x="";}{x=(!x)?$0:x" "$0;}END{print x;}' "teks/kbbi4-$i.txt" > "teks/$i.txt"
+  done
+}
+
+# MAIN -------------------------------------------------------------------------
+
+case $1 in
+  -g|--gambar)
+    group_text
+  ;;
+  -t|--teks)
+    pdf_to_text
+  ;;
+  -r|--rubah)
+    perbaiki_kata
+  ;;
+  -h|--help)
+    usage
+    exit 0
+  ;;
+  *)
+    pdf_to_text
+    group_text
+    perbaiki_kata
+    rm -v teks/kbbi4-*.txt
+  ;;
+esac
