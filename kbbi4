@@ -25,7 +25,7 @@ usage() {
   PILIHAN:
     -g --gabung       Gabungkan berkas teks berdasar huruf lema
     -t --teks         Rubah berkas PDF KBBI menjadi teks
-    -r --rubah        Perbaiki karakter hasil pdftotext yang salah
+    -r --rubah        Perbaiki karakter hasil OCR yang salah
     -h --help         Tampilkan bantuan ini
   "
 }
@@ -100,9 +100,11 @@ perbaiki_kata() {
     # hapus baris kosong
     awk -i inplace 'NF' "teks/kbbi4-$i.txt"
 
-    # pdftotext gagal menerjemahkan beberapa double-dash
-    # rubah dash menjadi double dash
-    awk -i inplace '/ -[[:alnum:]]/{gsub("-", "-- ")};1' "teks/kbbi4-$i.txt"
+    # pdftotext gagal menerjemahkan beberapa karakter
+    # rubah dash (yang aslinya berupa double dash) menjadi double dash
+    awk -i inplace '/ -[[:alnum:]]/{gsub(" -", " -- ")};1' "teks/kbbi4-$i.txt"
+    # rubah tanda kutip
+    awk -i inplace '{gsub("[“”]", "\"")};1 "teks/kbbi4-$i.txt"
 
     # kbbi 2008 menggunakan angka di depan lema yang memiliki banyak arti
     # angka tersebut dirasa tidak penting dan akan dihapus oleh perintah berikut
