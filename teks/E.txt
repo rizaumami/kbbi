@@ -24,8 +24,7 @@ edar /édar/ v, beredar v 1 berjalan berkeliling (hingga sampai ke tempat permul
 edaran n sesuatu yg diedarkan; memperedarkan v mengedarkan; mengedarkan v 1 membawa (menyampaikan) surat dsb dr orang yg satu kpd orang yg lain; membawa berkeliling; 2 menyampaikan surat dsb ke alamatalamatnya yg dituju; 3 mengeluarkan uang untuk dipakai masyarakat; peredaran n 1 gerakan (perjalanan dsb) berkeliling (berputar); keadaan beredar; 2 peralihan (pergantian) dr keadaan yg satu ke keadaan yg lain yg berulangulang, seakan-akan merupakan suatu lingkaran; 3 perputaran (uang) dl masyarakat; ~ darah aliran darah dl tubuh; ~ ulang Kim perputaran kembali aliran udara dalam pipa udara atau aliran air dalam pipa air
 edavit /édavit/ n tumbuhan yg daerah penyebarannya ditentukan oleh faktor tanah (faktor edafik)
 edisi /édisi/ n 1 bentuk buku yg diterbitkan; 2 keluaran (buku, surat kabar, dsb) dr macam yg sama dan dl waktu yg sama pula setelah ada revisi; 3 versi; -- khusus surat kabar atau majalah yg khusus diterbitkan dl rangka memperingati suatu peristiwa atau membicarakan suatu masalah; -- murah terbitan ulang buku atau majalah dl bentuk yg lebih sederhana dan dng harga yg lebih murah
-edit /édit/ v, mengedit v 1 mempersiapkan naskah siap cetak atau siap untuk diterbitkan (dng memperhatikan segi
-ejaan, diksi, dan struktur); menyunting; 2 merencanakan dan mengarahkan penerbitan (surat kabar, majalah); 3 menyusun (film, pita rekaman) dng memotong dan memasang kembali; pengedit n orang yg mengedit; penyunting; editor pengeditan n proses, cara, perbuatan mengedit (menyunting); penyuntingan
+edit /édit/ v, mengedit v 1 mempersiapkan naskah siap cetak atau siap untuk diterbitkan (dng memperhatikan segi ejaan, diksi, dan struktur); menyunting; 2 merencanakan dan mengarahkan penerbitan (surat kabar, majalah); 3 menyusun (film, pita rekaman) dng memotong dan memasang kembali; pengedit n orang yg mengedit; penyunting; editor pengeditan n proses, cara, perbuatan mengedit (menyunting); penyuntingan
 editor /éditor/ n orang yg mengedit naskah atau karangan yg akan diterbitkan; pengedit
 editorial /éditorial/ 1 a mengenai atau berhubungan dng penerbitan (editor); 2 n artikel dl surat kabar atau majalah yg mengungkapkan pendirian editor atau pimpinan surat kabar (majalah) tsb mengenai beberapa pokok masalah; tajuk rencana
 edukasi /édukasi/ n (perihal) pendidikan
@@ -37,16 +36,14 @@ efektif /éféktif/ a 1 ada efeknya (akibatnya, pengaruhnya, kesannya); 2 manjur
 efektivitas /éféktivitas/ n keefektifan
 efendi /éféndi/ ark n tuan (sebutan orang bangsawan)
 efisien /éfisién/ a 1 tepat atau sesuai untuk mengerjakan (menghasilkan) sesuatu (dng tidak membuang-buang waktu, tenaga, biaya); 2 mampu menjalankan tugas dng tepat dan cermat; berdaya guna; tepat guna
-efisiensi /éfisiénsi/ n 1 ketepatan cara (usaha, kerja) dl menjalankan sesuatu (dng tidak membuang-buang waktu, tenaga, biaya); kedayagunaan; 2 kemampuan menjalankan tugas dng baik dan tepat (dng tidak membuang-buang waktu, tenaga, biaya); 3 Kim angka banding antara kerja suatu mesin dan
-energi yang dihasilkan
+efisiensi /éfisiénsi/ n 1 ketepatan cara (usaha, kerja) dl menjalankan sesuatu (dng tidak membuang-buang waktu, tenaga, biaya); kedayagunaan; 2 kemampuan menjalankan tugas dng baik dan tepat (dng tidak membuang-buang waktu, tenaga, biaya); 3 Kim angka banding antara kerja suatu mesin dan energi yang dihasilkan
 efluen n Kim 1 hasil sampingan yang akan dibuang dr suatu proses; 2 luahan dr pabrik pulp dan kertas yang cenderung mencemari lingkungan, terutama perairan, danau, dan bahan air lainnya; -- industri buangan industri ke perairan ataupun ke udara; -- mentah limbah cair yg belum diolah; --pertanian bahan buangan, baik padat, cair, atau gas, dr tanah pertanian ataupun dr pabrik pengolahan hasil pertanian
 efusi /éfusi/ n Kim lepasnya gas bertekanan tinggi melewati lubang kecil atau pori
 efusiometer /éfusimeter/ n Kim alat untuk menentukan bobot molekul gas dng mengukur laju efusi
 egah /égah/, mengegah v berjalan (melangkah) sambil mengangkat bahu ke depan (kiri dan kanan berganti-ganti)
 egat ark a, mengegatkan v mengeratkan; meneguhkan (ikatan)
 ego /égo/ n Psi 1 aku; diri pribadi; 2 penglihatan atau pengalaman pribadi mengenai diri sendiri; 3 kemampuan pribadi untuk berpikir, merasa, dan berbuat
-egois /égois/ n 1 Fils penganut aliran
-egoisme; 2 orang yg selalu mementingkan diri sendiri
+egois /égois/ n 1 Fils penganut aliran egoisme; 2 orang yg selalu mementingkan diri sendiri
 egoisme /égoisme/ n 1 Fils teori yg berpendapat bahwa segala perbuatan atau tindakan selalu disebabkan oleh keinginan untuk menguntungkan diri sendiri; 2 hal atau keadaan mementingkan diri sendiri; keadaan selalu memikirkan kepentingan diri sendiri; 3 Psi tingkah laku yg didasarkan pd dorongandorongan untuk kepentingan diri sendiri
 egoistik /égoistik/ a egoistis
 egoistis /égoistis/ a bersifat mementingkan diri sendiri; egoistik
@@ -79,15 +76,13 @@ eklektis /ékléktis/ a bersifat memilih yg terbaik dr berbagai sumber (tt orang
 eklektisisme /ékléktisismé/ n Fils filsafat yg mengambil yg terbaik dr semua sistem
 eklips /éklips/ n Astr penutupan sebagian atau seluruh sinar matahari apabila dilihat dr bumi (apabila bulan berada pd garis antara matahari dan bumi) atau penutupan sebagian atau seluruh pantulan sinar bulan dilihat dr bumi apabila bumi berada di antara matahari dan bulan; gerhana
 ekliptika /ékliptika/ n Astr orbit atau lingkaran yg seakan-akan dilalui oleh matahari jika dilihat dr bumi; jalan peredaran matahari
-ekliptis /ékliptis/ a Astr berhubungan dng
-eklips atau ekliptika
+ekliptis /ékliptis/ a Astr berhubungan dng eklips atau ekliptika
 ekologi n Kim cabang biologi yang mempelajari hubungan antara makhluk dan lingkungannya
 ekonom /ékonom/ n ahli ekonomi
 ekonomi /ékonomi/ n Ek 1 ilmu mengenai asas-asas produksi, distribusi, dan pemakaian barang-barang serta kekayaan (spt hal keuangan, perindustrian, dan perdagangan); 2 pemanfaatan uang, tenaga, waktu, dsb yg berharga; 3 tata kehidupan perekonomian (suatu negara); -- liberal suatu sistem ekonomi yg memberi kebebasan kpd warga untuk mengembangkan ekonominya sehingga berlomba-lomba mencari keuntungan sendiri; berekonomi v 1 menjalankan suatu usaha (perdagangan, perindustrian) berdasarkan teori-teori ekonomi; 2 (berusaha) menghindari pemborosan uang, tenaga, waktu; berhemat; perekonomian n tindakan-tindakan (aturan-aturan atau cara-cara) berekonomi; keekonomian n segala sesuatu yg bertalian dng asas-asas ekonomi; pengekonomian n proses, cara, perbuatan mengekonomikan
 ekonomis /ékonomis/ a bersifat hati-hati dl pengeluaran uang, pemakaian barang, dan penggunaan waktu; tidak boros; hemat
 ekonomisasi /ékonomisasi/ n pengekonomian
-ekor /ékor/ n 1 bagian tubuh binatang dsb yg paling belakang, baik berupa sambungan dr tulang punggung ataupun sbg lekatan; 2 p kata bantu (penolong) bilangan untuk binatang; 3 sesuatu yg rupanya (keadaannya) spt ekor; 4 bagian yg di belakang sekali (tt pawai, pasukan, dsb); 5 pengikut; pengiring; 6 sesuatu yg merupakan akibat dr kejadian atau keadaan sebelumnya; -- denyut bagian denyut (pulsa) yang sangat lemah dan tidak menonjol; -- lipas rambut yg tumbuh di lekuk tengkuk; -- tikus kikir yg bentuknya bulat panjang; berekor v 1 ada ekornya; 2 berturut-turut memanjang; 3 ki berkelanjutan; mengekor v 1 bergantung (berjuntai) sbg
-ekor; 2 mengikuti pendapat (tingkah laku, dsb) orang lain tanpa mempunyai pendapat sendiri; 3 membuntuti; mengikuti atau menyertai dr belakang; pengekor n orang yg suka mengikuti atau menganut pendapat (tingkah laku dsb) orang lain begitu saja tanpa memikirkan lebih dahulu baik buruknya dsb)
+ekor /ékor/ n 1 bagian tubuh binatang dsb yg paling belakang, baik berupa sambungan dr tulang punggung ataupun sbg lekatan; 2 p kata bantu (penolong) bilangan untuk binatang; 3 sesuatu yg rupanya (keadaannya) spt ekor; 4 bagian yg di belakang sekali (tt pawai, pasukan, dsb); 5 pengikut; pengiring; 6 sesuatu yg merupakan akibat dr kejadian atau keadaan sebelumnya; -- denyut bagian denyut (pulsa) yang sangat lemah dan tidak menonjol; -- lipas rambut yg tumbuh di lekuk tengkuk; -- tikus kikir yg bentuknya bulat panjang; berekor v 1 ada ekornya; 2 berturut-turut memanjang; 3 ki berkelanjutan; mengekor v 1 bergantung (berjuntai) sbg ekor; 2 mengikuti pendapat (tingkah laku, dsb) orang lain tanpa mempunyai pendapat sendiri; 3 membuntuti; mengikuti atau menyertai dr belakang; pengekor n orang yg suka mengikuti atau menganut pendapat (tingkah laku dsb) orang lain begitu saja tanpa memikirkan lebih dahulu baik buruknya dsb)
 ekosistem /ékosistem/ n sistem kehidupan dl suatu lingkungan tertentu, terdiri atas komunitas dan faktor abiotik
 ekotipe /ékotipe/ n Bot populasi jenis yg menunjukkan ciri-ciri morfologi kimia atau fisiologi yg mantap yg mungkin dipengaruhi oleh faktor-faktor genetika yg ada hubungannya dng kondisi ekologi tertentu
 eks /éks/ a bekas; mantan
@@ -110,8 +105,7 @@ eksim /éksim/ ĺ eksem
 eksin /éksin/ n dinding paling luar serbuk sari, biasanya mempunyai pola permukaan yg khas untuk tiap jenis tumbuhan
 eksipien /éksipien/ n Far zat yg digunakan dl farmasi untuk mencampur obat supaya memperoleh bentuk yg lebih mudah digunakan
 eksistensi /éksisténsi/ n keberadaan
-eksitasi /éksitasi/ n Kim penambahan
-energi kepada suatu sistem sehingga sistem itu berpindah dr keadaan energi dasar ke keadaan energi yg lebih tinggi
+eksitasi /éksitasi/ n Kim penambahan energi kepada suatu sistem sehingga sistem itu berpindah dr keadaan energi dasar ke keadaan energi yg lebih tinggi
 ekskavasi /ékskavasi/ n penggalian (tt benda-benda kuno)
 eksklusif /éksklusif/ a 1 bersifat mengasingkan diri (tt orang); 2 tidak bersedia menerima atau mengizinkan masuknya anggota baru (tt kelompok atau perkumpulan); 3 tidak termasuk; keeksklusifan n perihal eksklusif pengeksklusifan n proses, cara, perbuatan mengeksklusifkan
 eksklusivisme /éksklusivisme/ n suatu paham tt kecerderungan untuk memisahkan diri dr masyarakat
@@ -161,8 +155,7 @@ ekstradisi /ékstradisi/ n Huk penyerahan orang yg dianggap melakukan tindak kri
 ekstrak /ékstrak/ n Kim 1 sediaan farmasi yg diperoleh dr jaringan hewan atau tumbuhan dng berbagai cara, msl ekstrak hati dan ekstrak ipeka; 2 sari tanaman yg dikeringkan atau dipekatkan
 ekstrak hati n Kim pekatan sari antianemi dr hati mamalia yg merang-sang pembentukan eritrosit dl sumsum tulang; sari hati
 ekstraksi /ékstraksi/ n Dok penarikan atau pencabutan; 2 ki pencurian; 3 ringkasan atau ikhtisar; kutipan kata-kata, contoh-contoh atau bagian-bagian dr buku; 4 turunan (dr suatu bangsa); 5 Kim proses pemisahan suatu bahan dr campurannya, biasanya dng menggunakan pelarut; pengekstraksi n alat untuk menyuling kayu dan memurnikan hasil-hasilnya yg digunakan dl industri
-ekstrem /ékstrém/ a 1 yg paling ujung (paling tinggi, paling keras, dsb); 2 ki keras dl pendirian; fanatik; keekstreman n 1 hal yg keterlaluan;
-ekstremitas; 2 kefanatikan
+ekstrem /ékstrém/ a 1 yg paling ujung (paling tinggi, paling keras, dsb); 2 ki keras dl pendirian; fanatik; keekstreman n 1 hal yg keterlaluan; ekstremitas; 2 kefanatikan
 ekstremis /ékstrémis/ n orang yg melampaui batas kebiasaan (hukum dsb) dl membela, menuntut sesuatu dsb
 ekstremitas /ékstrémitas/ n 1 keadaan yg amat sangat (tt kegirangan, kesedihan); 2 hal (tindakan, perbuatan) yg melewati batas (sangat keras dsb); keekstreman
 ekstrinsik /ékstrinsik/ a yg berasal dr luar; tidak merupakan bagian yg tidak terpisahkan dr sesuatu; yg tidak ter-masuk intinya
@@ -241,8 +234,7 @@ emang n paman
 emanometer /émanométer/ n Met alat untuk mengukur konsentrasi radar dl atmosfer
 emansipasi /émansipasi/ n 1 pembebasan dr perbudakan; 2 persamaan hak dl hukum (spt persamaan hak kaum wanita dng kaum pria)
 emansipatif /émasipatif/ a bersifat emansipasi
-emas (mas) n 1 logam mulia (logam yg mahal harganya, berwarna kuning mengkilap biasa dibuat perhiasan spt cincin, kalung); 2 ki uang; harta duniawi; 3 ki uang suap; 4 ki sesuatu yg tinggi mutunya (berharga; bernilai; mulia); utang -- dapat dibayar, utang budi dibawa mati, pb kebaikan hati orang akan diingat selama-- lamanya; tak -- bungkal diasah, pb tak peduli apa jua pun diperbuat, asal tercapai maksudnya; -- berpeti, kerbau berkandang, pb harta benda harus disimpan baik-baik di tempatnya masing-masing; -- --  juita ki kekasih; buah hati; -- kerajang emas kertas; perada; -- --  kertas
-emas yg dibentuk berhelai-- helai; -- lantak (-- --  lantakan) emas yg dibentuk berbatang-- batang; emas batangan; -- liplap emas tiruan atau emas palsu (imitasi); -- mentah emas yg belum diolah; -- muda emas yg rendah mutunya (biasanya berwarna kuning pucat; emas 14 karat); -- murni emas yg belum dicampur dng logam lain (emas 24 karat); emas tulen; -- padu emas yg sudah dibersihkan dan dilebur jadi bungkalan; -- perak 1 emas dan perak; 2 ki kekayaan; harta benda; -- putih logam mulia yg putih warnanya; platina; -- sepuluh mati emas tulen; -- tempaan 1 emas yg ditempa (emas yg baik); 2 kl ki puji-pujian kpd wanita yg elok parasnya; 3 ki kekasih; buah hati; emas juita; -- tua emas yg tinggi mutunya (tinggi kadar emasnya), 24 atau 23 karat; -- tulen emas yg belum dicampur dng logam lain (emas 24 karat); emas murni; -- urai emas yg halus berbutir-butir spt pasir; beremas v 1 memakai (perhiasan) emas; 2 mempunyai emas (berharta, kaya); mengemas v menyerupai emas (tt warna); mengemaskan v menukarkan dng emas; mengemasi v 1 melapisi dng emas; 2 ki menyogok; menyuap; peremasan kl n 1 barang-barang yg dibuat dr emas; 2 lapis emas; keemasan n 1 serba emas; yg dibuat (dilapisi, disalut, dsb) dng emas; 2 berwarna kuning mengkilap spt emas
+emas (mas) n 1 logam mulia (logam yg mahal harganya, berwarna kuning mengkilap biasa dibuat perhiasan spt cincin, kalung); 2 ki uang; harta duniawi; 3 ki uang suap; 4 ki sesuatu yg tinggi mutunya (berharga; bernilai; mulia); utang -- dapat dibayar, utang budi dibawa mati, pb kebaikan hati orang akan diingat selama-- lamanya; tak -- bungkal diasah, pb tak peduli apa jua pun diperbuat, asal tercapai maksudnya; -- berpeti, kerbau berkandang, pb harta benda harus disimpan baik-baik di tempatnya masing-masing; --  juita ki kekasih; buah hati; -- kerajang emas kertas; perada; --  kertas emas yg dibentuk berhelai-- helai; -- lantak (--  lantakan) emas yg dibentuk berbatang-- batang; emas batangan; -- liplap emas tiruan atau emas palsu (imitasi); -- mentah emas yg belum diolah; -- muda emas yg rendah mutunya (biasanya berwarna kuning pucat; emas 14 karat); -- murni emas yg belum dicampur dng logam lain (emas 24 karat); emas tulen; -- padu emas yg sudah dibersihkan dan dilebur jadi bungkalan; -- perak 1 emas dan perak; 2 ki kekayaan; harta benda; -- putih logam mulia yg putih warnanya; platina; -- sepuluh mati emas tulen; -- tempaan 1 emas yg ditempa (emas yg baik); 2 kl ki puji-pujian kpd wanita yg elok parasnya; 3 ki kekasih; buah hati; emas juita; -- tua emas yg tinggi mutunya (tinggi kadar emasnya), 24 atau 23 karat; -- tulen emas yg belum dicampur dng logam lain (emas 24 karat); emas murni; -- urai emas yg halus berbutir-butir spt pasir; beremas v 1 memakai (perhiasan) emas; 2 mempunyai emas (berharta, kaya); mengemas v menyerupai emas (tt warna); mengemaskan v menukarkan dng emas; mengemasi v 1 melapisi dng emas; 2 ki menyogok; menyuap; peremasan kl n 1 barang-barang yg dibuat dr emas; 2 lapis emas; keemasan n 1 serba emas; yg dibuat (dilapisi, disalut, dsb) dng emas; 2 berwarna kuning mengkilap spt emas
 emas ĺ mas
 emas n satuan berat emas murni sama dng 2,5 gram
 emat p kata peringatan dl permainan catur bahwa raja atau perdana menteri terancam bahaya; mengemat v membuat raja atau perdana menteri dl bahaya (dl permainan catur)
@@ -263,7 +255,7 @@ embaru n tumbuhan dadap laut, Hibiscus tiliacous
 embat v, mengembat v 1 memukul dng benda panjang tipis spt rotan; 2 mengambil dng cara yg tak sah (mencuri, mencopet); mengembatkan v memukulkan benda yg panjang tipis spt rotan dsb
 embel n paya-paya yg tertutup oleh rerumputan
 embel /émbél/ n, embel-embel tambahan (yg tidak penting); mengembeli v menyertai dng; menambahi dng; diembel-embeli v diberi tambahan dng
-embel- embelan n embel-embel
+embel-embelan n embel-embel
 ember /émbér/ n tempat air (terbuat dr plastik, seng, dsb) untuk menimba air dsb
 embih kl n panggilan kpd anak perempuan
 embik n bunyi kambing; mengembik v mengeluarkan bunyi embik (tt kambing)
@@ -279,9 +271,7 @@ embriologi /émbriologi/ n ilmu mengenai pembentukan, pertumbuhan pd tingkat per
 embuai kl n sebutan untuk perempuan pegawai istana
 embuh kl v mau; ingin : tak -- , tidak mau;
 embuh-embuhan tuah, untung-untungan saja; hidup segan, mati tak --, pb hidup merana, selalu sakit-sakit saja
-embun n 1 titik-titik air yg jatuh dr udara (pd malam hari); 2 uap yg menjadi titiktitik air; spt -- di atas daun, pb selalu berubah (tt niat, maksud); spt -- di ujung rumput, pb lekas hilang (tt cinta kasih dsb); -- betina embun yg kecil-kecil; -- jantan
-embun yg besar-besar; -- rintik embun yg kecil-kecil dan banyak; berembun v 1 ada embunnya; tersaput (oleh) embun; 2 membiarkan diri kena
-embun; mengembun v menjadi embun; menjadi titik-titik air (tt uap); mengembuni v membasahi dng titiktitik air; mengembunkan v menaruh di luar rumah supaya kena embun; memperembunkan v mengembunkan; pengembunan n perihal mengembunkan; ~ bertingkat Kim metode pemisahan campuran gas dng jalan menurunkan suhu atau menaikkan tekanan sehingga salah satu dr gas mengembun (menjadi titik-titik air)
+embun n 1 titik-titik air yg jatuh dr udara (pd malam hari); 2 uap yg menjadi titiktitik air; spt -- di atas daun, pb selalu berubah (tt niat, maksud); spt -- di ujung rumput, pb lekas hilang (tt cinta kasih dsb); -- betina embun yg kecil-kecil; -- jantan embun yg besar-besar; -- rintik embun yg kecil-kecil dan banyak; berembun v 1 ada embunnya; tersaput (oleh) embun; 2 membiarkan diri kena embun; mengembun v menjadi embun; menjadi titik-titik air (tt uap); mengembuni v membasahi dng titiktitik air; mengembunkan v menaruh di luar rumah supaya kena embun; memperembunkan v mengembunkan; pengembunan n perihal mengembunkan; ~ bertingkat Kim metode pemisahan campuran gas dng jalan menurunkan suhu atau menaikkan tekanan sehingga salah satu dr gas mengembun (menjadi titik-titik air)
 embung n tidak mau
 embung kl n anak laki-laki yg sulung
 embung n penampungan air hujan yg digunakan pd saat musim kemarau untuk tujuan irigasi dan air bersih
@@ -302,8 +292,7 @@ emisi /émisi/ n 1 pengiriman; 2 Fis penyinaran; pemancaran; pencurahan (cahaya,
 emol v, mengemol v 1 mengganggu atau menggoda orang lain; 2 bertindak atau melakukan sesuatu yg kurang sopan dan tanpa malu-malu
 emolien /émolién/ n Kim obat untuk melunakkan atau melemaskan kulit yg tegang
 emong v, mengemong v mengasuh dan melayani; mendidik; mengurus; pa(e)mong ĺ pamong
-emosi /émosi/ n 1 perasaan batin yg kuat; 2 keadaan dan reaksi psikologis dan fisiologis (spt kegembiraan, kesedihan, keharusan, kecintaan, keberanian yg bersifat subjektif); beremosi v mempunyai emosi; dng
-emosi
+emosi /émosi/ n 1 perasaan batin yg kuat; 2 keadaan dan reaksi psikologis dan fisiologis (spt kegembiraan, kesedihan, keharusan, kecintaan, keberanian yg bersifat subjektif); beremosi v mempunyai emosi; dng emosi
 emosional /émosional/ a 1 menyentuh perasaan; mengharukan; 2 dng emosi; beremosi; penuh emosi
 emosionalisme /émosionalismé/ a paham atau kecenderungan meninjau sesuatu secara emosional
 emotif /émotif/ a 1 tentang (berhubungan dng) emosi; 2 bersifat menimbulkan (membangkitkan) emosi
@@ -314,8 +303,7 @@ empap v, mengempap v 1 menindih atau menekan dng barang berat; memukul dsb dng b
 empap v 1 banting; lempar; empas; 2 berjudi dng melemparkan uang ke atas; pergi --, pulang eban, pb pulang pokok (tidak beruntung dan tidak merugi); mengempapkan v mengempaskan; terempap v jatuh terempas (tengkurap)
 empar /émpar/ a, mengempar 1 hanyut menyimpang dr tujuan (tt perahu dsb); miring atau menyerong ke luar; 2 berjalan dng kaki terbuang ke luar (ujungnya ke sisi)
 empas v, mengempas v 1 membantingkan atau menjatuhkan diri; 2 memukul pd (tt ombak); mengempaskan v membantingkan kuatkuat; mencampakkan; terempas-empas v terbanting-banting (dr satu tempat ke tempat lain)
-empat num bilangan sesudah tiga; -- mata dua orang atau berdua; berempat v berjumlah empat (empat banyaknya); perempatan n 1 bagian yg terjadi dr satu dibagi empat dr yg seutuhnya; 2 jalan simpang empat (dr empat arah); seperempat num satu dibagi empat (1/4): ~ jam lima belas menit; memperempat v membagi menjadi
-empat; keempat-empatnya n seluruhnya yg terdiri atas empat (orang dsb) -- persegi panjang n Mat segi empat yang semua sudutnya merupakan sudut siku-siku; persegi panjang
+empat num bilangan sesudah tiga; -- mata dua orang atau berdua; berempat v berjumlah empat (empat banyaknya); perempatan n 1 bagian yg terjadi dr satu dibagi empat dr yg seutuhnya; 2 jalan simpang empat (dr empat arah); seperempat num satu dibagi empat (1/4): ~ jam lima belas menit; memperempat v membagi menjadi empat; keempat-empatnya n seluruhnya yg terdiri atas empat (orang dsb) -- persegi panjang n Mat segi empat yang semua sudutnya merupakan sudut siku-siku; persegi panjang
 empati /émpati/ n kemampuan menghadapi perasaan dan pikiran orang lain
 empedal n kantung perut unggas (ayam, burung, dsb) tempat mencernakan makanan, sebelum makanan tiba ke dalam usus; ampela
 empedu n 1 benda cair berwarna cokelat kekuningan yg pahit rasanya (dihasilkan oleh hati untuk menolong menghancurkan makanan dl usus); 2 ki perkataan atau ucapan yg pedas dan menyakitkan hati (perasaan); bagai -- lekat di hati, pb sangat karib, tidak terceraikan (tt persahabatan, orang berkasih-kasihan, dsb)
@@ -346,14 +334,12 @@ empul kl a, mengempul v terkatungkatung tak dapat maju (tt perahu)
 empulur n bagian yg lunak dl batang tumbuh-tumbuhan (spt batang ubi kayu, tumbuh-tumbuhan palem)
 empunya kl n 1 tuannya (pemiliknya); 2 punya; mempunyai
 emrat /émrat/ ĺ embrat
-emulasi /émulasi/ n sifat atau cara persaingan yg sehat, biasanya di luar bidang
-ekonomi
+emulasi /émulasi/ n sifat atau cara persaingan yg sehat, biasanya di luar bidang ekonomi
 emulsi /émulsi/ n Kim cairan yg terbentuk dr campuran dua zat, zat yg satu terdapat dl keadaan terpisah secara halus atau merata di dl zat yg lain (spt persenyawaan zat-zat bergetah atau berlemak dng air); mengemulsi n membuat emulsi; pengemulsi n zat yg digunakan untuk memudahkan pembuatan emulsi dan selanjutnya menstabilkan emulsi itu; pengemulsian n proses, cara, perbuatan mengemulsi
 emulsifikasi /émulisifikasi/ n Kim proses pembuatan emulsi
 emut v, mengemut v mengulum (gula, tembakau, dsb)
 enak /énak/ a 1 sedap; lezat (tt rasa); 2 terasa sehat atau segar (tt kondisi badan); berenak-enak v bersenang-senang; berbuat sesuatu dng senangnya; asyik: dia ~ setelah bekerja seharian; mengenakkan v menjadikan enak; menyamankan; menyedapkan: ceramah dai itu selalu ~ hati para pendengarnya; memperenak v menjadikan lebih enak: suasana rumah makan itu ~ makan siang kami; keenakan 1 n kesenangan; kenyamanan; 2 a terlalu merasa enak
-enam num bilangan antara lima dan tujuh; jumlah lima ditambah satu; -- --  belas sepuluh ditambah enam; -- puluh bilangan kelipatan sepuluh berjumlah enam; berenam v berjumlah enam (banyaknya
-enam)
+enam num bilangan antara lima dan tujuh; jumlah lima ditambah satu; --  belas sepuluh ditambah enam; -- puluh bilangan kelipatan sepuluh berjumlah enam; berenam v berjumlah enam (banyaknya enam)
 enap n, mengenap v mengendap; mengumpul pd dasar air (tt bubuk-bubuk pd benda cair)
 enap a diam (tidak bergerak dan tidak berkata-kata)
 enau n aren; kabung, Arenga saccharifera; -- mencari (memanjat) sigai, pb perempuan mencari laki-laki; mati -- tinggal di rimba, pb orang kecil jika sudah mati namanya tidak akan disebut-sebut lagi
@@ -419,8 +405,7 @@ engget /énggét/ v, mengengget v mengambil sesuatu (buah-buahan, daun, pisang, 
 enggil kl n, berenggilan v bergerigi; beringgit-ringgit
 enggokan /énggokan/ n keluk (jalan, sungai, dsb); belokan
 engkah n perekat; lem; getah (untuk melekatkan kayu)
-engkah a, engkah-engkahan a 1 belum
-empuk (setengah masak tt sesuatu yg direbus); 2 mengkal; belum masak benar (tt buah-buahan)
+engkah a, engkah-engkahan a 1 belum empuk (setengah masak tt sesuatu yg direbus); 2 mengkal; belum masak benar (tt buah-buahan)
 engkak n burung gagak kecil
 engkang /éngkang/ a, mengengkang v berjalan dsb dng kaki terkangkang
 engkar /éngkar/ ĺ ingkar
@@ -431,8 +416,7 @@ engkong n kakek
 engku n 1 sebutan kpd keluarga raja; 2 sebutan (kata sapaan) untuk orang yg patut dihormati (guru dsb)
 engku n 1 paman (dr pihak ibu); mamak; 2 sebutan (kata sapaan) untuk kakek (datuk); angku
 engkuk n burung kecil yg berbunyi "kuk,kuk"
-engsel /éngsél/ n 1 sendi-sendi besi yg menghubungkan daun pintu (jendela) dng jejenangnya atau yg menghubung- kan tutup peti dng petinya dsb; 2 wesel pd rel jalan kereta api; berengsel v disambung dng engsel; ada
-engselnya
+engsel /éngsél/ n 1 sendi-sendi besi yg menghubungkan daun pintu (jendela) dng jejenangnya atau yg menghubung- kan tutup peti dng petinya dsb; 2 wesel pd rel jalan kereta api; berengsel v disambung dng engsel; ada engselnya
 enjak v, mengenjak v menginjak; memijak; mengenjak-enjak v mengentak-entakkan kaki
 enjal v, mengenjal v 1 jatuh terperenyak; 2 memantul; melenting; 3 menjejal mulut (dng makanan)
 enjam ĺ unjam
@@ -448,8 +432,7 @@ ensefalitis /énséfalitis/ n Dok radang otak
 ensefalitogen /énséfalitogén/ n Dok hal atau cara yg menyebabkan radang otak
 ensefalograf /énséfalograf/ n Dok alat rontgen yg menghasilkan gambaran otak (setelah cairan lubang leher digantikan suatu gas, biasanya udara)
 ensefalografi /énséfalografi/ n Dok metode, peralatan, dan pengetahuan yg berhubungan dng ensefalograf
-ensefalogram /énséfalogram/ n Dok gambar rontgen otak yg diperoleh dng
-ensefalograf
+ensefalogram /énséfalogram/ n Dok gambar rontgen otak yg diperoleh dng ensefalograf
 ensefalomielitis /énséfalomiélitis/ n Dok radang otak sumsum tulang belakang
 ensiklik /énsiklik/ n Kris surat yg ditulis oleh Paus untuk diedarkan secara luas
 ensiklopedi /énsiklopédi/ n buku atau seperangkat buku yg memberikan informasi mengenai tiap cabang ilmu pengetahuan atau suatu bidang, dng entri atau pasal-pasal yg tersusun menurut abjad
@@ -531,8 +514,7 @@ ereksi /éréksi/ n Dok pengerasan dan penegangan krn desakan darah (tt penis at
 ereng /éreng/ a miring; condong; serong; -- gendeng hal-hal yg menyalahi adat (tidak patut dsb); mengereng v miring; menyerong; terereng miring; condong
 eret /érét/ v, mengeret v 1 menyeret; menarik kuat-kuat: anak itu ~ kakinya yg sakit; 2 memikat hati (orang laki-laki atau perempuan) dng maksud untuk menguras harta bendanya; menipu: perempuan yg suka ~ tidak disukai orang;
 eretan n 1 yg dieret; 2 perahu tambangan (di kali); pengeretan n 1 kendaraan atau alat untuk membawa barang-barang dng dihela (ada yg beroda ada yg tidak); 2 orang yg pandai (suka) mengeret; penipu
-erepsin /érepsin/ n Kim nama campuran
-enzim yang terdapat dlm getah usus
+erepsin /érepsin/ n Kim nama campuran enzim yang terdapat dlm getah usus
 ereptase /éreptase/ n Kim erepsin
 erik n, mengerik v 1 menjerit; memekik keras; 2 mendering (tt gajah)
 ergosterin n Kim ergosterol
@@ -568,11 +550,9 @@ eskadron /éskadron/ n Mil 1 bagian dr resimen kavaleri yg berjumlah 120--200 or
 eskalasi /éskalasi/ n kenaikan; pertambahan (volume, jumlah, dsb); mengeskalasi v menaikkan; meningkat
 eskalator /éskalator/ n tangga berjalan yg membawa orang naik atau turun
 eskatologi /éskatologi/ n Ag ajaran teologi mengenai akhir zaman (hari kiamat, kebangkitan segala manusia dsb)
-eskatologis /éskatologis/ a Ag berdasarkan
-eskatologi
+eskatologis /éskatologis/ a Ag berdasarkan eskatologi
 esofagus /ésofagus/ n Anat pembuluh spt otot di leher yg menjadi jalan makanan masuk ke dlm perut besar
-esok /ésok/ adv hari sesudah hari ini; besok; -- hari besok; -- lusa hari sesudah besok; besok; esok; mengesokkan v menangguhkan sampai
-esok
+esok /ésok/ adv hari sesudah hari ini; besok; -- hari besok; -- lusa hari sesudah besok; besok; esok; mengesokkan v menangguhkan sampai esok
 esot /ésot/ v, mengesot v mengisut; bergerak maju atau ke samping dng pantat; mengesot-esot v bergerak beringsutingsut: orang cacat itu berjalan dng ~
 esoterik /ésotérik/ a bersifat khusus (rahasia, terbatas)
 estafet /éstafét/ n Olr perlombaan lari (renang) beranting (bersambung)
@@ -597,8 +577,7 @@ etimologi /étimologi/ n Dok ilmu yg mempelajari tt penyebab penyakit
 etimologis /étimologis/ a bersangkutan dng atau dipandang dr sudut etimologi
 etis /étis/ a 1 berhubungan (sesuai) dengan akhlak atau etika; 2 sesuai dng asas perilaku yg disepakati secara umum
 etnis /étnis/ a Antr berkenaan dng ilmu tt persebaran, keadaan jasmani, adat istiadat, dan cara hidup berbagai macam orang
-etnograf /étnograf/ n ahli perbandingan (adat-istiadat) bangsa-bangsa; ahli
-etnografi
+etnograf /étnograf/ n ahli perbandingan (adat-istiadat) bangsa-bangsa; ahli etnografi
 etnografi /étnografi/ n uraian ilmiah mengenai ras-ras manusia
 etnografis /étnografis/ a Antr berdasarkan (bersifat, secara) etnografi
 etnolinguistik /étnolinguistik/ n cabang linguistik yg menyelidiki hubungan antara bahasa dan masyarakat pedesaan atau masyarakat yg belum mempunyai tulisan

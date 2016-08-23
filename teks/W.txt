@@ -50,12 +50,7 @@ wakaf n 1 yayasan (yg didirikan atas dasar agama Islam); 2 sesuatu (kendaraan, t
 wakaf n jeda; tempat berhenti sebentar (waktu membaca ayat Quran)
 wakil n 1 orang yg dikuasakan menjadi pengganti (sulih) orang lain; 2 orang yg dipilih sbg utusan negara; duta; 3 orang yg menguruskan perdagangan dsb untuk orang lain; agen; 4 jabatan yg kedua setelah yg tersebut di belakangnya; -- nikah orang yg menggantikan pengantin laki-laki dl pernikahan; -- penjual
 wakil perusahaan/penjual yg bertugas menjualkan barang hasil perusahaan dan/atau membuat kontrak-kontrak penjualan; -- rakyat orang-orang yg duduk sbg anggota badan perwakilan rakyat; utusan rakyat; berwakil v menggunakan wakil; mewakili v bertindak sbg wakil; menyulihi; mewakilkan v menunjuk orang sbg wakil; terwakili v dapat diwakili; perwakilan n 1 segala sesuatu tt wakil; 2 kumpulan atau tempat wakil; 3 (kantor, urusan, dsb) wakil suatu negara sebelum ada duta; 4 (tempat atau kantor) wakil usaha; 5 seseorang atau kelompok yg mempunyai kemampuan atau kewajiban bicara bertindak atas nama kelompok yg lebih besar; pewakil n sesuatu atau seseorang yg mewakili
-waktu 1 n seluruh rangkaian saat ketika proses; perbuatan atau keadaan berada atau berlangsung; 2 n lamanya (saat yg tertentu); 3 n saat yg tertentu untuk melakukan sesuatu; 4 n kesempatan, tempo, peluang; 5 p ketika, saat; 6 n hari (keadaan hari); 7 n saat yg ditentukan berdasarkan pembagian bola dunia; -- berlaku waktu berlakunya surat-surat kredit atau untuk menggunakan dana kredit yg telah disediakan importir bagi eks- portir; -- duga berangkat perkiraan waktu berangkat kapal dr suatu tempat; -- duga tiba perkiraan waktu tiba kapal dr suatu tempat; -- garapan jumlah
-waktu yg diperlukan untuk menyelesaikan produk tertentu yg dihitung sejak proses produksi dimulai sampai proses produksi berakhir; -- getar saat yg ditentukan bergetar; -- lintas 1 waktu yg terpakai (dl sekon) dihitung dr saat proyektil meninggalkan meriam peluncur sampai saat ia mengenai sasaran atau meledak; 2 saat zarah meninggalkan sumber sampai ia tiba di detektor; -- paruh jumlah
-waktu yg diperlukan setengah bagian; -- pulih waktu minimum dr awal denyut berikutnya (dapat) mencapai persentase tertentu dr nilai maksimum pulsa terhitung dl pencacah Geiger; -- retensi saat atau waktu penyimpanan; -- standar
-waktu yg dipakai sbg acuan; -- setempat
-waktu di daerah tertentu, dihitung menurut zona waktu tempat daerah itu berada; berwaktu v mempunyai waktu yg tertentu; dng waktu yg tertentu; memakai
-waktu; pewaktu n alat untuk mengukur waktu yg dapat diset; sewaktu n 1 ketika; saat; 2 sama waktunya; sewaktu-waktu adv tidak tentu waktunya; kapan-kapan; bilamana saja
+waktu 1 n seluruh rangkaian saat ketika proses; perbuatan atau keadaan berada atau berlangsung; 2 n lamanya (saat yg tertentu); 3 n saat yg tertentu untuk melakukan sesuatu; 4 n kesempatan, tempo, peluang; 5 p ketika, saat; 6 n hari (keadaan hari); 7 n saat yg ditentukan berdasarkan pembagian bola dunia; -- berlaku waktu berlakunya surat-surat kredit atau untuk menggunakan dana kredit yg telah disediakan importir bagi eks- portir; -- duga berangkat perkiraan waktu berangkat kapal dr suatu tempat; -- duga tiba perkiraan waktu tiba kapal dr suatu tempat; -- garapan jumlah waktu yg diperlukan untuk menyelesaikan produk tertentu yg dihitung sejak proses produksi dimulai sampai proses produksi berakhir; -- getar saat yg ditentukan bergetar; -- lintas 1 waktu yg terpakai (dl sekon) dihitung dr saat proyektil meninggalkan meriam peluncur sampai saat ia mengenai sasaran atau meledak; 2 saat zarah meninggalkan sumber sampai ia tiba di detektor; -- paruh jumlah waktu yg diperlukan setengah bagian; -- pulih waktu minimum dr awal denyut berikutnya (dapat) mencapai persentase tertentu dr nilai maksimum pulsa terhitung dl pencacah Geiger; -- retensi saat atau waktu penyimpanan; -- standar waktu yg dipakai sbg acuan; -- setempat waktu di daerah tertentu, dihitung menurut zona waktu tempat daerah itu berada; berwaktu v mempunyai waktu yg tertentu; dng waktu yg tertentu; memakai waktu; pewaktu n alat untuk mengukur waktu yg dapat diset; sewaktu n 1 ketika; saat; 2 sama waktunya; sewaktu-waktu adv tidak tentu waktunya; kapan-kapan; bilamana saja
 wakwak n ungka; wawa
 walabi n binatang asli Australia
 walafiat kl a baik (tt kesehatan): sehat --, sehat dan baik
@@ -81,8 +76,7 @@ walrus n binatang sejenis anjing laut yg biasa hidup di laut Artik; Odobenus ros
 wals n nama tarian Barat
 waluku n bajak; luku; tenggala
 wambrau n nama angin yg kering dan panas
-wamil n akr wajib militer; mewamilkan n mewajibkan mengikuti
-wamil
+wamil n akr wajib militer; mewamilkan n mewajibkan mengikuti wamil
 wan n tuan -wan n sufiks (dl bahasa Indonesia berasal dr bahasa Sanskerta yg berfungsi membentuk pronomina yg bermakna orang yg gemar melakukan atau mempunyai hal (sifat) spt yg tersebut pd kata dasar: bangsawan; sukarelawan; rupawan
 wana n hutan
 wanara n kera; monyet
@@ -90,8 +84,7 @@ wanawisata n wisata yg tujuan atau sasarannya adalah hutan
 wanda n ngambaran mimik dan watak
 wandu n banci
 wangi a harum;
-wangi-wangian n barang atau benda yg baunya harum; wewangian;
-wewangian n wangi-wangian; mewangi v menimbulkan bau wangi; mewangikan v menjadikan wangi: bunga melati ini ~ ruangan kamarku; pewangi n bahan (sesuatu) yg membuat
+wangi-wangian n barang atau benda yg baunya harum; wewangian; wewangian n wangi-wangian; mewangi v menimbulkan bau wangi; mewangikan v menjadikan wangi: bunga melati ini ~ ruangan kamarku; pewangi n bahan (sesuatu) yg membuat
 wangi; kewangian 1 a terlalu wangi; 2 n keharuman; kewangi-wangian a agak wangi
 wangkang n jung kecil; perahu besar Cina
 wangsa kl n 1 keturunan raja; 2 bangsa
@@ -122,8 +115,7 @@ waria n pria yg bersifat dan bertingkah laku spt wanita; pria yg mempunyai peras
 warid v mengerjakan sebagaimana yg dilakukan oleh Nabi Muhammad saw
 warid n urat nadi
 waringin n beringin
-waris n 1 orang yg berhak menerima harta pusaka orang yg telah meninggal; 2 warisan; pusaka; harta peninggalan; -- asli waris yg sesungguhnya spt anak dsb; -- karib waris yg dekat kpd anak cucu dsb; -- sah penerima waris berdasarkan hukum (agama, adat); mewarisi v 1 memperoleh waris dr: adik ~ benar sifat ibu yg penyabar; 2 ki memperoleh sesuatu yg ditinggalkan; mewariskan v 1 memberikan pusaka kpd; meninggalkan sesuatu kpd: kakek ~ sawahnya kpd bapak; 2 menjadikan
-waris;
+waris n 1 orang yg berhak menerima harta pusaka orang yg telah meninggal; 2 warisan; pusaka; harta peninggalan; -- asli waris yg sesungguhnya spt anak dsb; -- karib waris yg dekat kpd anak cucu dsb; -- sah penerima waris berdasarkan hukum (agama, adat); mewarisi v 1 memperoleh waris dr: adik ~ benar sifat ibu yg penyabar; 2 ki memperoleh sesuatu yg ditinggalkan; mewariskan v 1 memberikan pusaka kpd; meninggalkan sesuatu kpd: kakek ~ sawahnya kpd bapak; 2 menjadikan waris;
 warisan n sesuatu yg diwariskan, spt nama baik, harta, harta pusaka pewaris n orang yg mewariskan; pewarisan n proses, cara, perbuatan mewariskan
 waris a untung; selalu mujur
 warita ark n 1 berita; kabar; 2 cerita
@@ -137,8 +129,7 @@ warnet n akr warung internet
 warok n pendekar yg disegani
 warsa n tahun
 warta n berita; kabar; -- berita berbagai kabar; -- harian surat kabar yg terbit setiap hari; -- sepekan majalah, tabloid yg terbit seminggu sekali; mewartakan v menyampaikan kabar; memberitahukan; mengabarkan; pewarta n yg mewartakan; pewartaan n proses, cara, perbuatan mewartakan
-wartawan n orang yg pekerjaannya mencari berita untuk mengisi surat kabar dan majalah; jurnalis; -- foto wartawan pencari berita dng menggunakan kamera; -- lepas wartawan yg tidak menjadi staf tetap salah satu surat kabar, tetapi hanya menyumbangkan tulisan-tulisan mewakili beberapa penerbitan pers; kewartawanan n yg berhubungan dng
-wartawan
+wartawan n orang yg pekerjaannya mencari berita untuk mengisi surat kabar dan majalah; jurnalis; -- foto wartawan pencari berita dng menggunakan kamera; -- lepas wartawan yg tidak menjadi staf tetap salah satu surat kabar, tetapi hanya menyumbangkan tulisan-tulisan mewakili beberapa penerbitan pers; kewartawanan n yg berhubungan dng wartawan
 wartawati n wartawan wanita
 waru n pohon yg tumbuh di tempat yg lembap, warnanya biru ke abu-abuan, pohon yg dipakai sbg pohon peneduh, kulit bagian dalam sangat ulet baik dipakai sbg tali; Hibiscus tiliaceus
 waruga n badan, jasad
@@ -174,9 +165,7 @@ watu n batu
 wau n 1 layang-layang dr kertas; 2 nama sebangsa burung krn berbunyi demikian
 wau n huruf Arab ke-26
 wawa n kera yg tangannya panjang, tetapi tidak berekor biasa mengeluarkan suara "wau, wau" dng keras; ungka; Hylobateslar (agilis)
-wawancara n 1 pertemuan wartawan dng seseorang (pejabat dsb) yg diperlukan untuk dimintai keterangan atau pendapatnya mengenai suatu hal untuk dimuat dl surat kabar; 2 pertemuan tanya jawab direksi (kepala personalia, kepala humas) perusahaan dng pelamar pekerjaan; 3 pertemuan tanya jawab peneliti dng informan untuk tanya jawab, spt antara majikan dan orang yg melamar pekerjaan; -- bebas wawancara yg susunan pertanyaan tidak ditentukan lebih dahulu dan pembicaraannya bergantung pd suasana
-wawancara; -- individual wawancara yg dilakukan oleh seseorang (pewawancara) dng responden tunggal; -- kelompok
-wawancara yg dilakukan terhadap sekelompok orang dl waktu yg bersamaan; -- terbuka wawancara yg berdasarkan pertanyaan yg tidak terbatas (tidak terikat) jawabannya; -- terpimpin wawancara dng memakai pertanyaan-pertanyaan yg sudah disiapkan sebelumnya; -- tertutup wawancara yg berdasarkan pertanyaan yg terbatas jawabannya; berwawancara v mengadakan tanya jawab atau wawancara mengenai hal-hal yg dianggap penting untuk diketahui; mewawancarai v meminta keterangan atau pendapat seseorang mengenai suatu hal; terwawancara n orang yg diwawancarai; pewawancara n orang yg mewawancarai
+wawancara n 1 pertemuan wartawan dng seseorang (pejabat dsb) yg diperlukan untuk dimintai keterangan atau pendapatnya mengenai suatu hal untuk dimuat dl surat kabar; 2 pertemuan tanya jawab direksi (kepala personalia, kepala humas) perusahaan dng pelamar pekerjaan; 3 pertemuan tanya jawab peneliti dng informan untuk tanya jawab, spt antara majikan dan orang yg melamar pekerjaan; -- bebas wawancara yg susunan pertanyaan tidak ditentukan lebih dahulu dan pembicaraannya bergantung pd suasana wawancara; -- individual wawancara yg dilakukan oleh seseorang (pewawancara) dng responden tunggal; -- kelompok wawancara yg dilakukan terhadap sekelompok orang dl waktu yg bersamaan; -- terbuka wawancara yg berdasarkan pertanyaan yg tidak terbatas (tidak terikat) jawabannya; -- terpimpin wawancara dng memakai pertanyaan-pertanyaan yg sudah disiapkan sebelumnya; -- tertutup wawancara yg berdasarkan pertanyaan yg terbatas jawabannya; berwawancara v mengadakan tanya jawab atau wawancara mengenai hal-hal yg dianggap penting untuk diketahui; mewawancarai v meminta keterangan atau pendapat seseorang mengenai suatu hal; terwawancara n orang yg diwawancarai; pewawancara n orang yg mewawancarai
 wawanmuka n temu muka; berwawanmuka v berhadap-hadapan; saling mengenali
 wawanrembuk n tukar pendapat; perundingan
 wawas, mewawas (= mawas) v meneliti; meninjau;
@@ -190,8 +179,7 @@ wazir kl n perdana menteri
 web /wéb/ n sistem untuk mengakses, memanipulasi, dan mengunduh dokumen hipertaut yg terdapat dl komputer yg dihubungkan melalui internet
 weber /wéber/ n Fis satuan fluks imbas magnetik
 Weda /wéda/ n kitab suci orang Hindu yg ditulis dl bahasa Sanskerta
-wedana n pembantu pimpinan wilayah Daerah Tingkat II (Kabupaten) membawahkan beberapa camat; pembantu bupati; kawedanan n daerah (kantor, rumah)
-wedana
+wedana n pembantu pimpinan wilayah Daerah Tingkat II (Kabupaten) membawahkan beberapa camat; pembantu bupati; kawedanan n daerah (kantor, rumah) wedana
 wedang /wédang/ n air matang (panas);
 wedangan v duduk-duduk sambil minum air teh dsb: paman gemar ~ di warung itu kalau malam
 wedani n nama tumbuhan merambat, Quisqualis indica
@@ -272,7 +260,7 @@ wiru n lipatan-lipatan (pd kain dsb); berwiru-wiru v berlipatan-lipatan; mewiru 
 wir-wir ĺ uir-uir
 wisa n bisa; racun
 wisana n akhir; kesudahan
-wisata v 1 bepergian bersama-sama (untuk memperluas pengetahuan, bersenang-senang, dsb); bertamasya; 2 piknik; -- bahari berwisata untuk menikmati alam laut; -- --  edukatif wisata untuk memperdalam atau lebih memahami suatu objek agar menambah wawasan, dan pengetahuan, baik budaya maupun teknologi; -- budaya wisata dng tujuan mengenal hasil kebudayaan setempat; -- karya kunjungan kerja; tur; -- kuliner wisata yg dilakukan untuk menikmati aneka ragam masakan dr berbagai daerah; -- niaga wisata dng objek yg bersifat komersial, msl pameran dagang atau industri; -- puri
+wisata v 1 bepergian bersama-sama (untuk memperluas pengetahuan, bersenang-senang, dsb); bertamasya; 2 piknik; -- bahari berwisata untuk menikmati alam laut; --  edukatif wisata untuk memperdalam atau lebih memahami suatu objek agar menambah wawasan, dan pengetahuan, baik budaya maupun teknologi; -- budaya wisata dng tujuan mengenal hasil kebudayaan setempat; -- karya kunjungan kerja; tur; -- kuliner wisata yg dilakukan untuk menikmati aneka ragam masakan dr berbagai daerah; -- niaga wisata dng objek yg bersifat komersial, msl pameran dagang atau industri; -- puri
 wisata yg objeknya adalah puri (istana) dng segala isi dan kegiatannya; berwisata v melakukan perjalanan wisata
 wisatawan n orang yg berdarmawisata; pelancong; turis
 wisaya n 1 jerat penangkap binatang; 2 sihir
@@ -291,8 +279,7 @@ wiyaga n penabuh gamelan
 wiyata ark n pengajaran; pelajaran; -- praja jawatan urusan pengajaran
 wizurai kl n raja muda sebangsa gubernur jenderal
 wodka n arak Rusia
-wol n bulu binatang yg halus; bulu domba untuk bahan pakaian (baju hangat, jas, celana) dsb; -- apkir bulu wol yg cacat krn terdapat noda-noda dng warna yg tidak disenangi; -- karpet wol kasar bermutu rendah, umumnya berasal dr domba potong yg dipergunakan sbg bahan pembuat karpet atau keset, biasanya berasal dr Asia; -- kasar wol yg agak kasar dan kuat serabut-serabutnya biasanya berasal domba Merino di Australia; -- kasur wol yg empuk bila ditekan memantul, tampak tebal, besar, tetapi ringan; -- lacakan wol tidak seragam, bercampur rambut dan potongan wol kasar; -- terak wol dng leburan logam spt batu kaca; -- timbul
-wol kasar
+wol n bulu binatang yg halus; bulu domba untuk bahan pakaian (baju hangat, jas, celana) dsb; -- apkir bulu wol yg cacat krn terdapat noda-noda dng warna yg tidak disenangi; -- karpet wol kasar bermutu rendah, umumnya berasal dr domba potong yg dipergunakan sbg bahan pembuat karpet atau keset, biasanya berasal dr Asia; -- kasar wol yg agak kasar dan kuat serabut-serabutnya biasanya berasal domba Merino di Australia; -- kasur wol yg empuk bila ditekan memantul, tampak tebal, besar, tetapi ringan; -- lacakan wol tidak seragam, bercampur rambut dan potongan wol kasar; -- terak wol dng leburan logam spt batu kaca; -- timbul wol kasar
 wolanda ark n Belanda
 wolfram n 1 logam berwarna hitam kelabu yg tahan panas, biasa dipakai sbg bahan industri lampu pijar; 2 Kim unsur dng nomor atom 74, lambang w, dan BA= 183, 85; logam berat kelabu kehitaman, keras, dan getas; tungsten
 worawari n bunga sepatu

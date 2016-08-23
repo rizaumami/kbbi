@@ -24,11 +24,9 @@ faksionalisme n paham yg berhubungan dng faksi
 fakta n hal (keadaan, peristiwa) yg merupakan kenyataan; sesuatu yg benar-benar ada atau terjadi
 faktor n 1 hal (keadaan, peristiwa) yg ikut menyebabkan (mempengaruhi) terjadinya sesuatu; 2 bilangan (atau bangun) yg merupakan bagian hasil perbanyakan; -- agihan Fis perubahan pengaruh sinaran (radiasi) sistem biologi yg disebabkan oleh agihan takseragam dr radioisotop yg masuk ke, dan mengeram di, dl sistem itu, spt radium yg cenderung mengumpul di tulang; faktor distribusi; -- awacemaran Fis nisbah keradioaktifanjenis awal thd keradioaktifan-- jenis akhir sebagai akibat pemisahan; faktor dekontaminasi; -- bilangan bulat Mat bilangan bulat yg menjadi faktor dr satu atau lebih bilangan bulat yg diberikan; -- biotik
 faktor lingkungan yg merupakan hasil dr organisme hidup dl kegiatan berbeda dr
-faktor fisik kimia, spt persaingan dan predasi; -- diabetogen Kim faktor yg menimbulkan gejala diabetes hiperglikemia, glukosuria, dan hetosis), yg melawan kerja hormon insulin; -- edafilik keadaan tanah yg berpengaruh thd tumbuhan (ditentukan oleh faktor fisik, kimiawi, tumbuhan, dan hewan tanah); -- ekologi setiap kondisi lingkungan yg memengaruhi kehidupan satu atau lebih organisme; -- derau Fis nisbah daya derau total per satuan lebar-pita ke terminal keluaran pd
-frekuensi keluaran yg bersangkutan, thd sebagian dr daya derau tsb yg dihasilkan oleh terminasi masukan pd frekuensi isyarat masuk pd suhu derau standar 290 K; gambaran derau; -- emisi Kim nisbah banyaknya pencemar yg diluahkan thd pencemar yg dihasilkan; -- fungsional Man faktor yg berpengaruh langsung thd pelaksanaan dan hasil pelaksanaan suatu pekerjaan; -- gesekan Kim bilangan tanpa dimensi yg digunakan dl pengkajian gejala gesekan; -- integral Mat pd persamaan diferensial, suatu fungsi yg apabila dikalikan dng persamaan diferensial, maka persamaan diferensial tsb dapat diintegralkan; -- intrinsik Kim faktor mut- lak diperlukan dl suatu proses, msl mukoprotein dl getah lambung yg bersenyawa dng vitamin B12 bebas dan membantu absorpsi vitamin itu dr dl usus; faktor hakiki; -- kebolehjadian Kim faktor (tetapan) yg berharga satu untuk fungsi gelombang yg normal atau ternormalkan; faktor probabilitas; -- keruh Met perbandingan antara koefisien penghilangan atmosfer sejati dan koefisien penghilangan molekul; -- kompresibilitas Kim faktor penunjuk penyimpangan gas dr sifat keidealan (faktor ini berharga satu untuk gas ideal) yg merupakan fungsi dr temperatur dan tekanan; -- konversi faktor yg dipakai untuk mengkonversi satuan fisik spt liter, barel, ton, dan kubik untuk dijadikan satuan energi spt joule, btu, kesetaraan thd batu bara (tce), kesetaraan thd minyak bumi (boe atau toe); -- lingkungan faktor fisika, kimia, hayati, budaya, estetika, dan lain-lain yg memberikan sumbangan kpd kualitas hidup; -- motivasi Man
+faktor fisik kimia, spt persaingan dan predasi; -- diabetogen Kim faktor yg menimbulkan gejala diabetes hiperglikemia, glukosuria, dan hetosis), yg melawan kerja hormon insulin; -- edafilik keadaan tanah yg berpengaruh thd tumbuhan (ditentukan oleh faktor fisik, kimiawi, tumbuhan, dan hewan tanah); -- ekologi setiap kondisi lingkungan yg memengaruhi kehidupan satu atau lebih organisme; -- derau Fis nisbah daya derau total per satuan lebar-pita ke terminal keluaran pd frekuensi keluaran yg bersangkutan, thd sebagian dr daya derau tsb yg dihasilkan oleh terminasi masukan pd frekuensi isyarat masuk pd suhu derau standar 290 K; gambaran derau; -- emisi Kim nisbah banyaknya pencemar yg diluahkan thd pencemar yg dihasilkan; -- fungsional Man faktor yg berpengaruh langsung thd pelaksanaan dan hasil pelaksanaan suatu pekerjaan; -- gesekan Kim bilangan tanpa dimensi yg digunakan dl pengkajian gejala gesekan; -- integral Mat pd persamaan diferensial, suatu fungsi yg apabila dikalikan dng persamaan diferensial, maka persamaan diferensial tsb dapat diintegralkan; -- intrinsik Kim faktor mut- lak diperlukan dl suatu proses, msl mukoprotein dl getah lambung yg bersenyawa dng vitamin B12 bebas dan membantu absorpsi vitamin itu dr dl usus; faktor hakiki; -- kebolehjadian Kim faktor (tetapan) yg berharga satu untuk fungsi gelombang yg normal atau ternormalkan; faktor probabilitas; -- keruh Met perbandingan antara koefisien penghilangan atmosfer sejati dan koefisien penghilangan molekul; -- kompresibilitas Kim faktor penunjuk penyimpangan gas dr sifat keidealan (faktor ini berharga satu untuk gas ideal) yg merupakan fungsi dr temperatur dan tekanan; -- konversi faktor yg dipakai untuk mengkonversi satuan fisik spt liter, barel, ton, dan kubik untuk dijadikan satuan energi spt joule, btu, kesetaraan thd batu bara (tce), kesetaraan thd minyak bumi (boe atau toe); -- lingkungan faktor fisika, kimia, hayati, budaya, estetika, dan lain-lain yg memberikan sumbangan kpd kualitas hidup; -- motivasi Man
 faktor yg mempengaruhi perasaan para karyawan tt pekerjaan, msl sifat pekerjaan, prestasi kerja, dan tanggung jawab; -- pembatas Ikn segala komponen lingkungan yg esensial bagi kehidupan dan pertumbuhan yg berada dl keadaan kurang sehingga menghambat produksi, spt suhu dan penyinaran yg terlalu rendah, penyediaan oksigen yg tidak cukup, dan kurangnya zat makanan pokok; -- pendorong hal atau kondisi yg dapat mendorong atau menumbuhkan suatu kegiatan usaha atau produksi; -- pembatas 1 faktor yg ketiadaannya, atau konsentrasinya yg berlebihan, menimbulkan suatu pengaruh penahan (pengekang) atas suatu populasi melalui kebertentangannya dng kebutuhan atau toleransi spesies; 2 faktor intrinsik dan ekstrinsik yg membatasi proses fisologi dan proses populasi; -- persekutuan Mat bilangan bulat yg dapat membagi dua atau lebih bilangan bulat yg lain tanpa sisa; pembagi persekutuan; -- prima Mat faktor bilangan bulat yang merupakan bilangan prima; -- skala Kim parameter variabel yg harus disesuaikan (diatur) sehingga memberikan energi minimum bagi elektron dng fungsi gelombang tertentu; -- sterik Kim faktor untuk mengukur persyaratan geometrik yang diperlukan agar dua molekul yang bertabrakan dapat berinteraksi; -- struktur Kim faktor penentu struktur kristal yg harganya ditentukan oleh suku eksponensial yg bergantung pd posisi atom dan
-faktor hamburan atom; -- transmisi Fis nisbah fluks besaran yg menerusi benda thd fluks masuk; transmitans; pemfaktoran n Mat proses penguraian suatu bilangan atas faktor-faktornya; memfaktor v Mat menguraikan ke dalam
-faktor;
+faktor hamburan atom; -- transmisi Fis nisbah fluks besaran yg menerusi benda thd fluks masuk; transmitans; pemfaktoran n Mat proses penguraian suatu bilangan atas faktor-faktornya; memfaktor v Mat menguraikan ke dalam faktor;
 faktorial a berkenaan dng faktor
 faktual a berdasarkan kenyataan; mengandung kebenaran: film itu diangkat berdasarkan cerita -- faktur n daftar barang kiriman yg dilengkapi keterangan nama, jumlah, dan harga yg harus dibayar; -- penjualan faktur yg dibuat oleh penjual dan dikirimkan kpd pembeli; -- dagang Dag faktur yg diperdagangkan dl perniagaan internasional;
 fakultas n bagian dr perguruan tinggi yg mempelajari bidang ilmu tertentu
@@ -48,8 +46,7 @@ fantasi n 1 gambar (bayangan) rekaan dl angan-angan; khayal; 2 daya untuk mencip
 fantastis a 1 bersifat fantasi; tidak nyata; 2 tidak masuk akal; 3 sangat luar biasa; sangat hebat
 fantom n Fis volume bahan yg rapat massa dan nomor atom efektifnya mendekati sebaik mungkin rapat dan nomor atom efektif jaringan hidup, yg dipakai dl percobaan biologi yang menggunakan penyinaran nuklir
 farad n satuan kapasitas listrik
-faraday n Kim besaran dng simbol F yang menyatakan muatan yang dibawa oleh satu bobot ekuivalen dr ion; tetapan
-Faraday
+faraday n Kim besaran dng simbol F yang menyatakan muatan yang dibawa oleh satu bobot ekuivalen dr ion; tetapan Faraday
 faraid n aturan pembagian harta pusaka
 faraj Ar n kemaluan perempuan; parji
 farak Ar n hal yg berlainan dng yg lain; kelainan; perbedaan
@@ -57,8 +54,7 @@ fardu n yg wajib dilakukan (menurut agama Islam); kewajiban; -- ain kewajiban pe
 farik a berbeda; nyata bedanya
 faring n bagian belakang mulut yg sekaligus merupakan bagian atas tenggorokan; hulu kerongkongan
 farinograf n Kim alat pencampur adonan roti yg dilengkapi perekam yg dirancang untuk mengukur secara kualitatif dan merekam secara otomatis sifat berbagai gandum dl membentuk bahan roti pd berbagai suhu -- Brabender n Kim alat yang digunakan untuk menguji sifat fisik perekat
-farisi n para penganut aliran agama Yahudi zaman dahulu yg terkenal sangat
-fanatik kpd ajaran-ajaran agamanya
+farisi n para penganut aliran agama Yahudi zaman dahulu yg terkenal sangat fanatik kpd ajaran-ajaran agamanya
 farmakodinamika n Kim kajian mengenai kerja dan kaitan obat dl jasad
 farmakokinetika /farmakokinétika/ n Kim pengetahuan tentang absorpsi, distribusi, metabolisme dan ekskresi obat di dalam tubuh
 farmakologi n Far kajian mengenai obat-obatan, asal-usulnya, susunan, dan kesannya pada organisme hidup (farmakodinamika)
@@ -92,11 +88,9 @@ fatur v membatalkan puasa dng makan atau minum pd siang hari
 fatwa n 1 keputusan perkara agama Islam yg diberikan oleh mufti atau alim ulama tt suatu masalah; 2 ki nasihat orang alim; pelajaran baik; petuah; berfatwa v memberi fatwa; memfatwakan v memberikan fatwa; menasihatkan; memberikan petuah
 fauna n dunia hewan -- tropis hewan yg terdapat di daerah tropis
 favorit n 1 yg diharapkan (dijagokan, diunggulkan) untuk menjadi juara; 2 yg sangat disukai; yg sangat dikagumi; yg sangat digemari; 3 kesayangan; kegemaran
-favoritisme n gejala pemujaan masyarakat thd seorang bintang olahraga, bintang
-film, dsb
+favoritisme n gejala pemujaan masyarakat thd seorang bintang olahraga, bintang film, dsb
 fe /fé/ n lambang untuk unsur besi (ferum)
-febrin /fébrin/ n protein darah yg tidak dapat beku, yg dihasilkan dr hidrolisis
-fibrinogen oleh kerja trombin
+febrin /fébrin/ n protein darah yg tidak dapat beku, yg dihasilkan dr hidrolisis fibrinogen oleh kerja trombin
 Februari /Fébruari/ n bulan ke-2 dl tahun Masehi
 federal /féderal/ a berpemerintahan sipil yg beberapa negara bagian membentuk kesatuan dan setiap negara bagian memiliki kebebasan dl mengurus persoalan di dl negerinya
 federalis /féderalis/ n penganut paham federasi (yg menghendaki ketatanegaraan berbentuk federal)
@@ -125,14 +119,12 @@ fenomen biologis (msl perpindahan burung atau pertumbuhan pd tanaman)
 fenolsulfonftalein /fénolsulfonftaléin/ n Kim bubuk kristal merah menyala sampai merah tua; larut sedikit sekali dl air, alkohol, dan aseton
 fenomena /fénomena/ n 1 hal-hal yg dapat disaksikan dng pancaindria, dan dapat diterangkan serta dinilai secara ilmiah, spt
 fenomena alam; gejala; 2 orang kejadian, benda, dsb) yg menarik perhatian atau luar biasa sifatnya; sesuatu yg lain dp yg lain; 3 fakta; kenyataan
-fenomenologi /fénoménologi/ n ilmu tt perkembangan kesadaran dan pengenalan diri manusia sbg ilmu yg mendahului
-filsafat
+fenomenologi /fénoménologi/ n ilmu tt perkembangan kesadaran dan pengenalan diri manusia sbg ilmu yg mendahului filsafat
 fenotiazina /fénotiazina/ n Kim hablur kuning muda atau tanpa warna, yg pd penyingkapan terhadap udara berubah menjadi hijau zaitun; tiodifenilamina; C12H9NH
 feodal /féodal/ a 1 berhubungan dng susunan masyarakat yg dikuasai oleh kaum bangsawan; 2 tt sikap, cara hidup, dsb bangsawan
 feodalisme /féodalisme/ n 1 sistem sosial atau politik yg memberikan kekuasaan yg besar kpd golongan bangsawan; 2 sistem sosial yg mengagung-agungkan jabatan atau pangkat dan bukan mengangungagungkan prestasi kerja
 feodalistis /féodalistis/ a bersifat feodal
-feredoksin /férédoksin/ n Kim 1 besi bukan heme yg mengandung protein yg mempunyai potensial reduksi yg rendah dan yg pertama-tama berfungsi sebagai akseptor elektron dl fotosintesis ataupun
-fiksasi nitrogen; 2 protein yg mengandung besi yg diduga terlibat dl fotosintesis sbg suatu penerima elektron kayaenergi dr klorofil; terdapat dl tumbuhan berhijau daun dan juga dl bakteri yg metabolisme hidrogen unsur
+feredoksin /férédoksin/ n Kim 1 besi bukan heme yg mengandung protein yg mempunyai potensial reduksi yg rendah dan yg pertama-tama berfungsi sebagai akseptor elektron dl fotosintesis ataupun fiksasi nitrogen; 2 protein yg mengandung besi yg diduga terlibat dl fotosintesis sbg suatu penerima elektron kayaenergi dr klorofil; terdapat dl tumbuhan berhijau daun dan juga dl bakteri yg metabolisme hidrogen unsur
 feri /féri/ n kapal khusus untuk penyeberangan di selat atau di sungai, yg bagian buritan dan lambungnya dapat dibuka untuk menaikkan dan menurunkan penumpang, barang, atau kendaraan; kapal terbang
 ferit /férit/ n Fis garam takorganik dng sifat-sifat megnetiknya takisotrop; huruf L melambangkan logam dwiharkat (divalen); perimagnetisme
 feritin n Kim kompleks ferum(III)-hidroksidafosfat-protein (mengandung 23% besi) yg terdapat dl sel mukosa usus, hati, limpa, dan sumsum tulang; bentuk suplai besi
@@ -177,8 +169,7 @@ figuratif a bersifat hiasan atau lambang
 fiil n perbuatan; tabiat; tingkah laku; perangai
 fikih n ilmu tt hukum Islam
 fikosianin n kelompok zat warna terdiri atas warna merah dan biru bersama klorofil terdapat pd ganggang merah dan ganggang hijau; berfungsi menyerap energi cahaya dl proses fotosintesis
-fiksasi n Kim 1 proses mencuci film, yakni melarutkan garam-garam perak yg pekacahaya sehingga film itu tidak peka lagi terhadap cahaya (dlm fotografi); 2 mengikat nitrogen dr udara menjadi senyawa yg berguna (dalam industri petrokimia dan akar kacang-kacangan); 3 reaksi kimia yg mengubah gas dr dl udara menjadi senyawa anorganik atau organik; 4 sediaan jaringan untuk studi sitologi atau histologi dng mengubah zat-zat pd sel menjadi komponen tidak larut, dng kemungkinan adanya sedikit perubahan pd struktur biologi aslinya; 5 pembuatan senyawa takmenguap, padat, atau takterlepas; misalnya butiran perak bromida dl
-fotografi -- nitrogen simbiotik Kim pengubahan nitrogen udara menjadi amonia dng kerja gabungan antara tumbuhan dan bakteri, terutama antara tumbuhan leguminosa dan bakteri Rhizobium
+fiksasi n Kim 1 proses mencuci film, yakni melarutkan garam-garam perak yg pekacahaya sehingga film itu tidak peka lagi terhadap cahaya (dlm fotografi); 2 mengikat nitrogen dr udara menjadi senyawa yg berguna (dalam industri petrokimia dan akar kacang-kacangan); 3 reaksi kimia yg mengubah gas dr dl udara menjadi senyawa anorganik atau organik; 4 sediaan jaringan untuk studi sitologi atau histologi dng mengubah zat-zat pd sel menjadi komponen tidak larut, dng kemungkinan adanya sedikit perubahan pd struktur biologi aslinya; 5 pembuatan senyawa takmenguap, padat, atau takterlepas; misalnya butiran perak bromida dl fotografi -- nitrogen simbiotik Kim pengubahan nitrogen udara menjadi amonia dng kerja gabungan antara tumbuhan dan bakteri, terutama antara tumbuhan leguminosa dan bakteri Rhizobium
 fiksi n 1 cerita rekaan (roman, novel, dsb); 2 tidak berdasarkan kenyataan; rekaan; khayalan
 fiktif a bersifat fiksi
 filamen n Kim benda berbentuk benang halus; misalnya, filamen karbon atau logam dlm lampu pijar, filamen kromatin dlm inti sel
@@ -186,8 +177,7 @@ filantrop n pencinta kemanusiaan; dermawan
 filantropi n cinta kasih (kedermawanan dsb) kpd sesama
 filantropis a bersifat filantropi; berdasarkan cinta kasih thd sesama manusia
 filaria n cacing benang
-filariasis n penyakit yg disebabkan oleh
-filaria
+filariasis n penyakit yg disebabkan oleh filaria
 filateli n 1 kumpulan dan penyelidikan tt prangko dan meterai; 2 pengumpulan prangko
 filatelis n 1 orang yg ahli dl filateli; 2 orang yg gemar mengumpulkan dan menyelidiki prangko
 filial n cabang (spt sekolah, perusahaan); bagian perusahaan yg berkedudukan tersendiri (terutama tt perusahaan perbankan dan pertokoan); anak perusahaan
@@ -197,8 +187,7 @@ film n 1 selaput tipis yg dibuat dr seluloid untuk tempat gambar negatif (yg aka
 filodulsin n Kim 1,2,3,4,5,6-heksanaheksol yg terdapat pd berbagai daun dng rumus C6H8(OH)6; -- berozon n Kim dulsitol (1,2,3,4,5,6heksanaheksol) yg diperoleh dr dedaunan dan dibubuhi ozon dng rumus C6H8(OH)6 + O3/2
 filolog n ahli filologi
 filologi n ilmu tt kebudayaan manusia, terutama dng menelaah karya-karya sastra lama atau sumber-sumber tertulis
-filologis a mengenai (berdasarkan, secara)
-filologi
+filologis a mengenai (berdasarkan, secara) filologi
 filopur n merk dagang untuk alat penyaring air tawar (guna membersihkan air dr kotoran atau bakteri)
 filosilikat n Kim struktur mineral silikat yg berupa lapisan-lapisan yg terbentuk dng jalan penggunaan bersama tiga atom oksigen pd tetrahedron yg berdekatan (bersebelahan); silikat lapis; mineral lembar; silikat lembar
 filosof n ahli pikir; ahli filsafat; filsuf
@@ -225,9 +214,7 @@ fisi n 1 pembelahan sel; 2 pembelahan inti atom menjadi inti-inti atom baru yg l
 fisik n jasmani; badan
 fisika n ilmu tt zat dan energi (spt panas, cahaya, dan bunyi) -- atom Fis cabang fisika yg menelaah struktur atom, sifat zarah-zarah keunsuran yg menyusun atom, dan proses yg terjadi dl interaksi tenaga sinaran dng materi; -- kesehatan cabang fisika kedokteran yg bersangkutan dng kesehatan dan keselamatan personel dl pekerjaan keilmuan dan keindustrian, terutama yg bersangkutan dng proteksi terhadap pekerja; -- nuklir cabang fisika yg menelaah perilaku karakteristik dan bangunan dakhil (struktur internal) inti atom; -- zadat cabang fisika yang khusus membahas sifat-- sifat fisis zat padat
 fisin n Kim enzim proteolitik dr getah pohon ara yg mampu menghidrolisis kasein, kolagen, edestin, fibrin, hati, dan bahan mirip protein lain
-fisiologi n cabang biologi yg berkaitan dng
-fungsi dan kegiatan kehidupan atau zat hidup (organ, jaringan, atau sel); ilmu
-faal
+fisiologi n cabang biologi yg berkaitan dng fungsi dan kegiatan kehidupan atau zat hidup (organ, jaringan, atau sel); ilmu faal
 fisiologis a bersifat fisiologi
 fisioterapi /fisiotérapi/ n pengobatan dng melatih otot tubuh agar dapat berfungsi secara normal
 fisis a berhubungan dng badan atau jasmani
@@ -266,8 +253,7 @@ flint n jenis batuan berbentuk kristal, terutama terdiri atas silikon dioksida (
 flora n 1 alam tumbuh-tumbuhan; 2 tumbuhan yg terdapat di suatu daerah atau pd periode tertentu
 floret /florét/ n Olr pedang penusuk untuk bermain anggar; pedang anggar
 flotasi n Kim 1 cara dl menaikkan konsentrasi bijih; 2 metode untuk menaikkan bahan tersuspensi ke permukaan cairan dng berbagai cara, mencakupi aerasi, vakum, evolusi gas, bahan kimia, elektrolisis, panas atau dekomposisi oleh bakteri
-flouresens /flouréséns/ n pancaran radiasi elektromagnetik yg disebabkan peneralan dan mengalirkan tenaga ke dl benda pemancar, dan yg berhenti dng mendadak apabila peneralan itu berhenti; pendar
-flour
+flouresens /flouréséns/ n pancaran radiasi elektromagnetik yg disebabkan peneralan dan mengalirkan tenaga ke dl benda pemancar, dan yg berhenti dng mendadak apabila peneralan itu berhenti; pendar flour
 flu n influensa
 fluida n 1 Kim benda spt air atau gas yg berubah bentuknya oleh pengaruh gaya besar; 2 Fis zat yg mudah mengalir
 fluks n Fis 1 banyaknya besaran yg mengalir melewati luasan tertentu yg renjang thd aliran itu, persatuan waktu; 2 bahan yg digunakan untuk menaikkan pelelehan dr mineral atau logam; -- cahaya arus cahaya; -- magnetik kerapatan induksi magnetik
@@ -297,8 +283,7 @@ fondamen /fondamén/ n dasar
 fondasi n dasar bangunan yg kuat, biasanya ada di bawah permukaan tanah tempat bangunan itu didirikan; fondamen
 fonds n dana; anggaran biaya
 fonem /foném/ n Ling satuan bunyi terkecil yg berfungsi membedakan arti
-fonemik /fonémik/ n Ling bagian ilmu bahasa (linguistik) yg meneliti masalah
-fonem
+fonemik /fonémik/ n Ling bagian ilmu bahasa (linguistik) yg meneliti masalah fonem
 fonemis /fonémis/ a Ling 1 bersangkutan dng fonem; 2 bersangkutan dng fonemik
 fonetik /fonétik/ n Ling 1 bagian ilmu bahasa (linguistik) yg mempelajari bagaimana bunyi ujar diucapkan atau dihasilkan oleh alat-alat ucap manusia; 2 ilmu tt bunyi ujar umumnya dan lambang yg digunakannya
 fonetis /fonétis/ a Ling 1 bersangkutan dng bunyi; 2 bersangkutan dng fonetik
@@ -341,10 +326,9 @@ fosforilasi n Kim proses memasukkan gugus fosfat ke dalam senyawa lewat pembentu
 fosforimetri /fosforimétri/ n Kim analisis spektrofotometri untuk zat-zat yg berpendar fosfor oleh sinar ultralembayung
 fosforus n Kim unsur dengan nomor atom 15, lambang P
 fosil n sisa tulang belulang binatang atau sisa tumbuhan zaman purba yg telah membatu dan tertanam di bawah lapisan tanah; memfosil v menjadi fosil; pemfosilan n hal menjadi fosil
-fosilisasi n hal (keadaan, proses) menjadi
-fosil
+fosilisasi n hal (keadaan, proses) menjadi fosil
 fosvitin n Kim protein yg mengandung gugus fosfat yg terdapat dl kuning telur
-foto n 1 gambar potret; 2 ki gambaran; bayangan; pantulan; -- arus Fis arus elektron yg timbul pd proses fotoelektrik akibat penyinaran cahaya pd permukaan suatu bahan (logam); -- hambatan Fis bahan yg digunakan dl fotolitografi yg akan mengeras kalau dikenai cahaya, dan tidak terkunci dl proses pencucian; berguna untuk pembuatan pola kedok dl fabrikasi untai terpadu; -- --  litografi Fis proses untuk secara selektif membuang oksida yg menutup permukaan dng sinar ultraviolet; -- oksidasi Kim oksidasi yg dipengaruhi oleh adanya sinar; berfoto v bergambar; berpotret: mereka ~ bersama
+foto n 1 gambar potret; 2 ki gambaran; bayangan; pantulan; -- arus Fis arus elektron yg timbul pd proses fotoelektrik akibat penyinaran cahaya pd permukaan suatu bahan (logam); -- hambatan Fis bahan yg digunakan dl fotolitografi yg akan mengeras kalau dikenai cahaya, dan tidak terkunci dl proses pencucian; berguna untuk pembuatan pola kedok dl fabrikasi untai terpadu; --  litografi Fis proses untuk secara selektif membuang oksida yg menutup permukaan dng sinar ultraviolet; -- oksidasi Kim oksidasi yg dipengaruhi oleh adanya sinar; berfoto v bergambar; berpotret: mereka ~ bersama
 fotoautotrofik n sifat makhluk yg menggunakan cahaya sbg sumber energi dan karbondioksida sbg sumber karbon untuk membentuk makanannya
 fotodiode n diode semikoduktor yg dioperasikan dng tegangan balik di bawah tegangan rusaknya, yg daya hantarnya dipengaruhi oleh intensitas cahaya yg dijatuhkan pdnya, dng demikian arus dapat dimodulasi oleh cahaya, dapat digunakan untuk mengubah getaran cahaya menjadi getaran listrik
 fotoelastisasi /fotoélastisasi/ n pengkajian pengaruh tegangan thd cahaya melalui sebuah bahan tembus cahaya, digunakan untuk menetapkan tempat pd bahan berbentuk tertentu yg mengalami tegangan besar atau kecil
@@ -361,8 +345,7 @@ fotokonduktor n Fis zat padat bukan logam yang keterhantarannya bertambah bila d
 fotokopi n 1 alat elektris yg dapat mereproduksi barang cetakan; 2 hasil reproduksi dr alat elektris tsb; memfotokopi v membuat reproduksi dng mesin fotokopi
 fotolisis n Kim 1 penguraian fotokimia, tenaga penguraian kimia yg disebabkan oleh kerja cahaya; 2 penguraian senyawa kimia menjadi senyawa lain, atom, atau radikal bebas oleh radiasi elektromagnetik; biasanya sinar tampak atau radiasi ultraviolet; -- kejap Kim teknik fotolisis untuk mempelajari atom dr radikal yg memiliki waktu-hidup sangat pendek sebelum bereaksi
 fotometer /fotométer/ n Fis alat untuk melakukan pengukuran cahaya atau sinaran elektromagnetik dlm jangkau spektrum cahaya kasatmata; -- baji alat yg membandingkan dua berkas cahaya; -- kedip(an) Fis fotometer yg medan pandang tunggalnya secara bergantian diberi cahaya oleh sumber-sumber cahaya berkedip yg hendak diperbandingkan; laju bergantinya kedipan itu sedemikian rupa, sehingga warna kedipan hilang, tetapi terang kedipan itu tidak; tak tampaknya kedipan menunjukkan kesamaan terang cahaya; -- nyala alat yg menggunakan sinar nyala api untuk mengenal dan mengukur jumlah unsur logam alkali dan alkali tanah; -- rel Fis peranti yg menggunakan sebuah rel optis yg mempunyai dua sumber cahaya yg dipasang pada ujung-ujung rel itu
-fotometri /fotométri/ n Fis perhitungan dan pengukuran besaran yg bersangkutan dng intensitas cahaya, fluks cahaya, rapat
-fluks cahaya, agihan (distribusi) cahaya, warna, faktor penyerapan (absorpsi) agihan spektral, serta reflektans atau transmitans cahaya; -- heterokromatik Fis cabang fotometri yg membahas pembandingan daya penerangan sumber-sumber cahaya dng berbagai warna
+fotometri /fotométri/ n Fis perhitungan dan pengukuran besaran yg bersangkutan dng intensitas cahaya, fluks cahaya, rapat fluks cahaya, agihan (distribusi) cahaya, warna, faktor penyerapan (absorpsi) agihan spektral, serta reflektans atau transmitans cahaya; -- heterokromatik Fis cabang fotometri yg membahas pembandingan daya penerangan sumber-sumber cahaya dng berbagai warna
 fotomodel /fotomodél/ n orang yg menjadi model dl foto
 fotomultiplikator n Kim alat berupa tabung yg di dalamnya fotoelektron yg berasal dr katode yg disinari digandakan oleh pancaran elektron sekunder
 foton n partikel dasar atau kuantum radiasi elektromagnet
@@ -389,16 +372,8 @@ frase n Ling gabungan dua kata atau lebih yg sifatnya tidak predikatif
 frater n Kris calon pastor
 fraternitas n persaudaraan
 fregat /frégat/ n 1 kapal perang berukuran sedang, berbobot antara 1100 sampai 2800 ton, dapat bergerak dng lincah dan cepat, dapat digunakan sbg kapal anti kapal selam; 2 Lay kapal layar bertiang tiga (layarnya melintang)
-frekuensi n Mat 1 jumlah kejadian yang lengkap atau fungsi muncul dalam suatu waktu; pada bidang elektronik, biasanya mengacu pada banyaknya gelombang yang diulangi per detik, diukur dalam hertz; banyaknya objek dalam suatu kategori; -- alam Fis frekuensi benda atau sistem yg bergetar atau berayun tanpa dipengaruhi kakas-kakas luar; untuk sistem yg berderajat kebebasan lebih dr satu, merupakan frekuensi salah satu dari ragam (modus) getaran normal; -- ambang Fis
-frekuensi gelombang elektromagnetik, bersesuaian dengan tenaga radiasi minimum, yang masih dapat menimbulkan efek fotoemisi; -- baku Fis frekuensi nilainya ditentukan dng ketepatan tinggi, yg dapat menjadi acuan untuk pengukuran dan pengenalan; -- benturan Fis rerata jumlah benturan persatuan waktu yg dialami suatu zarah waktu melintas melalui suatu zat, misalnya elektron yg melintas dalam gas; -- dasar Fis 1 frekuensi terendah pd sebuah sistem yg bergetar bebas; 2 frekuensi terendah pd gelombang kompleks; 3 frekuensi dr setiap gelombang yg dianggap paling penting; -- detak Fis frekuensi induk denyut-denyut berkala yg menjadwal kerja komputer digital; -- garis Fis pada televisi, jumlah garis payar mendatar (horizontal) setiap sekon; -- layangan Kim frekuensi yg baru yg timbul bila dua isyarat dng frekuensi berlainan memasuki suatu rangkaian; salah satu frekuensi itu adalah selisih frekuensi semula; frekuensi layangan hanya terjadi bila syarat-syarat tertentu dipenuhi muatan dan m massa elektron atau ion; -- lentuk Kim frekuensi dl spektrum inframerah suatu zat, disebabkan oleh gerakan/getaran membengkok dr molekul zat itu; -- mekanis Fis
-frekuensi di dl rongga talun peranti penghasil laser; -- menengah Fis jangkau fre- kuensi yg ditetapkan Komisi Perhubungan Federal di Amerika Serikat, yakni pita frekuensi dr 300--3000 kilohertz pd spektrum gelombang radio; disingkat mf; -- normal Fis frekuensi ragam normal getaran sebuah sistem; -- normal untai
-Fis frekuensi talun terendah suatu antena, untai, atau komponen untai; -- nisbi Mat perbandingan antara frekuensi mutlak dng frekuensi total; frekuensi nisbi sering dinyatakan dl persen; -- pancung Fis
-frekuensi yg merupakan ambang batas antara terjadi atau tidaknya suatu proses, misalnya di bawah frekuensi itu gelombang elektromagnetik tidak dapat menembus lapisaan ionosfer, cahaya tidak dapat menimbulkan efek fotoemisi, dan gelombang elektromagnetik terpandu tidak dapat merambat di dl pandu-gelombang dng ragam tertentu, atau di atas
-frekuensi itu efisiensi tabung elektron menurun dng cepat sehingga tidak dapat berfungsi, atau laifan (atenuasi) sebuah alat bertambah secara tajam; -- pembawa Fis frekuensi yg dibangkitkan oleh pembangkit radio, radar, atau pembawa komunikasi lain yg tidak termodulasi; -- radio Fis frekuensi tenaga pancar elektromagnetik koheren yang digunakan untuk keperluan komunikasi; secara kasar berkisar antara 30 kilohertz dan 300 gigahertz; disingkat rf; -- relaksasi Kim banyaknya perubahan yg dicapai oleh suatu sistem dl waktu satu detik; lihat lebih lanjut waktu relaksasi; -- siklotron Fis
-frekuensi peredaran elektron yg bergerak di bawah pengaruh medan imbas magnetik B yang seragam, dng bidang; -- talun
-Fis 1 fre-kuensi yg bersangkutan dng tanggapan maksimum suatu sistem fisika thd kakas (forsa) pemacu luar yg berkala, dan ada tiga jenis, yaitu talunan fase, talunan amplitudo, dan talunan natural (alami), tetapi semuanya hampir sama bila efek lesapan (disipasi)nya kecil;
-freon /fréon/ n Fis sekelompok zat penyejuk (refrigeran) ikhlorodifluorometan yg sekarang hanya dipilah dng penomoran saja, misalnya zat-penyejuk 12 =
-freon 12;
+frekuensi n Mat 1 jumlah kejadian yang lengkap atau fungsi muncul dalam suatu waktu; pada bidang elektronik, biasanya mengacu pada banyaknya gelombang yang diulangi per detik, diukur dalam hertz; banyaknya objek dalam suatu kategori; -- alam Fis frekuensi benda atau sistem yg bergetar atau berayun tanpa dipengaruhi kakas-kakas luar; untuk sistem yg berderajat kebebasan lebih dr satu, merupakan frekuensi salah satu dari ragam (modus) getaran normal; -- ambang Fis frekuensi gelombang elektromagnetik, bersesuaian dengan tenaga radiasi minimum, yang masih dapat menimbulkan efek fotoemisi; -- baku Fis frekuensi nilainya ditentukan dng ketepatan tinggi, yg dapat menjadi acuan untuk pengukuran dan pengenalan; -- benturan Fis rerata jumlah benturan persatuan waktu yg dialami suatu zarah waktu melintas melalui suatu zat, misalnya elektron yg melintas dalam gas; -- dasar Fis 1 frekuensi terendah pd sebuah sistem yg bergetar bebas; 2 frekuensi terendah pd gelombang kompleks; 3 frekuensi dr setiap gelombang yg dianggap paling penting; -- detak Fis frekuensi induk denyut-denyut berkala yg menjadwal kerja komputer digital; -- garis Fis pada televisi, jumlah garis payar mendatar (horizontal) setiap sekon; -- layangan Kim frekuensi yg baru yg timbul bila dua isyarat dng frekuensi berlainan memasuki suatu rangkaian; salah satu frekuensi itu adalah selisih frekuensi semula; frekuensi layangan hanya terjadi bila syarat-syarat tertentu dipenuhi muatan dan m massa elektron atau ion; -- lentuk Kim frekuensi dl spektrum inframerah suatu zat, disebabkan oleh gerakan/getaran membengkok dr molekul zat itu; -- mekanis Fis frekuensi di dl rongga talun peranti penghasil laser; -- menengah Fis jangkau fre- kuensi yg ditetapkan Komisi Perhubungan Federal di Amerika Serikat, yakni pita frekuensi dr 300--3000 kilohertz pd spektrum gelombang radio; disingkat mf; -- normal Fis frekuensi ragam normal getaran sebuah sistem; -- normal untai Fis frekuensi talun terendah suatu antena, untai, atau komponen untai; -- nisbi Mat perbandingan antara frekuensi mutlak dng frekuensi total; frekuensi nisbi sering dinyatakan dl persen; -- pancung Fis frekuensi yg merupakan ambang batas antara terjadi atau tidaknya suatu proses, misalnya di bawah frekuensi itu gelombang elektromagnetik tidak dapat menembus lapisaan ionosfer, cahaya tidak dapat menimbulkan efek fotoemisi, dan gelombang elektromagnetik terpandu tidak dapat merambat di dl pandu-gelombang dng ragam tertentu, atau di atas frekuensi itu efisiensi tabung elektron menurun dng cepat sehingga tidak dapat berfungsi, atau laifan (atenuasi) sebuah alat bertambah secara tajam; -- pembawa Fis frekuensi yg dibangkitkan oleh pembangkit radio, radar, atau pembawa komunikasi lain yg tidak termodulasi; -- radio Fis frekuensi tenaga pancar elektromagnetik koheren yang digunakan untuk keperluan komunikasi; secara kasar berkisar antara 30 kilohertz dan 300 gigahertz; disingkat rf; -- relaksasi Kim banyaknya perubahan yg dicapai oleh suatu sistem dl waktu satu detik; lihat lebih lanjut waktu relaksasi; -- siklotron Fis frekuensi peredaran elektron yg bergerak di bawah pengaruh medan imbas magnetik B yang seragam, dng bidang; -- talun Fis 1 fre-kuensi yg bersangkutan dng tanggapan maksimum suatu sistem fisika thd kakas (forsa) pemacu luar yg berkala, dan ada tiga jenis, yaitu talunan fase, talunan amplitudo, dan talunan natural (alami), tetapi semuanya hampir sama bila efek lesapan (disipasi)nya kecil;
+freon /fréon/ n Fis sekelompok zat penyejuk (refrigeran) ikhlorodifluorometan yg sekarang hanya dipilah dng penomoran saja, misalnya zat-penyejuk 12 = freon 12;
 fresnel n Fis zat yg merusak lapisan ozon (O3)
 frikatif n Ling bunyi yg dihasilkan krn udara menggeser alat-alat ucap, msl bunyi [f]
 friksi n pergeseran yg menimbulkan perbedaan pendapat
