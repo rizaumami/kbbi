@@ -56,7 +56,7 @@ kacang tanah yg digoreng (baik dng minyak maupun tidak) sampai garing; --  goren
 kacang merah yg gatal; 2 ki orang yg suka menghasut; -- panjang sj kacang yg pohonnya melilit, buahnya panjang berbiji-biji, Vigna sinensis; -- rebus kacang tanah yg direbus (biasanya dng kulit-kulitnya);
 kacang-kacangan n segala jenis kacang;
 kacang, mengacang v 1 membagi-bagi (barang yg didapat dsb); 2 berbuat sesuka hati (atas milik orang);
-kacang-- kacang n penabur (mimis): baru -- nya baru pendahuluannya (belum ramai dsb);
+kacang-kacang n penabur (mimis): baru -- nya baru pendahuluannya (belum ramai dsb);
 kacang-kacangan n sj ikan yg panjang spt ikan layur, sb Hemiramphus; memperkacang v memboroskan (menghabiskan) milik orang lain
 kacapi o kecapi
 kacapiring n perdu hias, bunganya wangi, putih atau kuning dng daun bunga yg bersusun-susun, Gardenia augusta; bunga susun kepala
@@ -124,9 +124,9 @@ kaf n nama huruf ke-22 abjad Arab
 kafan n kain pembungkus mayat; mengafani v memberi berkafan (pd mayat): mereka ~ mayat itu setelah dimandikan
 kafarat n Isl denda (penghapusan dosa) akibat melanggar hukum (peraturan) agama (yg ditunaikan dng berpuasa atau memberi makan kpd orang miskin dsb)
 kafarat a keparat; kafir; terkutuk
-kafe /kafé/ n warung kopi; kedai; tempat minum kopi dsb yg pengunjungnya dihibur dng musik
+kafe /kafé/ n 1 tempat minum kopi yg pengunjungnya dihibur dng musik; 2 tempat minum yg pengunjungnya dapat me­mesan minuman, spt kopi, teh, bir, dan kuekue; kedai kopi
 kafein /kaféin/ n zat racun yg terdapat pd kopi, teh (dipakai sbg obat perangsang peredaran darah)
-kafetaria /kafétaria/ n kedai makanan dan minuman; restoran kecil
+kafetaria /kafétaria/ n restoran yg menyajikan aneka ma­sakan, makanan, dan minuman di gerai (biasanya dng sistem swalayan bagi para pengunjung)
 kafi a cukup; pada; lengkap; sempurna
 kafilah n rombongan orang berkendaraan (unta) yg bepergian di padang pasir
 kafir a tidak percaya kpd Allah dan RasulNya; mengafirkan v menganggap (memandang) kafir; kekafiran n sifat-sifat kafir (tidak percaya kpd Allah dsb)
@@ -146,7 +146,7 @@ kahar a 1 kuasa; mahakuasa (sifat Allah): Tuhan yg --; 2 ark sewenang-wenang: ke
 kahat n kekurangan makanan: (bencana) kelaparan
 kahin n 1 tukang (ahli) sihir; 2 juru tenung; 3 ahli nujum
 kahrab ark n batu ambar; -- kuning ambar kuning
-kahwa n (air) kopi (untuk minuman)
+kahwa kl n kopi
 kahwin ark v kawin
 kaidah n perumusan dr asas-asas yg menjadi hukum; aturan yg tentu; patokan; dalil (dl matematika dsb)
 kaifiat n keadaan menurut sifatnya; sifat (tabiat) yg asli; cara yg khusus (baik)
@@ -542,6 +542,7 @@ karabin n senapan yg berlaras pendek
 karaf n tempayan kecil dr tanah atau tempat menyimpan air minum atau minuman lain-lain
 karah n bintik (noda) pd kulit (gigi, daun, dsb) spt pd kulit penyu atau siput; sisa
 kapur yg melekat pd gigi dsb; berkarah ada karahnya; berbintik-bintik; bernoda
+kapurancang n sikap tangan ditumpukkan di perut sebelah bawah, biasanya merupakan sikap hormat seseorang apabila sedang berbicara
 karah n nama buluh buluh betung
 karahah n sesuatu yg lebih baik tidak dikerjakan (hukumnya makruh)
 karak ark n kerak
@@ -552,6 +553,7 @@ karakterologi n ilmu yg mempelajari watak seseorang berdasarkan perbuatan dan ti
 karam v tenggelam (ke dasar laut tt kapal dsb): kapal Pelni -- krn bocor; -- berdua, basah seorang, pb dua orang berbuat salah, seorang saja yg kena hukum; -- tidak berair, pb mendapat bencana yg tidak bersebab; -- sambal oleh belacan, pb mendapat kerugian krn perbuatan orang kepercayaan atau orang yg dikasihi; spt cinta --, pb riuh rendah; hiruk pikuk; telah -- maka tertimpa, pb baru ingat atau menyesal sesudah menderita kemalangan; -- di darat, ki mendapat kecelakaan di tempatnya sendiri atau di tempat yg sebenarnya aman; mengaram v turun hendak tenggelam; disangka tiada akan ~, ombak yg kecil diabaikan, pb tiada mengindahkan bahaya yg kecil, akhirnya tertimpa bencana besar; mengaramkan v menenggelamkan (kapal dsb); mencelakakan; membencanakan
 karamba n kurungan dr anyaman bambu yg dipasang di sungai (tepi laut) sbg tempat beternak ikan (udang dsb)
 karambol n permainan spt biliar, tetapi dng menggunakan jari sbg penyentik (penyentil), dng bola berbentuk lempeng bulat yg dibuat dr kayu
+karamel /karamél/ n cokelat yg diperoleh dr pemanasan gula tebu atau zat karbohidrat lain; gula bakar
 karang n 1 batu kapur di laut yg terjadi dr binatang-binatang kecil jenis anthozoa (tidak bertulang punggung) yg mengeluarkan zat kapur; koral; 2 pulau (gunung, batu) di laut yg terjadi dr tumpukan karang yg sudah membatu; 3 tumbuhan laut yg menyerupai karang atau spt karang; berkarang v 1 ada karangnya; 2 mencari karang di laut: pencahariannya ~ sudah semakin maju; 3 ki sudah lama dan berurat berakar (tt penyakit dsb): berjudi penyakit yg sudah ~ dl hidupnya;
 karangan n 1 batu karang; batu wadas; 2 nama penyakit pd ginjal yg disebabkan oleh adanya zat yg membatu;
 karang-karangan n bermacam-macam karang
@@ -846,7 +848,7 @@ kaustik a dapat terbakar, dimakan karat, hancur, atau rusak akibat peristiwa kim
 kaut, mengaut v meraup (mengumpulkan dng tangan); ~ laba dng siku, pb selalu hendak mencari untung sebanyakbanyaknya; ~ keuntungan mengambil untung banyak-banyak
 kavaleri n 1 barisan (pasukan) berkuda; 2 pasukan tank dan kendaraan lapis baja
 kaveling n tanah (biasanya untuk bangunan atau tempat tinggal) yg sudah dipetakpetak dl ukuran tertentu (oleh pemerintah sesuai dng rencana tata kota dsb); perkavelingan n 1 perihal kaveling; 2 tempat tanah kaveling
-kaviar n telur ikan sturgeon (terubuk) yg diawetkan dan diasini
+kaviar n telur terubuk (telur ikan sturgeon) yg diawetkan dan diasinkan: negeri penghasil minyak dan –
 kawah n 1 kuali besar; kancah; 2 lubang kepundan; mulut gunung berapi; -- Candradimuka kawah yg keramat dan sakti dl cerita wayang
 kawak a sudah tua sekali; sudah lama sekali;
 kawakan a 1 sudah kawak; sudah tua sekali; 2 ki sudah berpengalaman; jawara itu sudah ~ dan berpengalaman dl dunia perkelahian
@@ -1064,7 +1066,7 @@ kejer v menangis dng keras dan terus-menerus (spt tangis kanak-kanak): adik mena
 keji a hina; sangat rendah (kotor, tidak sopan, dsb); berkeji (diri) v menghinakan diri; merendahkan martabat diri; sudi melakukan (berbuat) sesuatu yg keji, hina, dsb: pekerjaan itu hanya akan ~ saja; mengeji(kan) v 1 menghinakan; menistai; memburukkan; 2 mengharamkan; mengatakan (memandang) keji; mencela; mencerca; kekejian n keburukan; kehinaan (kelakuan dsb) yg keji
 kejip n kedip; kejap
 kejora n bintang yg biasanya terbit pd dini hari; Bintang Timur
-keju /kéju/ n bahan makanan yg dibuat dr sari air susu sapi atau kambing yg diragikan dan dikentalkan
+keju /kéju/ n bahan makanan yg dibuat dr sari air susu melalui proses peragian yg dikeraskan (dikentalkan)
 kejuju v, mengejuju v menjuju; tidak berhentinya (naik, datang, dsb): untuk korban kebakaran itu bantuan penduduk ~ datang dr berbagai tempat
 kejur a keras kaku (tidak dapat dilentukkan); tegak kaku (tt rambut dsb); tegar: rambut pelawak itu ditata -- sehingga menambah kesan lucu
 kejut a menjadi kaku (tt urat anggota badan, dsb); kaget; terperanjat; berkejut, ~ telinga v menegakkan telinga; berkejutan v berlarian ke sana ke mari krn terperanjat: orang-orang bingung ~ krn ada gempa bumi mengejut v ark mendadak; dng sekonyong-konyong: pasukan musuh melakukan serangan ~ pd waktu subuh; mengejuti (mengejut-ngejuti) v memperbuat sesuatu yg menyebabkan kaget (terperanjat dsb); menakut-nakuti: jangan ~ adikmu sebab akibatnya tidak baik; mengejutkan v menyebabkan terkejut: berita itu ~nya; terkejut terperanjat; kaget: Pemimpin daerah itu ~ mendapat laporan mengenai wabah kolera yg berjangkit di daerahnya itu;
@@ -1204,6 +1206,7 @@ kelentit n tumbuhan rumput, biasa dipakai sbg obat, Clitoria tematea
 kelentung n bunyi "tung, tung", spt bunyi genta sapi;
 kelentungan n genta kayu
 kelenung n 1 bunyi "nung, nung", spt bunyi canang kecil yg dipalu; 2 sb canang kecil
+kelenyit n minuman setengah manis kemudi n 1 perkakas pd kendaraan (mobil, pesawat terbang, kapal, dsb) yg gunanya untuk mengatur arah perjalanan; 2 ki pemimpin (pengurus, pengatur arah) pd perserikatan, peme­rintahan, dsb; 3 ark pusarpusar bulu (pd kuda); patah -- dng ebamnya, pb sudah tidak ada harapan lagi;
 kelepai, berkelepai a terkulai (spt cabang patah yg tergantung); tidak tegang (spt bendera yg tidak berkibar, atau telinga kambing); terkelepai berkelepai
 kelepak n bunyi spt sayap dikepak-kepakkan; bunyi spt tangan menampar
 kelepak /kelépak/ a tergantung terkelepai (spt telinga gajah); -- baju bagian baju yg berkelepai-kelepai di dada
@@ -1449,7 +1452,7 @@ kempung n 1 bagian perut sebelah bawah; 2 (kempungan) gelembungan
 kemu v, berkemu v berkumur; mencuci mulut
 kemu v, mengemu v menggumam; mengulum
 kemucing n alat untuk membersihkan debu, dibuat dr bulu ayam
-kemudi n 1 perkakas pd buritan perahu (kapal), gunanya untuk mengatur arah perjalanan (spt membelokkan); 2 setir pd mobil; alat pengatur arah pd pesawat terbang; 3 ki pimpinan perserikatan, pemerintah, dsb; 4 ark pusar-pusar bulu (pd kuda); patah -- dng ebamnya, pb sudah tidak ada harapan lagi; -- cawat jenis kemudi yg dipakai oleh kapal-kapal Eropa; -- sepak kemudi perahu di sisi buritan yg bentuknya spt dayung; berkemudi v 1 memakai kemudi; ada kemudinya; 2 (sedang) memegang kemudi; mengemudikan v 1 memegang kemudi (untuk mengatur arah perjalanan perahu, mobil, pesawat terbang, dsb): pilot ~ pesawat terbang; 2 memimpin (organisasi, perusahaan, pemerintahan, dsb); mengurus (rumah tangga): pengurus ~ organisasi; kepala keluarga ~ rumah tangga; pengemudi n orang yg mengemudikan (tt perahu, mobil, pesawat terbang, dsb); -- ekor sambungan sayap yg menempel pd belakang sirip ekor vertikal untuk mengemudikan dan mengoreksi saat pesawat oleng; -- sayap belakang sambungan sayap yg menempel di belakang sayap ekor pesawat layang untuk mengurangi ketinggian dan gerak maju baling-baling; -- sayap depan sirip tambahan di samping belakang sayap untuk menggerakkan pesawat layang dng mengatur sayap naik; pengemudian n proses, cara, perbuatan mengemudikan
+kemudi n 1 perkakas pd buritan perahu (kapal), gunanya untuk mengatur arah perjalanan (spt membelokkan); 2 setir pd mobil; alat pengatur arah pd pesawat terbang; 3 ki pimpinan perserikatan, pemerintah, dsb; 4 ark pusar-pusar bulu (pd kuda); patah -- dng ebamnya, pb sudah tidak ada harapan lagi; -- bundar pusar-pusar kuda yg bundar; -- cawat kemudi yg pd umumnya dipakai oleh kapal-kapal Eropa; -- sepak kemudi perahu di sisi buritan yg bentuknya spt dayung; -- haluan kemudi yg dipasang di depan linggi haluan untuk memudah­kan pengemudi pd waktu kapal mundur (biasa dipakai oleh kapal feri); -- sepak kemudi perahu di sisi buritan yg bentuk­nya spt dayung;   mengemudikan v 1 memegang kemudi (untuk mengatur arah perjalanan perahu, mobil, pesawat terbang, dsb): pilot ~ pesawat terbang; 2 ki memimpin (organisasi, perusahaan, pemerintahan, dsb); mengurus (rumah tangga): pengurus harus dapat ~ organisasi; kepala keluarga harus pandai ~ rumah tangga; pengemudi n orang yg (pekerjaannya) mengemudikan (perahu, mobil, pesawat terbang, dsb); berkemudi v 1 memakai kemudi; ada kemudinya; 2 (se­dang) memegang kemudi (mengendarai); ~ di haluan, bergilir ke buritan, pb orang yg menurut perintah istrinya atau orang sebawahnya; pengemudian n proses, cara, perbuatan mengemudikan
 kemudian adv 1 belakangan; ada di belakang: siapa yg datang -- akan mendapat giliran terakhir; 2 kelak; belakang hari; waktu yg akan datang; ia berangkat lebih dulu, keluarganya akan menyusul --; 3 sesudah itu; akhirnya (lalu): setelah babak belur -- penjahat itu diserahkan kpd yg berwajib; -- hari belakang hari; kelak; mengemudiankan v 1 menaruh (menempatkan) di belakang; mengerjakan (membicarakan dsb) di belakang: kita harus mendahulukan hal-hal yg perlu segera diselesaikan, dan ~ hal-hal yang kurang penting; 2 mengundurkan; menunda; menangguhkan: kita sudah sepakat untuk ~ pembicaraan mengenai masalah-masalah yg belum terpecahkan dl pertemuan ini; terkemudian v (yg) paling belakang; (yg) terakhir: atlet itu adalah pelari yg ~ sampai di garis finis
 kemukus n lada berekor, Piper cubeba
 kemul n selimut; mengemuli v menyelimuti: ibu itu ~ anak-anaknya supaya tidak digigit nyamuk atau kedinginan
@@ -1461,7 +1464,7 @@ kemungkus ark a tidak dapat menetas dan busuk; tembelang: telur -- sangat busuk 
 kemuning n tumbuhan berdaun lebat, berbunga kuning kecil-kecil bulat berbau harum, kayunya biasa dibuat sarung keris
 kemunting n nama tumbuhan perdu, daunnya berasa sepat, digunakan untuk ramuan obat sakit perut, dapat dimakan, Rhodomyrtus tomentosa; -- bukit nama tumbuhan melata, Anplectrum divaricatum
 kemut v, mengemut v 1 bergerak-gerak naik turun (spt mulut orang waktu mengunyah): nenek sedang makan sirih, mulutnya ~; 2 berjalan perlahan-lahan (lambat-lambat) hampir-hampir terjatuh; terhuyung-huyung: pemabuk itu berjalan ~ memaksakan dirinya pulang; terkemut-kemut v mengemut
-kemutul n nama pohon, kayunya keras dan liat, getahnya untuk obat kudis, Cratoxylon formosum
+kemutul n 1 pohon yg kayunya keras dan liat, getahnya biasa dipakai untuk obat kudis; Cratoxylon formosum; 2 kayu kemutul
 ken /kén/ kl n sebutan anak perempuan dan anak laki-laki
 kena v 1 bersentuhan (dng); terantuk (pd): ujung tombak itu -- tengkuk pencuri itu; 2 tepat pd sasarannya; tidak luput: burung itu ditembaknya, tetapi tidak --; 3 tertimpa (oleh); menderita (sesuatu); mendapat atau beroleh suatu perbuatan: sekarang banyak anak -- penyakit cacar; sering benar ia -- marah; 4 tidak bebas dr (aturan, pajak, biaya, dsb): tidak ada yg terkecuali, semuanya -- aturan ini; 5 tepat benar; sesuai benar; cocok; ber- patutan (berpadanan); sedang dan patut (tt pakaian dsb): pantun ini tidak -- sajaknya; -- hama keadaan kejangkitan benih penyakit; infeksi; -- emas mendapat uang sogok; -- hati 1 jatuh cinta kpd; 2 sebal; menyesal; berkenaan v 1 bertepatan (dng); sehubungan (dng): ~ dng tahun yg kelima akan diadakan perayaan besar-besaran; 2 berhubungan (dng); berkaitan (dng): pengunduran diri itu diduga ~ dng peristiwa semalam; 3 setuju; sesuai; cocok: kedua orang muda itu sudah ~; berkena-kenaan v saling mengenai: perkataan kedua orang itu selalu ~; mengena v tepat kena (pd sasarannya, yg di arah, dsb); berhasil (tidak gagal, tidak keliru): jeratnya ~, rupanya tembakanku ~;
 kena-mengena v 1 ada sangkut pautnya; ada hubungannya; 2 peduli akan; 3 berimemberi; mengenai v 1 kena pd sasarannya (tujuannya dsb): tembakannya tidak ~ sasaran; dua buah bom meledak ~ tempat penyimpanan mesiu; 2 menyentuh: perban yg kotor itu jangan sampai ~ luka itu; 3 berkenaan (berhubungan) dng; tentang hal: pembicaraan ~ pembentukan panitia ditunda sampai besok malam; mengenakan v 1 memakai (pakaian, topi, dsb): ia selalu ~ pakaian barunya apabila datang ke pesta; ia selalu ~ topi kesayangannya apabila ia berjalan-jalan pd pagi hari; 2 menggunakan (tipu muslihat, teori, guna-guna, dsb): untuk mencapai tujuan itu, ia ~ tipu dayanya secara baik; 3 menipu; memperdayakan: mereka selalu berusaha ~ kita agar mau menerima usul-usulnya; 4 menjalankan atau melaksanakan (aturan, pajak denda, dsb): ia selalu ~ ketentuan-ketentuan yg berlaku dl urusan perpajakan; 5 mengarahkan (bidikan, tembakan) pd sasaran: pemburu itu ~ bidikannya dng tepat pd sasarannya; terkena v 1 sudah dikenakan (dipasang, dilekatkan, dsb): beberapa butir intan ~ pd hulu kerisnya itu; 2 sudah kena sesuatu (dl berbagai-bagai arti spt tertipu, terpedaya, dirugikan): ~ pengaruh uang; ~ beragih 1 merasa merugi dl menerima bagian 2 suram muram mukanya; pengenaan n perbuatan (hal dsb) mengenai atau mengenakan
@@ -1637,7 +1640,7 @@ kepuh-kepuh n selepa, tempat gambir, pinang, tembakau, dsb untuk makan sirih
 kepuk n 1 bakul tempat hasi (beras dsb dr kulit kayu); 2 lumbung padi; 3 kepis (bakul ikan)
 kepuk n lekuk; berkepuk v berlekuk; mengepukkan v melekukkan
 kepuk n baju jaket berleher tinggi di belakang, tetapi terbuka pd bagian depan
-kepul n gumpalan asap (awan) yg tampak tebal; berkepul(-kepul) v keluar (membubung) bergumpal-gumpal (tt asap, awan): asap yg ~ dr cerobong, asap sebuah pabrik kertas di kota ini cukup mencemarkan udara di sekitar pabrik itu; mengepul v keluar berkepul-kepul: asap ~ dr ujung knalpot; mengepulkan v mengeluarkan asap berkepul-kepul: ia menjawab sambil ~ asap rokoknya;
+kepul n gumpalan asap (awan) yg tampak tebal; mengepul v keluar berkepul-kepul: asap ~ dr ujung knalpot; mengepulkan v mengeluarkan asap berkepul-kepul: ia menjawab sambil ~ asap rokoknya; pengepulan n proses, cara, perbuatan mengepulkan; kepulan n gumpalan asap yg dikepulkan; berkepul v keluar (membubung) bergumpal-gumpal (tt asap, awan): asap yg ~ dr cerobong asap sebuah pabrik di kota ini sangat mencemarkan udara di sekitarnya; berkepul-ke.pul v berkepul
 kepulan n gumpalan asap yg dikepulkan
 kepul, mengepul v mengeluarkan asap krn panas: begitu melihat nasi ~ laparlah ia pengepul n tengkulak
 kepulaga n nama tumbuhan, bijinya dibuat obat dsb, Amomum cardamomum
@@ -2186,8 +2189,7 @@ khamir n, berkhamir v bercampur ragi
 khanjar n parang atau pedang bermata dua yg panjang dan bengkok
 kharab a rusak dan lenyap penduduknya (tt daerah tempat tinggal); musnah; lenyap
 kharisma o karisma
-khas a khusus; teristimewa: tawanya sangat --; mengkhaskan v ark mengistimewakan; mengkhususkan;
-kekhasan n hal (sifat) khusus yg tidak dimiliki oleh yg lain; kekhususan
+khas a khusus; teristimewa: tawanya sangat --; mengkhaskan v ark mengistimewakan; mengkhususkan; kekhasan n hal (sifat) khusus yg tidak dimiliki oleh yg lain; kekhususan
 khasiat n manfaat (faedah, kegunaan) yg bersifat khas; keistimewaan; kekuatan (kegunaan, faedah) yg istimewa (tt obat, azimat, dsb); berkhasiat v mempunyai khasiat; mempunyai kekuatan (kegunaan, faedah) yg istimewa: benalu teh itu ~ untuk menyembuhkan penyakit kanker
 khatam kl n cincin meterai; cincin stempel
 khatam a tamat; selesai; habis; Alquran telah dibacanya sampai --; -- kaji tamat belajar (membaca) Quran; mengkhatamkan v menamatkan; menyelesaikan (tt bacaan): pd usia 15 tahun anak itu sudah tiga kali ~ Quran
@@ -2657,7 +2659,7 @@ kolah o kulah
 kolak n makanan yg dibuat dr pisang (ubi dsb) yg direbus dng gula dan santan; mengolak v memasak kolak
 kolak n sepotong kayu yg ujungnya bulat, dipakai untuk menggiling lada atau rempah-rempah pd cobek
 kolak ark n takaran beras sebanyak empat gantang atau 20 kati
-kolam n 1 ceruk di tanah yg agak luas dan dalam berisi air (untuk memiara ikan dsb); 2 bak tempat air; --  ikan kolam untuk memelihara ikan; -- kaca bak berdinding kaca berisi air untuk memelihara ikan hias; akuarium; -- renang Olr kolam untuk berenang
+kolam n 1 ceruk di tanah yg agak luas dan dalam berisi air (untuk memiara ikan dsb); 2 bak tempat air; -- beratap Olr kolam renang yg diberi atap; -- ikan kolam khusus untuk memiara ikan; -- induk kolam untuk memiara induk ikan yg dibiakkan; -- kaca bak berdinding kaca terisi air untuk memiara ikan hias; akuarium; -- pemijahan kolam tempat memijahkan (membiakkan) ikan dsb; -- renang kolam untuk berenang; -tertutup Olr kolam renang yg diberi ber­ tembok dan beratap, udara dan airnya dapat dipanaskan se­hingga dapat digunakan pd musim dingin
 kolang-kaling n buah enau (yg sudah dikupas)
 kolang-kaling v pulang pergi; ulang-alik; (bergerak) naik-turun
 kolaret /kolarét/ n garis, batas, atau rantai yg mengelilingi leher
@@ -2842,7 +2844,7 @@ konduksi n hantaran panas atau arus listrik oleh benda tak bergerak
 konduktimeter /konduktiméten/ n Fis alat untuk mengukur konduktivitas (tenaga untuk menghantar) listrik dr zat-zat, terutama zat cair
 konduktivitas n Fis kekuatan menghantar panas (listrik) -- air ukuran kemasinan total dr air
 konduktometri /konduktométri/ n Kim pengukuran hantaran elektrik dl larutan
-konduktor n Fis benda yg menghantar panas atau arus listrik
+konduktor n 1 benda atau bahan penghantar panas, arus listrik, atau suara; 2 Mus pemimpin pergelaran musik dng isyarat tangan dan tubuh untuk menyatukan ungkapan suatu karya musik; dirigen
 kondusi n Fis hantaran panas oleh benda yg tidak bergerak
 koneksi /konéksi/ n hubungan yg dapat memudahkan (melancarkan) segala urusan (kegiatan)
 konektivitas /konéktivitas/ n sambungan selular
@@ -2933,8 +2935,9 @@ konstelasi /konstélasi/ n 1 kumpulan orang, sifat, atau benda yg berhubungan; 2
 konstituante n panitia atau dewan pembentuk undang-undang dasar -- bernitrogen Kim konstituen suatu campuran yg mengandung unsur nitrogen
 konstitusi n 1 segala ketentuan dan aturan mengenai ketatanegaraan (undang-undang dasar dsb); 2 undang-undang dasar suatu negara
 konstitusional a bersangkutan, sesuai, atau diatur oleh konstitusi suatu negara
-konstruksi n 1 susunan (model) suatu bangunan (jembatan, rumah, dsb); 2 Ling susunan dan hubungan kata dl kalimat atau kelompok
-katakonstruktif a bersangkutan dng konstruksi; 2 bersifat membina, memperbaiki, membangun, dsb: kritiknya sangat -- konsul n orang yg diangkat dan ditugasi sbg wakil pemerintah suatu negara dl mengurus kepentingan perdagangan atau warga negaranya di negara lain; -- jenderal konsul utama yg ditugasi melaksanakan tugas konsul di tempat penting atau mempunyai kewenangan membawahkan beberapa konsul
+konstruksi n 1 susunan (model) suatu bangunan (jembatan, rumah, dsb); 2 Ling susunan dan hubungan kata dl kalimat atau kelompok kata
+konstruktif a 1 bersangkutan dng konstruksi; 2 ki bersifat membina, memperbaiki, membangun, dsb kritiknya sangat -krustasea /krustaséa/ n Bio binatang air yg berkulit keras, spt udang dan kepiting
+konsul n orang yg diangkat dan ditugasi sbg wakil pemerintah suatu negara dl mengurus kepentingan perdagangan atau warga negaranya di negara lain; -- jenderal konsul utama yg ditugasi melaksanakan tugas konsul di tempat penting atau mempunyai kewenangan membawahkan beberapa konsul
 konsulat n jabatan, kedudukan, atau kantor konsul
 konsuler /konsulér/ 1 n orang yg memberikan nasihat dng dibayar (khususnya dl bidang perpajakan); konsultan; 2 berkenaan dng konsul atau konsulat
 konsultan n orang (ahli) yg tugasnya memberi petunjuk atau nasihat dl suatu kegiatan (penelitian, dagang, dsb); penasihat

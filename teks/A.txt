@@ -150,7 +150,8 @@ aci-aci p umpama; andaikata; -- nya seandainya; seumpamanya; kalaukalau; mengaci
 aci-acian n gambar angan-angan: ia tidak menyiapkan ~ keadaan tempat itu
 aci-aci n Lay kayu panjang untuk menggulung layar; -- kalimat pola kalimat
 acik ark n 1 kakak perempuan; 2 bibi
-aco, mengaco v 1 berkata tidak keruan; memberi keterangan asal berkata saja; 2 mengigau; 3 tidak betul (tt arloji dsb); ~ belo mengacau tidak keruan
+aco, mengaco v 1 berkata tidak keruan; memberi keterangan asal berkata saja; 2 mengigau; 3 berjalan tidak betul (tt mesin, arloji, dsb): sudah beberapa hari ini arlojiku ~ saja; ~ belo mengacau tidak keruan;
+acoan a sembrono; ugal-ugalan; serampangan;
 aco-acoan a ugal-ugalan; sembrono
 acu v, mengacu v 1 mengangkat atau mengacungkan (tinju, senjata, dsb) untuk mengacam atau menakut-nakuti: ia membentak sambil ~ hendak menikam; 2 mengarahkan (senapan dsb); menodongkan; membidikkan: atlet tembak itu telah ~ senapannya itu; 3 (mengacu-acu) memikir-mikirkan cara menyampaikan maksud (cita-cita dsb); berniat (akan): orang tuanya telah ~ mencarikan dia teman hidup; 4 menunjuk (kpd); merujuk: untuk memperkuat landasan teori tesisnya ia ~ kpd buku Lyons; mengacukan v 1 mengangkat atau mengacungkan (tinju, tangan, dsb): ia ~ tangan sambil berteriak-teriak; 2 menodongkan; mengancam dng senjata yg diulurkan ke depan: serdadu itu ~ bambu runcing; 3 menganjurkan: sejak tahun empat puluhan ia ~ perang asabat thd negeri itu; 4 menyuruh minta keterangan (petunjuk dsb) kpd
 acu v, mengacu v mencetak; membentuk; menuang (kue, peluru, dsb);
@@ -359,6 +360,7 @@ aglutinin n Bio substansi yg dapat menyebabkan penggumpalan bakteri atau sel dar
 aglutinogen /aglutinogén/ n Bio antigen sel darah merah yg merangsang pembentukan aglutinin
 agnosia n Psi ketidaksanggupan mengenali benda-benda dan arti-artinya yg biasanya disebabkan oleh kerusakan pd otak atau susunan saraf
 agnostik n orang yg berpendapat bahwa tiada sesuatu yg dapat diketahui tt Tuhan selain dr hal-hal kebendaan
+agon n Lay garis di peta yg menghubungkan tempat-tempat yg variasinya nol
 agradasi n Geo proses peninggian tanah krn endapan bahan yg berasal dr denudasi sungai
 agrafia a Psi tidak dapat menulis sbg akibat kerusakan atau luka pd otak
 agraria n 1 hal yg berkaitan dng pertanian atau tanah pertanian; 2 urusan pertanahan
@@ -435,7 +437,8 @@ ajnabi Isi n orang yg bukan sanak-saudara dekat (hukumnya boleh kawin-mengawini 
 ajnas n jenis; rupa; macam
 aju, mengajukan v 1 mengemukakan (usul, permintaan, sanggahan, protes, dsb): para murid ~ beberapa pertanyaan kpd guru; 2 membawa ke depan; menampilkan (pasukan dsb): ~ pasukan cadangan;
 ajuan n ark usul; anjuran
-aju, mengajukan v menyampaikan atau mengemukakan (usul, permintaan, sanggahan, protes, dsb): ~ usul dl rapat; pengajuan n proses, cara, perbuatan mengajukan; pengusulan: ~ surat izin mengadakan pertandingan sepak bola di kota itu sudah dilakukan jauh-jauh hari
+aju, mengajukan v 1 mengemukakan (usul, permintaan, sanggahan, protes, dsb): ia ~ beberapa pertanyaan kpd ketua; 2 membawa ke depan; menampilkan (pasukan dsb): ~ pasukan cadangan;
+ajuan n 1 hasil mengajukan; hasil pengajuan: tidak kurang dr tiga ~ proposal yg diterima oleh panitia untuk seminar pd bulan Desember yang akan datang; 2 usul; anjuran; pengajuan n proses, cara, perbuatan mengajukan; pengusulan: -- usulmu itu terlambat
 ajudan n Mil perwira yg diperbantukan kpd raja, presiden, atau perwira tinggi, biasanya diberi tugas mengurus segala sesuatu keperluannya yg berhubungan dng pekerjaannya
 ajufan n Far obat yg bekerja membantu berkhasiatnya obat lain
 ajuk, mengajuk v 1 menduga (dalamnya laut dsb); 2 memeriksa atau hendak mengetahui (isi hati, perasaan, atau pikiran orang); diajuk v diduga; dalam laut boleh ~, dalam hati siapa tahu, pb apa yg tersembunyi dl hati seseorang tidak dapat kita ketahui;
@@ -497,7 +500,7 @@ akrofobia a Psi takut yg abnormal apabila berada di tempat tinggi
 akromatik n bersifat dapat meneruskan cahaya tanpa menguraikan cahaya itu menjadi warna-warna pembentuknya
 akromatin n Bio bagian dasar inti sel yg tidak menyerap zat pewarna
 akromatoplasma n bagian isi sel berupa jaring-jaring protoplasma yg tidak menyerap zat pewarna
-akrometer /akrométer/ n hidrometer untuk menentukan bobot jenis minyak
+akrometer /akrométer/ n Tek alat untuk mengukur kerapatan minyak
 akromosom n bagian kepala sperma manusia atau binatang
 akronim n singkatan kata yg dapat dilafalkan spt kata
 akropetal n perkembangan yg dimulai dr bagian dasar ke arah ujung sehingga paling ujung merupakan yg termuda
@@ -831,6 +834,7 @@ amberal ark n admiral; laksamana
 ambiguitas n Ling kemungkinan adanya makna lebih dr satu dl sebaut kata, gabungan kata, atau kalimat
 ambil v pegang lalu dibawa, diangkat, dsb: salah --; berambil-ambil v ambil-mengambil; mengambil v 1 memegang sesuatu lalu dibawa, diangkat, dipergunakan, disimpan, dsb; memungut: murid-murid disuruh ~ buku dr lemari; 2 mengurangi: empat diambil satu menjadi tiga; 3 memilki; merebut: ia ~ istri orang lain; 4 menjemput: ia ~ adiknya di sekolah; 5 menganggap sbg; memungut: ~ anak; 6 mengutip: ia ~ satu paragraf dr karangan itu; 7 memetik: bibi sedang ~ sayur di kebun; 8 menerima; mempekerjakan: untuk sementara perusahaan konveksi itu ~ karyawati; 9 menjalani: tahun ini ia tidak ~; 10 membuat cedera (dl pertandingan sepak bola): pemain gelandang yg ~ lawannya itu diberi kartu kuning; 11 memberikan; mempertunjukkan: ia ~ contoh kalimat yg lain; ~ alih menggantikan pimpinan (pengusahaan dsb); ~ angin menghirup udara bersih (sejuk) dng berjalan-jalan: ~ bagian menempuh jalan; turut serta; ~ bena memedulikan; mengindahkan; ~ berat memasukkan ke dl hati; menerima dng sungguh-sungguh; ~ contoh 1 memberi sbg umpama; 2 mencontoh; meniru; ~ di(ke)hati memasukkan di(ke) hati; agak gusar; kecewa dsb; ~ gambar membuat gambar; memotret; ~ haluan menentukan haluan; mengarah; menuju; ~ hati mempersenang hati orang supaya dicintai dsb; ~ ibarat (contoh, teladan) melakukan sesuatu menurut ibarat (contoh, teladan); mencontoh; meniru; ~ ingatan memasukkan ke dl ingatan; ~ inisiatif membuat langkah pertama dl mengusahakan sesuatu; ~ jalan menempuh jalan; ~ keputusan memutuskan; menentukan; ~ kesempatan (peluang) mempergunakan kesempatan (peluang); ~ langkah mulai hendak melompat, berlari, dsb; ~ layar menurunkan layar; ~ menantu menjadikan menantu; ~ muka membuat orang supaya senang (sayang) kpd kita (biasanya dng cara yg kurang baik); ~ panjang 1 menjadikan urusan yg panjang (spt mengadukan kpd hakim dsb); 2 memaafkan kesalahan-kesalahan; ~ pedoman 1 memakai sbg pedoman; 2 menuju ke; ~ peduli mengindahkan; menghiraukan; ~ ringkas meringkas; mengikhtisarkan; ~ risiko 1 siap menghadapi segala kemungkinan (bahaya, hambatan, dsb) yg akan dijumpai atau terjadi; 2 siap mengahdapi segala akibat yg memungkinkan timbul atau akan dialami dr sikap atau perbuatannya; ~ sempena mengambil berkat; ~ simpan mengambil ringkas; ~ tahu dapat tahu (dr); ~ tanah (negeri, kota, dsb) 1 merampas; 2 ark nama upacara dl perayaan Hasan Husein; ~ tindakan mulai bertindak; mengadakan aturan-aturan; ~ ujian 1 menempuh ujian; 2 menguji; ~ untung menarik untung; mengambil v berkali-kali mengambil: ~ batu dr sungai; mengambilkan v 1 mengambil untung orang lain: ibu ~ nasi untuk sarapan adik; 2 mengambil dr: bapak ~ biaya pengobatan ini dr uang cadangan;
 ambilan n yg diambil; pendapatan mengambil; pengambil n orang yg mengambil; pengambilan n 1 cara (perbuatan dsb) mengambil; pemungutan; pengutipan dsb: akan memperhatikan ~ barang-barang dr toko itu; 2 pendapat: sepanjang ~ saya, pasal ini melarang berdagang senjata api
+ambilingual n orang atau masyarakat yg mempunyai kemampuan seimbang dl dua bahasa
 ambilinial n kelompok kekerabatan yg berorientasi pd nenek moyang bersama, ditelusuri dr garis ayah/ibu
 ambin n kain (tali dsb) pengikat anak (barang dsb) yg digendong; berambin (lutut) v duduk dng tangan disengkelitkan di muka lutut; mengambin v menggendong atau mendukung dng ambin;
 ambinan n barang yg diambin; gendongan
@@ -859,6 +863,7 @@ ameiosis /améiosis/ n pembelahan sel secara meiosis yg tidak berlangsung sebaga
 ameliorasi /améliorasi/ n 1 Tan cara berusaha untuk memperoleh kenaikan produksi serta menurunkan biaya pokok (antara lain dng perbaikan tanah); 2 Ling peningkatan nilai makna dr makna yg biasa atau buruk menjadi makna yg baik
 amen /amén/ v, mengamen v berkeliling (menyanyi, main musik, dsb) untuk mencari uang; pengamen n penari, penyanyi, atau pemain musik yg tidak bertempat tinggal tetap, berpindah-pindah dan mengadakan pertunjukan di tempat umum: rombongan ~ keroncong
 amendemen /amendemén/ n usul perubahan rancangan undang-undang yg dibicarakan dl Dewan Perwakilan Rakyat dsb: hak -- amensalisme /aménsalisme/ n Tan populasi yg terdiri atas dua jenis tumbuhan atau lebih yg hidup berkelompok di daerah tertentu yg salah satu jenisnya akan terpengaruh hadirnya jenis tumbuhan lain
+ametabola /amétabola/ n Zool serangga yg tidak menunjukkan adanya metamorfosa dl perkembangannya
 ameter /améter/ n Kim pengukur arus listrik yg digunakan sbg pelengkap analisis elektrogavimetri
 ametis /amétis/ n Geo batu permata kuarsa yg tembus cahaya dng warna yg beraneka spt ungu, merah, biru
 amfibi n 1 binatang yg dapat hidup di air dan di darat spt katak; 2 benda yg dapat berfungsi, baik di air maupun di darat: tank -- amfibiotik a sifat serangga yg hidup di darat pd stadium dewasa, tetapi hidup di air pd stadium larva
@@ -949,8 +954,7 @@ amulet /amulét/ n jimat; sesuatu yg dipakai untuk melindungi pemakai thd segala
 amung kl v, teramung satu-satunya; tunggal
 amunisi n 1 segala pengisi senjata api (spt mesiu, peluru); 2 segala alat peledak yg ditembakkan kpd musuh (spt bom, granat roket)
 ana- bentuk terikat awalan tata nama kimia, berarti inti aromatik terkondensasi dua, tersubstitusi dl kedudukan 1,5, msl anabolisme
-anabolisme n 1 Bio pembentukan zat organik kompleks dr yg sederhana; 2 Kim
-asimilasi zat makanan oleh organisme untuk membangun atau memulihkan jaringan dan bagian-bagian hidup yg lain; 3 proses perubahan makanan menjadi sumber energi dl tanaman dan binatang
+anabolisme n 1 Bio pembentukan zat organik kompleks dr yg sederhana; 2 Kim asimilasi zat makanan oleh organisme untuk membangun atau memulihkan jaringan dan bagian-bagian hidup yg lain; 3 proses perubahan makanan menjadi sumber energi dl tanaman dan binatang
 anaerob n reaksi kimia atau jasad renik yg tidak memerlukan adanya udara atau oksigen, contohnya fermentasi gula oleh ragi dan penguraian lumpur tinja oleh bakteri anaerob
 anafase n tingkat pembelahan sel yg ditandai dng bergeraknya kromosom-kro- mosom anak menuju kutub gelendong masing-masing
 anafilaksis n Far kenaikan kerentanan suatu organisme thd injeksi protein susulan atau kedua
@@ -1035,7 +1039,7 @@ andika kl n tuanku: segera patik menghadap -- batara
 andikara ĺ adikara
 andiko n penghulu adat
 andil n 1 modal seseorang (perusahaan, kelompok) yg tertanam di dl perusahaan; saham: ayah mempunyai -- dl perusahaan itu; 2 jasa: para mahasiswa mempunyai -- dl pembuatan jalan di desa ini
-andilau n Bot nama pohon, Commersonia bartramia; tercincang puar bergerak --, pb jika seseorang dihina, tentu keluarga atau kaumnya akan turut tersinggung juga
+andilau Mk n Bot nama pohon, Commersonia bartramia; tercincang puar bergerak --, pb jika seseorang dihina, tentu keluarga atau kaumnya akan turut tersinggung juga
 andong n kereta kuda sewaan spt dokar atau sado beroda empat (di Yogyakarta dan Surakarta)
 andong n Bot lenjuang, Cordyline fruticosa
 andradit n kalsium-besi, anggota dari batu akik
@@ -1059,7 +1063,7 @@ aneka /anéka/ num banyak macam; berjenis-jenis: pakaian dan tas ada di toko itu
 aneka jenis /anéka jenis/ a berbagai jenis; beraneka jenis a bermacam jenis; keanekajenisan n banyaknya jenis tumbuhan atau hewan yg terdapat dl suatu masyarakat kehidupan
 aneka ragam a berbagai ragam; beraneka ragam a berbagai ragam; bermacam-macam ragam; keanekaragaman n hal atau keadaan beraneka ragam ~ jenis Bio banyaknya jenis tumbuhan dan/atau hewan yg terdapat dl suatu masyarakat kehidupan
 anekdot /anékdot/ n cerita singkat yg menarik krn lucu dan mengesankan, biasanya mengenai orang-orang penting atau terkenal dan berdasarkan kejadian yg sebenarnya
-aneksasi /anéksasi/ n salah satu cara hidup bagi suatu negara untuk memperoleh tambahan wilayah, biasanya dng cara kekerasan; pengambilan dng paksa tanah negara atau orang lain untuk disatukan dng tanah sendiri; pencaplokan; penyerobotan; menganeksasi v mengambil dng paksa; mencaplok; menyerobot
+aneksasi /anéksasi/ n pengambilan dng paksa tanah (wilayah) orang (negara) lain untuk disatukan dng tanah (negara) sendiri; penyerobotan; pencaplokan; penggabungan; menganeksasi v mengambil dng paksa tanah (wilayah) orang (negara) lain untuk disatukan dng tanah (negara) sendiri; menyerobot
 anemer /anémer/ n pemborong pekerjaan (membuat rumah dsb); kontraktor: sbg -- dia tahu benar berapa biaya membangun sebuah rumah sederhana
 anemia /anémia/ n penyakit kekurangan darah krn kurangnya butir-butir darah merah; -- sel sabit eritrosit dl bentuk bulan sabit sehingga daya afinitas thd oksigen berkurang
 anemofili /anémofili/ n sifat tumbuhan yg menyesuaikan diri dng penyerbukan oleh angin
@@ -1117,8 +1121,7 @@ angit a berbau spt kerak terbakar
 angka n 1 tanda atau lambang sbg pengganti bilangan; nomor; 2 nilai (kepandaian); ponten; -- Arab angka yg berasal dr angka Arab yg sekarang menjadi angka internasional (1, 2, 3, dsb); -- kelahiran angka perbandingan antara jumlah individu yg lahir dl suatu populasi tertentu dan jumlah keseluruhan individu yg ada dl populasi itu; dinyatakan dng persentase (%); -- kematian angka yg menunjukkan banyaknya kematian; -- muai 1 angka mulai linier atau angka muai panjang; berangka-angka(an) v termenung-menung memikirkan sesuatu; mengangkakan v memberi berangka (bernomor); menandai dng angka: petugas perpustakaan itu sedang ~ buku; perangkaan n bilangan-bilangan catatan tt banyaknya barang (orang, penduduk, dsb); statistik; pengangkaan n pemberian angka (nomor); hal (cara) mengangkakan
 angka kl v mengangka menyangka; menganggap; memikir
 angkara a kl 1 ganas; buas; bengis: berbuat -- thd sesama manusia; 2 kl kurang ajar (thd perempuan dsb): berbuat -- thd istri orang; -- murka loba; tamak; mementingkan diri sendiri: raja yg - murka; keangkaraan n 1 ketamakan; kelobaan: janganlah; 2 kebuasan; kekejaman; kebengisan; kebiadaban
-angkasa n 1 lapisan udara yg melingkupi bumi: -- bumi ini lebih kurang 300 km tebalnya; 2 kl awang-awang; udara; langit: bintang-bintang berkilauan di -- biru; -- luar Terb ruang di luar lapisan udara; -- niaga Dag siaran iklan niaga melalui radio dan televisi; mengangkasa v 1 membubung ke udara; terbang ke udara; melangit: pesawat itu
-akan segera ~; 2 ki naik tinggi-tinggi (tt harga): kebutuhan pokok ~ pd setiap menjelang Lebaran
+angkasa n 1 lapisan udara yg melingkupi bumi: -- bumi ini lebih kurang 300 km tebalnya; 2 kl awang-awang; udara; langit: bintang-bintang berkilauan di -- biru; -- luar Terb ruang di luar lapisan udara; -- niaga Dag siaran iklan niaga melalui radio dan televisi; mengangkasa v 1 membubung ke udara; terbang ke udara; melangit: pesawat itu akan segera ~; 2 ki naik tinggi-tinggi (tt harga): kebutuhan pokok ~ pd setiap menjelang Lebaran
 angkasawan n 1 penyiar radio; 2 astronaut
 angkat v mengangkat (membawa ke atas): -- tangan; -- besi OIr olahraga dng mengangkat halter (besi); -- bicara ki mulai bicara (berpidato dsb); -- kaki ki 1 pergi (meninggalkan tempat); 2 melarikan diri; kabur; -- tangan 1 mengangkat kedua belah tangan ke atas tanda menyerah (tidak melawan); 2 mengacungkan tangan ke atas tanda menunjukkan diri: coba, siapa yg dapat mengerjakan, -- tangan; -- topi ki menaruh hormat; kagum; mengangkat v 1 membawa ke atas; menaikkan; meninggikan: sang Juara ~ piala yg telah berhasil diraihnya tinggi-tinggi; 2 membawa pergi: anak itu disuruh ~ jemuran; 3 (mulai) melakukan (menyatakan): ~ sumpah; 4 menaikkan (pangkat dsb); menetapkan menjadi (pegawai dsb): tahun ini Pemerintah ~ empat orang duta besar; 5 mengambil, menjadikan, mengakui sbg (anak, saudara, dsb): mereka telah ~ anak itu sbg anak sendiri; ~ bahu menyatakan tidak tahu; ~ diri sombong; ~ kening (alis) mengernyitkan kening; keheranan; ~ makanan (hidingan) 1 menghidangkan makanan; 2 mengambil piring (sisa makanan dsb) sesudah selesai makan; ~ pundak mengangkat bahu; ~ sembah menyembah; ~ senjata (mulai) berperang; ~ sumpah bersumpah; ~ tangan 1 menaikkan kedua tangan sampai ke atas bahu tanda tidak akan melawan atau menyerah; 2 putus asa; mengangkat-angkat v ki memuji-muji; menyanjung-nyanjung: ia selalu ~ menantunya itu; mengangkati v berulang kali mengangkat: kerjanya ~ batu kali; mengangkatkan v 1 mengangkat untuk: ia ~ kopor saya; 2 ark mengangkat: ia pun ~ tangannya sambil mengucapkan doa; ~ kening lebih kurang pukul 7.30—8.00 pagi; terangkat v 1 sudah diangkat; 2 dapat diangkat;
 angkatan n 1 hasil mengangkat: ia keluar sbg juara angkat besi dng ~ 246 pon; 2 bala tentara (segenap tentara dng senjatanya): ~ Bersenjata Republik Indonesia; 3 pasukan (armada dsb) yg dikirim untuk berperang: dua kali ~ ke Maroko patah di tengah jalan; 4 generasi; sekelompok orang yg sezaman (sepaham dsb): Nur Sutan Iskandar dipandang sbg tokoh ~ Balai Pustaka; 5 yg diangkat (jabatan, pangkat): ditegaskannya bahwa jabatan wali kota bukan pilihan, melainkan ~; 6 kl selengkap pakaian; 7 ketetapan atau penetapan menjadi pegawai (naik pangkat dsb): ~nya sbg duta besar disetujui negara yg bersangkutan; ~ baru turunan baru (penganut aliran zaman baru); ~ darat tentara serta alat perlengkapannya untuk berperang di darat; ~ empat puluh lima (1945) 1 para pejuang kemerdekaan yg memelopori, revolusi pd saat-saat menjelang proklamasi kemer- dekaan; 2 Sas golongan pengarang dan seniman yg muncul sekitar tahun 1945; ~ laut tentara serta alat perlengkapannya untuk berperang di laut; ~ muda pemuda; turunan yg termuda; ~ negara 1 jabatan pegawai negara; 2 yg diangkat oleh negara; ~ penerus angkatan yg akan menggantikan angkatan sebelumnya; generasi penerus; ~ udara tentara serta alat perlengkapannya untuk berperang di udara; perangkat n alat-alat perlengkapan: ~ kantor; pengangkatan n proses, cara, perbuatan mengangkat; seangkatan n 1 sekali mengangkat; 2 generasi yg sama; 3 angkatan yg sama; seperangkat n selengkap; sepemakai; satu setel mengangkati v berulang kali mengangkat: pekerjaan ~ barang-barang di pelabuhan; terangkat v 1 sudah diangkat; 2 dapat diangkat; pengangkatan n proses, cara, perbuatan mengangkat hal mengangkat
@@ -1144,6 +1147,7 @@ angkut v mengangkut v 1 mengangkat dan membawa: ~ padi ke lumbung; 2 memuat dan 
 angkutan n 1 barang-barang (orangorang dsb) yg diangkut; 2 (pengangkutan): ~ dng kereta api lebih murah dp dng truk; pengangkut n 1 orang yg mengangkut; 2 alat (kapal, mobil, dsb) untuk mengangkut; pengangkutan n 1 proses, cara mengangkut: ~ para transmigran dilakukan dng pesawat udara; 2 Geo proses pemindahan bahan lepas batuan oleh air sungai, angin, gletser, laut, dan gaya berat
 angkut-angkut n binatang kecil spt tawon (yg hampir selalu tampak mengangkut tanah untuk sarangnya)
 anglo n perapian (dapur) kecil dng arang sbg bahan bakarnya
+anglong, menganglong v berbicara tanpa arah tujuan; mengigau
 anglung n paviliun
 angon v menggembala
 angpau n 1 amplop kecil untuk tempat uang sumbangan yg diberikan kpd orang yg punya hajat (perkawinan dsb) dl adat Cina; 2 hadiah atau pemberian uang (pd hari Tahun Baru Cina dsb)
@@ -1165,8 +1169,7 @@ animo n hasrat dan keinginan yg kuat (untuk membeli, mengambil, memiliki, dsb): 
 aning-aning n lebah besar
 anion n ion yg bermuatan negatif terbentuk akibat penambahan elektron pd molekul atau atom
 anja a, beranja-anja a manja; teranja-anja a selalu dimanjakan: masa kecil ~, sudah besar terbawa-bawa, lalu tua berubah tidak
-anja n Lay tali besar (untuk menaikkan
-atau menurunkan layar)
+anja n Lay tali besar (untuk menaikkan atau menurunkan layar)
 anjak v, beranjak v 1 berpindah (sedikit); beringsut: setapak ia tidak akan ~; 2 ki meningkat: anak-anak itu sudah ~ dewasa; menganjak v memindahkan (tanaman dsb);
 anjal v, menganjal v melenting lalu kembali spt semula (spt bola ditekan); mengambul
 anjang-anjang n Ikn 1 ikan laut, Scolopsis ghanam; 2 ketam laut; 3 nama tumbuhan
@@ -1205,6 +1208,7 @@ anonim a tanpa nama; namanya tidak diketahui
 anonimus a anonim
 anorganik n bahan yg terdiri atas elemen, meliputi air, gas, asam, dan mineral kecuali karbon
 anorganis n bahan-bahan yg terdiri atas elemen-elemen, meliputi air, gas, asam, dan mineral kecuali karbon
+anorgastik a tidak mengalami orgasme
 ansambel n kelompok kecil penyanyi atau pemain musik
 ansar n 1 pembantu; penyokong; penolong; 2 para pembantu perjuangan Nabi Muhammad Saw. dr penduduk Madinah pd saat beliau hijrah dr Mekah ke Madinah
 ansor n IsI 1 pembantu; penyokong; penolong; 2 para pembantu perjuangan (sahabat) Nabi Muhammad Saw. dr kalangan penduduk Madinah setelah beliau hijrah dr Mekah ke Madinah
@@ -1270,6 +1274,7 @@ antiklimaks n 1 Sas majas yg mempergunakan kata-kata yg menurut artinya makin la
 antiklin n Geo punggung lipatan kulit bumi yg berlapis-lapis
 antiklinal a Geo berkaitan dng punggung lipatan kulit bumi yg berlapis-lapis
 antiklor n senyawa kimia yang digunakan untuk mengikat klor bebas yg berlebih
+antikuari n orang yg mengoleksi atau mempelajari benda kuno (antik)
 anting n pemberat (dr batu, timah, dsb) yg tergantung pd tali; -- neraca Fis batu timbangan yg ringanringan (spt gram dsb);
 anting-anting n 1 perhiasan telinga yg digantungkan pd cuping telinga; 2 bandul (dr timah dsb) pd lonceng, alat penduga, dsb; menganting v bergantung berayun-ayun
 antioksidan n zat aditif yg ditambahkan pd karet, minyak, lemak, atau produk makanan lain untuk mencegah terjadinya oksidasi oleh udara yg menyebabkan minyak menjadi tengik atau zat menjadi rusak
@@ -1474,7 +1479,7 @@ aristokrat n 1 penganut cita-cita kenegaraan yg berpendapat bahwa negara harus d
 aristokratis a bersifat aristokrat
 arit n 1 pisau yg bentuknya melengkung, dipakai untuk memotong rumput, padi, dsb; sabit; 2 pisau penyadap; mengarit v menyabit (rumput, padi, dsb); mencari rumput (untuk makanan ternak); pengarit n orang yg menyabit
 aritmetika n pengkajian bilangan bulat positif, 1, 2, 3, 4, 5, dng operasi penjumlahan, pengurangan, perkalian, dan pem- bagian, serta pemakaian hasilnya dl kehidupan sehari-hari
-arja n drama yg dinamis di Bali yg dimainkan dng menyanyi dan menari
+arja Bl n drama tradisional yg dinamis yg dimainkan dng menyanyi dan menari, biasanya mengambil cerita-cerita Panji
 arkais a 1 kuno; tua; tidak dipakai lagi; 2 tidak lazim dipakai lagi (tt kata)
 arkaisme n 1 pemakaian kata atau bentuk kata yg bersifat arkais (kuno, tidal lazim); 2 cara (gaya) yg bersifat arkais
 arkati n pandu laut; penunjuk jalan di laut:
@@ -1526,6 +1531,7 @@ Aru n gelar bangsawan Bugis
 aruan n ikan gabus (ikan air tawar), Ophiocephalus striatus
 aruda n tumbuhan yg berbau tidak sedap; daun inggu, Ruta angustifolia
 aruk, mengaruk v bersikap spt menari dng keris di tangan seolah-olah menyerang musuh sbg tanda setia kpd raja (adat Bugis pd zaman dahulu)
+arumba n akr alunan rumpun bambu; pergelaran musik yg disajikan dng menggunakan alat musik bambu yg tersusun dl rak
 arun, mengarun v mengaron; mengacu; mengaduk (nasi, pulut)
 arung, mengarung v 1 berjalan menyeberang (sungai, hutan, dsb): hati-hati ~ sungai itu; 2 menjelajah: ~ samudra luas; mengarungi v 1 berjalan menyeberangi; 2 berlayar menjelajahi (lautan); 3 mengalami, menempuh (hidup); 4 melintasi (rimba);
 arung-arungan n 1 bagian sungai yg dangkal tempat orang menyeberang; 2 laut yg biasa dilayari (dilalui); pengarungan n proses, cara, perbuatan mengarung(i)
@@ -1593,6 +1599,7 @@ asma n nama keagungan (bagi Tuhan): kami berbuat baik thd siapa pun sematamata u
 asma n bengek; sesak napas: ia menderita penyakit -- asma Allah n sebutan untuk Allah, msl Arrahman Yang Maha Pengasih; Ar-- rahim Yang Maha Penyayang
 asmara n perasaan senang kpd lain jenis (kelamin); (rasa) cinta: hatinya gundah krn dilanda --; berasmara v bercinta-cintaan; berkasihkasihan
 asmaradanta kl a putih berkilat (gigi, gading): bibirnya merah tua dan giginya -- asmaraloka kl n dunia (alam) cinta kasih
+asmarandana n Sen bentuk komposisi tembang macapat, biasanya digunakan untuk mengungkapkan rasa sedih dan prihatin atau rasa cinta, baitnya terdiri atas tujuh baris
 asnad n penyokong; bukti; nas
 aso v mengaso; mengaso v beristirahat; melepaskan lelah: ia biasa ~ sambil minum segelas teh hangat
 asonansi n Sas perulangan bunyi vokal dl deretan kata; purwakanti; berasonansi v bersajak pd bunyi-bunyi vokal
@@ -1621,6 +1628,7 @@ astat n Kim golongan halogen yg radioaktif bernomor atom 85
 astatin n unsur dng nomor atom 85, lambang At, dan BA = 211; halogen dengan semua isotopnya radioaktif
 astenia /asténia/ n Psi loyo; lemah sekali; penat sekali
 asteroid /astéroid/ n benda kecil berbentuk bintang, anggota tata surya yg jumlahnya bintang puluhan ribu, menghuni ruang antara planet Mars dan Yupiter
+astigmatis n Anat kesalahan yg terjadi pd penglihatan jika kornea tidak merata kecembungannya sehingga sinar yg masuk ke mata tidak merata pembiasannya
 astral n mengenai (terdiri atas menyerupai) bintang-bintang
 astringen n Far zat yg menyebabkan pengerutan jaringan sehingga dapat mengurangi sekresi (dipakai sbg antidiare dan obat luar untuk merawat perdarahan)
 astrofisika n Astron bagian dr astronomi yg mempelajari benda-benda angkasa dr suduti lmu alam dan ilmu kimia
@@ -1682,6 +1690,7 @@ atom n 1 unsur kimia yg terkecil yg dapat berdiri sendiri dan dapat bersenyawa d
 atomisasi n proses pemecahan cairan menjadi semburan halus; pengatoman
 atomistis a 1 bersifat menganalisis sampai pd bagian yg sekecil-kecilnya sehingga melupakan bahwa bagian-bagian itu ada hubungannya; 2 teliti sekali: tak usah diselidiki secara -- atop v serdawa; bertahak
 atos a keras
+atowa n gendering yg bagian kayunya dibuat dr kayu ringan agar mudah dibawa, tutupnya dibuat dr selaput kulit biawak, digunakan untuk menghormati tamu
 atribut n 1 tanda kelengkapan (berupa baret, lencana, dsb); 2 ki lambang: -- dr keadilan ialah pedang dan timbangan; 3 sifat yg menjadi ciri khas (suatu benda atau orang): 4 keterangan
 atributif a berkenaan dng atribut
 atrisi n Geo proses saling mengikis antara sesama pecahan batu-batuan ketika terangkut oleh air, es, atau angin
@@ -1691,6 +1700,7 @@ atsiri ĺ asiri
 atung v, teratung-atung v terkatung-katung
 atur v beratur beratur v disusun baik-baik (rapi, tertib): segala-galanya ~ baik-baik; mengatur v 1 membuat (menyusun) sesuatu menjadi teratur (rapi); menata: dialah yg ~ ruangan ini; 2 mengurus: siapa yg ~ rumah tanggamu?; 3 merangkai; menyusun (tt bunga): ia ahli dl hal ~ bunga; mengaturkan v 1 menata (mengatur) sesuatu untuk pihak lain; teratur v sudah diatur baik-baik (rapi, beres); berturut-turut dng tetap; _ pengatur n orang (badan dsb) yg mengatur; alat untuk mengatur: persimpangan jalan yg ramai dilengkapi dng lampu ~ lalu lintasi; pengaturan n cara (perbuatan) mengatur;
 aturan n 1 hasil perbuatan mengatur; (segala sesuatu) yg sudah diatur; 2 cara (ketentuan, patokan, petunjuk, perintah) yg telah ditetapkan supaya diturut; 3 tindakan atau perbuatan yg harus dijalankan; 4 adat sopan santun; ketertiban; 5 sebenarnya; memangnya; biasanya: ~(nya) dia harus datang sendiri; ~ pranata Psi aturan yg mengatur nilainilai sosial yg berlaku dl suatu masyarakat; beraturan v 1 dng aturan; teratur baikbaik; memakai aturan; 2 tahu aturan (sopan santun); peraturan n 1 tatanan (petunjuk, kaidah, ketentuan) yg dibuat untuk mengatur: ~ gaji pegawai; ~ pemerintah; 2 kl hubungan keluarga (kepada): bunda raja Ahmad itu ~ saudara dua pupu kpd ayahanda
+aubade n 1 nyanyian atau musik (untuk) penghormatan pd pagi hari; 2 nyanyian cinta pd pagi hari; 3 pujian yg disampaikan dl bentuk nyanyian atau permainan oleh sekelompok orang: -- anak sekolah di depan Istana Merdeka pd peringatan Hari Proklamasi Kemerdekaan Indonesia
 audiensi /audiénsi/ n 1 kunjungan kehormatan; 2 penonton, pengunjung atau pendengar (dl suatu ceramah, pertunjukan, dsb)
 audio a berkaitan dng pendengaran
 audiofon n alat pendengaran bagi orang tuli
@@ -1769,9 +1779,9 @@ awah a banglas; lawas: pemandangan di tempat itu -- awahama a bebas dr hama peny
 awai v, mengawai v melambai dng (tangan, kain)
 awai a, berawai a kecewa; dng tangan hampa: ia pergi ~
 awak n 1 tubuh; badan; 2 orang yg menjadi
-anak buah pesawat terbang (kapal dsb): -- kapal; --  pesawat; berawak v mempunyai awak: Amerika dan Rusia sudah dapat meluncurkan pesawat ruang angkasa ~; perawakan n bentuk tubuh; sikap badan: olahragawan biasanya mempunyai ~ tegap v D ( k e E r
-awal a 1 mula-mula (sekali); mula; pertama: dr -- hingga akhir; 2 permulaan; yg mula-mula: -- tahun ini; pd -- abad kesepuluh; 3 jauh sebelum waktu yg ditentukan: -- amat engkau datang; berawal v ada awalnya; bermula: perkelahian itu ~ dr suatu insiden kecil; berawalan v memakai (mempunyai) awalan: kata yg ~ ber; mengawali v memulai; mendahului: nyanyian bersama ~ kebaktian keluarga;
-awalan n Ling imbuhan yg dirangkaikan di depan kata yg diberi imbuhan; prefiks; seawal a paling duluan: besok saya akan datang ~ mungkin
+anak buah pesawat terbang (kapal dsb): -- kapal; --  pesawat; berawak v mempunyai awak: Amerika dan Rusia sudah dapat meluncurkan pesawat ruang angkasa ~; perawakan n bentuk tubuh; sikap badan: olahragawan biasanya mempunyai ~ tegap
+awal n 1 mula-mula (sekali); mula: dr -- hingga akhir; 2 permulaan; yg mula-mula: -- tahun ini; pd -- abad kesepuluh; 3 jauh sebelum waktu yg ditentukan: -- amat engkau datang; -- larva tahapan sebelum berbentuk larva, biasanya merupakan tahapan dl embrio; mengawali v memulai; mendahului: nyanyian bersama ~ api unggun itu; berawal v ada awalnya; bermula: perkelahian itu ~ dr suatu insiden kecil; berawalan v memakai (mempunyai) awalan: kata yg ~ ber-
+awalan n 1 Ling imbuhan yg dirangkaikan di depan kata; prefiks; 2 Olr ancangancang;
 awam a 1 am; umum; orang kebanyakan; 2 biasa (tidak istimewa); orang biasa; 3 (orang) kebanyakan; 4 orang biasa (bukan ahli); bukan rohaniawan; orang preman (bukan anggota tentara); mengawamkan v 1 mengumumkan; menyampaikan (menyiarkan dsb) kpd orang banyak; 2 mengutarakan; menganjurkan; mengusulkan; pengawam n penganjur: ia bertindak sbg ~ penanaman padi unggul
 awan n 1 uap air yg tampak bergumpalgumpal melayang di udara; mega; 2 nama berbagai-bagai corak ukiran (perhiasan, lukisan, pola): -- biji timun; -- bunga cengkih; 3 ki tempat yg tinggi sekali: anganku melayang jauh tinggi di --; --  bakat kuning (merah) awan yg kekuning-- kuningan (kemerah-- merahan); -- berarak awan yg bergerak (berjalan); -- hitam mendung; --  kemawan awan yg bergumpal-gumpal; -- kerawang ukiran yg tembus; -- mengandung hujan mendung; -- pengarak hujan awan yg menandakan akan datang hujan; serosa di balik --, ki senang sekali (mulia sekali); berawan v diliputi awan: langit pun cerah tiada ~; tinggi ~; mengawan v 1 menjadi awan; menyerupai awan; 2 naik ke awan; membubung tinggi: tinggi ~
 awan n Zool kera yg bertangan panjang; (kera) ungka
@@ -1802,11 +1812,7 @@ ayakan n 1 hasil mengayak; 2 perkakas untuk mengayak; pengayak n 1 orang yg meng
 ayak, mengayak v berjalan bergoyang-goyang: ~ spt itik
 ayak-ayak n Zool laba-laba kecil yg berkaki panjang, bergoyang-goyang badannya apabila hinggap di air
 ayal a 1 lambat; lalai: jangan -- lagi; 2 bimbang ragu-ragu: tak -- lagi, ia adalah sahabat temanku; berayal-ayalan v berlambat-lambat: bertangguh-tangguh
-ayam n unggas yg biasa diternakkan, tidak dapat terbang, yg jantan berkokok dan yg betina berkotek (banyak macam dan namanya) (spt -- alas, -- benda, -- beroga); -- bertelur di padi, pb hidup senang dan mewah; -- ditambat disamber elang, pb malang sekali, nasib buruk; -- hitam terbang malam, pb sukar ketahuan (tt perkara dsb); -- itik raja pd tempatnya, pb setiap orang berkuasa di tempatnya atau dilingkunganya; -- putih terbang siang, pb mudah ketahuan (tt perkara dsb); -- aduan ayam jantan yg dipelihara untuk diadu; ayam sabungan; -- alas ayam hutan; -- belanda kalkun; -- beroga ayam hutan, Callus fenuginus; -- biang ayam betina yg hampir bertelur; -- cemani
-ayam selasih; -- cenangkas ayam (sabungan) yg berbulu putih dng kaki berwarna kuning; -- dara ayam betina yg hampir bertelur; -- denak jenis ayam hutan; -- hutan jenis ayam liar; -- itik segala bangsa ayam yg dipelihara orang (spt
-ayam, itik, angsa); -- kampung ayam pribumi yg dipelihara orang (lw ayam negeri, ayam ras); -- katik jenis ayam kecil; -- mutiara jenis ayam kalkun, bulunya berbintik-bintik putih; -- panggang daging ayam yg dipanggang; -- peranggang ayam potong; -- potong ayam dipelihara untuk disembelih; -- pungguk
-ayam yg tidak berekor; -- sabung(an)
-ayam jantan yg biasa disabung; ayam aduan; -- selasih ayam yg warna bulu, tulang, dan dagingnya hitam; -- tambatan kl abdi yg sudah tua;
+ayam n unggas yg biasa diternakkan, tidak dapat terbang, yg jantan berkokok dan yg betina berkotek (banyak macam dan namanya) (spt -- alas, -- benda, -- beroga); -- bertelur di padi, pb hidup senang dan mewah; -- ditambat disamber elang, pb malang sekali, nasib buruk; -- hitam terbang malam, pb sukar ketahuan (tt perkara dsb); -- itik raja pd tempatnya, pb setiap orang berkuasa di tempatnya atau dilingkunganya; -- putih terbang siang, pb mudah ketahuan (tt perkara dsb); -- aduan ayam jantan yg dipelihara untuk diadu; ayam sabungan; -- alas ayam hutan; -- belanda kalkun; -- beroga ayam hutan, Callus fenuginus; -- biang ayam betina yg hampir bertelur; -- cemani ayam selasih; -- cenangkas ayam (sabungan) yg berbulu putih dng kaki berwarna kuning; -- dara ayam betina yg hampir bertelur; -- denak jenis ayam hutan; -- hutan jenis ayam liar; -- itik segala bangsa ayam yg dipelihara orang (spt ayam, itik, angsa); -- kampung ayam pribumi yg dipelihara orang (lw ayam negeri, ayam ras); -- katik jenis ayam kecil; -- mutiara jenis ayam kalkun, bulunya berbintik-bintik putih; -- panggang daging ayam yg dipanggang; -- peranggang ayam potong; -- potong ayam dipelihara untuk disembelih; -- pungguk ayam yg tidak berekor; -- sabung(an) ayam jantan yg biasa disabung; ayam aduan; -- selasih ayam yg warna bulu, tulang, dan dagingnya hitam; -- tambatan kl abdi yg sudah tua;
 ayam-ayam n burung yg rupanya spt ayam: ~ tidak kuat terbang spt ayam;
 ayam-ayaman n 1 tiruan ayam (untuk permainan dsb); 2 ayam-ayam
 ayan n blek (kaleng); seng (timah sari); besi putih
@@ -1820,8 +1826,7 @@ ayat n 1 bagian dr surah dl kitab suci (alquran): -- 3 Surah Alfatihah; 2 bagian
 ayatulah n tanda-tanda kebesaran Tuhan
 ayo n kata untuk mengajak; mari: -- anakanak, kita pulang D kG
 ayom, mengayomi v melindungi: TNI harus dapat ~ rakyat; pengayoman n proses, cara, perbuatan mengayomi: ~ kpd rakyat harus ditingkatkan; saat ini rakyat sangat memerlukan ~ dr pemerintah
-ayu a anggun dan menawan hati; cantik: dia -- sekali kalau sudah berdandan; gadis-gadis Sunda pd umumnya -- dan manis; keayuan n kecantikan; keanggunan; sifat
-ayu: ~ dan keramahan artis itu membuatnya semakin disenangi para penggemarnya
+ayu a anggun dan menawan hati; cantik: dia -- sekali kalau sudah berdandan; gadis-gadis Sunda pd umumnya -- dan manis; keayuan n kecantikan; keanggunan; sifat ayu: ~ dan keramahan artis itu membuatnya semakin disenangi para penggemarnya
 ayuh n mari, ayo
 ayum ark v, mengayum membantu (perbuatan jahat);
 ayuman n bantuan thd perbuatan jahat
