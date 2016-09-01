@@ -8,7 +8,7 @@ wadak a 1 bersifat jasmasi; ragawi; 2 nyata
 wadal n kurban untuk makhluk halus
 wadam akr n wanita adam; banci
 wadar n ikan badar
-wadas ĺ cadas
+wadas -> cadas
 wadat n orang yg membujang; orang yg tidak kawin
 wadi n sungai kering di padang pasir (berisi air jika hujan turun)
 wadon kl n perempuan; wanita
@@ -32,24 +32,23 @@ wahid num satu; tunggal
 wahyu n petunjuk dr Allah yg diturunkan hanya kpd para nabi dan rasul melalui mimpi dsb; mewahyukan v menurunkan wahyu; memberi wahyu; pewahyuan n proses, cara, perbuatan mewahyukan
 wai p seruan untuk menyatakan kaget, heran, dsb
 wai n sungai; kali
-waiduri ĺ baiduri
+waiduri -> baiduri
 waima p walaupun
 Waisak n hari raya umat beragama Buddha untuk memperingati kelahiran, pemenangan (ilmu), dan wafatnya Buddha
 waisya n kasta ketiga dl agama Hindu, yaitu golongan pedagang, petani, serta tukang
 waitankung n olahraga senam berasal dr Cina dng 12 jurus gerakan yg sederhana agar lima organ tubuh bagian dalam (paru-paru, jantung, ginjal, hati, dan limpa) selalu dl keadaan baik
-waja ĺ baja
+waja -> baja
 wajah n roman muka; muka; -- buku 1 apa yg tampak dr dalam dan dr luar sebuah buku (rupa, warna, bentuk, ukuran, tata huruf, gambar, dsb); 2 sampul luar buku; perwajahan n perihal pemberian corak dan motif pd halaman buku, kulit buku, dsb; ~ sampul 1 penataan bentuk, rupa, warna, ukuran dr sampul; 2 bagian sampul yg terdiri atas halaman sampul bagian luar yg dibuat menarik serta selaras dng isinya, dan halaman-halaman lain
 wajan n bajan; kuali; penggorengan (tempat menggoreng) -- besi penggorengan yg terbuat dr besi; -- email penggorengan yg dilapisi dr massa berupa kaca tidak bening
 wajar a 1 biasa; sebagaimana adanya tanpa diembel-embeli yg lain; 2 menurut keadaan yg ada; sebagaimana mestinya; kewajaran n perihal yg wajar; sewajar (dng) a selaras (dng); sama halnya (dng); sewajarnya adv 1 semestinya; selayaknya; 2 sebenarnya; memang demikian halnya; 3 dng sendirinya; atas kemauan sendiri
 wajib v 1 harus melakukan; harus melaksanakan; harus mengamalkan; 3 sudah semestinya; harus; -- belajar keharusan bagi anak usia 7—12 tahun untuk memperoleh pendidikan dasar; -- militer kewajiban masuk dinas militer bagi setiap warga negara apabila diperlukan oleh negara; -- pajak 1 kewajiban membayar pajak (pendapatan, kekayaan, tanah, dsb) berdasarkan undang-undang; 2 orang yg mempunyai kewajiban membayar pajak; berwajib v wajib mengurus; berwenang; mewajibkan v menjadikan wajib; mengharuskan: sekolah ~ murid-muridnya datang tepat waktu; kewajiban n 1 sesuatu yg wajib dilaksanakan; keharusan; 2 yg harus dilaksanakan; ~ bersyarat kewajiban dng syarat; ~ manusia segala sesuatu, yg menjadi tugas manusia (membina kemanusiaan); ~ moral kewajiban atas dasar norma benar dan salah sebagaimana diterima dan diakui masyarakat; ~ sosial kewajiban atas dasar norma tingkah laku lingkungan sosial; berkewajiban v mempunyai kewajiban; bertanggung jawab; mempunyai tanggung jawab: orang kaya ~ menyantuni orang miskin; sewajibnya adv seharusnya; sepatutnya
 wajik n penganan yg dibuat dr campuran ketan, gula, dan kelapa
-wajit ĺ wajik
+wajit -> wajik
 wak n kp uwak; uak
 wak n suara itik, katak,dsb
 wakaf n 1 yayasan (yg didirikan atas dasar agama Islam); 2 sesuatu (kendaraan, tanah, dsb) yg diberikan secara ikhlas untuk kepentingan umum yg berhubungan dng agama; berwakaf v memberikan wakaf; mewakafkan v menyediakan sesuatu untuk umum atau untuk keperluan yg berkaitan dng agama
 wakaf n jeda; tempat berhenti sebentar (waktu membaca ayat Quran)
-wakil n 1 orang yg dikuasakan menjadi pengganti (sulih) orang lain; 2 orang yg dipilih sbg utusan negara; duta; 3 orang yg menguruskan perdagangan dsb untuk orang lain; agen; 4 jabatan yg kedua setelah yg tersebut di belakangnya; -- nikah orang yg menggantikan pengantin laki-laki dl pernikahan; -- penjual
-wakil perusahaan/penjual yg bertugas menjualkan barang hasil perusahaan dan/atau membuat kontrak-kontrak penjualan; -- rakyat orang-orang yg duduk sbg anggota badan perwakilan rakyat; utusan rakyat; berwakil v menggunakan wakil; mewakili v bertindak sbg wakil; menyulihi; mewakilkan v menunjuk orang sbg wakil; terwakili v dapat diwakili; perwakilan n 1 segala sesuatu tt wakil; 2 kumpulan atau tempat wakil; 3 (kantor, urusan, dsb) wakil suatu negara sebelum ada duta; 4 (tempat atau kantor) wakil usaha; 5 seseorang atau kelompok yg mempunyai kemampuan atau kewajiban bicara bertindak atas nama kelompok yg lebih besar; pewakil n sesuatu atau seseorang yg mewakili
+wakil n 1 orang yg dikuasakan menjadi pengganti (sulih) orang lain; 2 orang yg dipilih sbg utusan negara; duta; 3 orang yg menguruskan perdagangan dsb untuk orang lain; agen; 4 jabatan yg kedua setelah yg tersebut di belakangnya; -- nikah orang yg menggantikan pengantin laki-laki dl pernikahan; -- penjual wakil perusahaan/penjual yg bertugas menjualkan barang hasil perusahaan dan/atau membuat kontrak-kontrak penjualan; -- rakyat orang-orang yg duduk sbg anggota badan perwakilan rakyat; utusan rakyat; berwakil v menggunakan wakil; mewakili v bertindak sbg wakil; menyulihi; mewakilkan v menunjuk orang sbg wakil; terwakili v dapat diwakili; perwakilan n 1 segala sesuatu tt wakil; 2 kumpulan atau tempat wakil; 3 (kantor, urusan, dsb) wakil suatu negara sebelum ada duta; 4 (tempat atau kantor) wakil usaha; 5 seseorang atau kelompok yg mempunyai kemampuan atau kewajiban bicara bertindak atas nama kelompok yg lebih besar; pewakil n sesuatu atau seseorang yg mewakili
 waktu 1 n seluruh rangkaian saat ketika proses; perbuatan atau keadaan berada atau berlangsung; 2 n lamanya (saat yg tertentu); 3 n saat yg tertentu untuk melakukan sesuatu; 4 n kesempatan, tempo, peluang; 5 p ketika, saat; 6 n hari (keadaan hari); 7 n saat yg ditentukan berdasarkan pembagian bola dunia; -- berlaku waktu berlakunya surat-surat kredit atau untuk menggunakan dana kredit yg telah disediakan importir bagi eks- portir; -- duga berangkat perkiraan waktu berangkat kapal dr suatu tempat; -- duga tiba perkiraan waktu tiba kapal dr suatu tempat; -- garapan jumlah waktu yg diperlukan untuk menyelesaikan produk tertentu yg dihitung sejak proses produksi dimulai sampai proses produksi berakhir; -- getar saat yg ditentukan bergetar; -- lintas 1 waktu yg terpakai (dl sekon) dihitung dr saat proyektil meninggalkan meriam peluncur sampai saat ia mengenai sasaran atau meledak; 2 saat zarah meninggalkan sumber sampai ia tiba di detektor; -- paruh jumlah waktu yg diperlukan setengah bagian; -- pulih waktu minimum dr awal denyut berikutnya (dapat) mencapai persentase tertentu dr nilai maksimum pulsa terhitung dl pencacah Geiger; -- retensi saat atau waktu penyimpanan; -- standar waktu yg dipakai sbg acuan; -- setempat waktu di daerah tertentu, dihitung menurut zona waktu tempat daerah itu berada; berwaktu v mempunyai waktu yg tertentu; dng waktu yg tertentu; memakai waktu; pewaktu n alat untuk mengukur waktu yg dapat diset; sewaktu n 1 ketika; saat; 2 sama waktunya; sewaktu-waktu adv tidak tentu waktunya; kapan-kapan; bilamana saja
 wakwak n ungka; wawa
 walabi n binatang asli Australia
@@ -84,8 +83,7 @@ wanawisata n wisata yg tujuan atau sasarannya adalah hutan
 wanda n ngambaran mimik dan watak
 wandu n banci
 wangi a harum;
-wangi-wangian n barang atau benda yg baunya harum; wewangian; wewangian n wangi-wangian; mewangi v menimbulkan bau wangi; mewangikan v menjadikan wangi: bunga melati ini ~ ruangan kamarku; pewangi n bahan (sesuatu) yg membuat
-wangi; kewangian 1 a terlalu wangi; 2 n keharuman; kewangi-wangian a agak wangi
+wangi-wangian n barang atau benda yg baunya harum; wewangian; wewangian n wangi-wangian; mewangi v menimbulkan bau wangi; mewangikan v menjadikan wangi: bunga melati ini ~ ruangan kamarku; pewangi n bahan (sesuatu) yg membuat wangi; kewangian 1 a terlalu wangi; 2 n keharuman; kewangi-wangian a agak wangi
 wangkang n jung kecil; perahu besar Cina
 wangsa kl n 1 keturunan raja; 2 bangsa
 wangsit n pesan (amanat) gaib
@@ -107,23 +105,18 @@ warangka a bagian sarung keris dsb
 waras a 1 sembuh jasmani; sehat; 2 sehat rohani (mental, ingatan): setelah bertemu dng anaknya yg telah lama menghilang, ibu itu menjadi -- kembali
 warawiri n bunga raya
 warawiri v berjalan hilir mudik; mondarmandir
-warga n 1 anggota (keluarga, perkumpulan, dsb); 2 ark tingkatan dl masyarakat; kasta; -- dalam keluarga keraton; keluarga sunan; keluarga sultan; -- dunia orang yg tidak menjadi rakyat salah satu negara; orang yg tidak berkebangsaan; -- jagat ark warga dunia; -- kota penduduk kota; kewargaan n hal yg berhubungan dng
-warga; keanggotaan; pewargaan n proses, cara, perbuatan mewargakan
+warga n 1 anggota (keluarga, perkumpulan, dsb); 2 ark tingkatan dl masyarakat; kasta; -- dalam keluarga keraton; keluarga sunan; keluarga sultan; -- dunia orang yg tidak menjadi rakyat salah satu negara; orang yg tidak berkebangsaan; -- jagat ark warga dunia; -- kota penduduk kota; kewargaan n hal yg berhubungan dng warga; keanggotaan; pewargaan n proses, cara, perbuatan mewargakan
 warga negara n warga dr suatu negara; -- asing orang warga negara lain; mewarganegarakan v menjadikan warga negara; pewarganegaraan n proses, cara, perbuatan, mewarganegarakan; kewarganegaraan n hal yg berhubungan dng warga negara; keanggotaan sbg warga negara; ~ ganda perihal memiliki dua kewarganegaraan
 wari, berwari kl p maka (tersebutlah)
 waria n pria yg bersifat dan bertingkah laku spt wanita; pria yg mempunyai perasaan dan bertingkah laku spt wanita
 warid v mengerjakan sebagaimana yg dilakukan oleh Nabi Muhammad saw
 warid n urat nadi
 waringin n beringin
-waris n 1 orang yg berhak menerima harta pusaka orang yg telah meninggal; 2 warisan; pusaka; harta peninggalan; -- asli waris yg sesungguhnya spt anak dsb; -- karib waris yg dekat kpd anak cucu dsb; -- sah penerima waris berdasarkan hukum (agama, adat); mewarisi v 1 memperoleh waris dr: adik ~ benar sifat ibu yg penyabar; 2 ki memperoleh sesuatu yg ditinggalkan; mewariskan v 1 memberikan pusaka kpd; meninggalkan sesuatu kpd: kakek ~ sawahnya kpd bapak; 2 menjadikan waris;
-warisan n sesuatu yg diwariskan, spt nama baik, harta, harta pusaka pewaris n orang yg mewariskan; pewarisan n proses, cara, perbuatan mewariskan
+waris n 1 orang yg berhak menerima harta pusaka orang yg telah meninggal; 2 warisan; pusaka; harta peninggalan; -- asli waris yg sesungguhnya spt anak dsb; -- karib waris yg dekat kpd anak cucu dsb; -- sah penerima waris berdasarkan hukum (agama, adat); mewarisi v 1 memperoleh waris dr: adik ~ benar sifat ibu yg penyabar; 2 ki memperoleh sesuatu yg ditinggalkan; mewariskan v 1 memberikan pusaka kpd; meninggalkan sesuatu kpd: kakek ~ sawahnya kpd bapak; 2 menjadikan waris; warisan n sesuatu yg diwariskan, spt nama baik, harta, harta pusaka pewaris n orang yg mewariskan; pewarisan n proses, cara, perbuatan mewariskan
 waris a untung; selalu mujur
 warita ark n 1 berita; kabar; 2 cerita
 warkat n 1 surat; 2 isi surat; -- pos lembaran surat pos (yg boleh dilipat sbg surat tertutup)
-warna n 1 kesan yg diperoleh mata dr cahaya yg dipantulkan oleh benda-benda yg dikenainya; corak rupa spt biru dan hijau; 2 kl kasta; golongan; tingkatan (dl masyarakat); 3 corak; ragam (sifat sesuatu); -- asli warna yg didapat dr alam, bukan buatan atau olahan manusia; -- bunyi sifat khusus yg menjadi dasar perbedaan bunyi vokal ditinjau dr sudut kesan dengar; -- cempaka warna kuning spt bunga cempaka; -- delima warna merah muda spt biji delima; -- gelap warna yg tidak memiliki cahaya, msl hitam -- komplementer warna-- warna yg saling melengkapi; -- minyak warna-warna yg mengandung zat cair berlemak; -- nada
-warna suara; timbre; -- netral warnawarna yg tidak mencolok mata, msl abuabu, putih; -- pastel warna yg lembut polos; -- primer warna yg menjadi dasar atau pokok; -- redup warna-warna yg tidak bersinar atau mendekati gelap; -- sekunder warna-- warna yg dijadikan pelengkap; ; -- sari penting, menarik atau bagus-- bagus; bunga rampai; -- warta berbagai berita; berwarna v mempunyai warna; memakai
-warna; berwarna-warna v mempunyai banyak
-warna; bermacam-macam warna; mewarnai v 1 memberi berwarna; mengecat dsb; 2 menandai; 3 memengaruhi; mewarnakan v menyebabkan berwarna; mewarnai; pewarna n bahan untuk memberi warna; pewarnaan n proses, cara, perbuatan mewarnai; sewarna n sama warnanya;
+warna n 1 kesan yg diperoleh mata dr cahaya yg dipantulkan oleh benda-benda yg dikenainya; corak rupa spt biru dan hijau; 2 kl kasta; golongan; tingkatan (dl masyarakat); 3 corak; ragam (sifat sesuatu); -- asli warna yg didapat dr alam, bukan buatan atau olahan manusia; -- bunyi sifat khusus yg menjadi dasar perbedaan bunyi vokal ditinjau dr sudut kesan dengar; -- cempaka warna kuning spt bunga cempaka; -- delima warna merah muda spt biji delima; -- gelap warna yg tidak memiliki cahaya, msl hitam -- komplementer warna-- warna yg saling melengkapi; -- minyak warna-warna yg mengandung zat cair berlemak; -- nada warna suara; timbre; -- netral warnawarna yg tidak mencolok mata, msl abuabu, putih; -- pastel warna yg lembut polos; -- primer warna yg menjadi dasar atau pokok; -- redup warna-warna yg tidak bersinar atau mendekati gelap; -- sekunder warna-- warna yg dijadikan pelengkap; ; -- sari penting, menarik atau bagus-- bagus; bunga rampai; -- warta berbagai berita; berwarna v mempunyai warna; memakai warna; berwarna-warna v mempunyai banyak warna; bermacam-macam warna; mewarnai v 1 memberi berwarna; mengecat dsb; 2 menandai; 3 memengaruhi; mewarnakan v menyebabkan berwarna; mewarnai; pewarna n bahan untuk memberi warna; pewarnaan n proses, cara, perbuatan mewarnai; sewarna n sama warnanya;
 warna-warni a bermacam-macam (warna); berwarna-warna: bunga di taman terlihat ~ dan indah; berwarna-warni v mempunyai bermacam-macam warna; beraneka warna; mewarna-warnikan v menjadikan berwarna-warni
 warnet n akr warung internet
 warok n pendekar yg disegani
@@ -143,7 +136,7 @@ wasangka n syak dan sangka; kebimbangan hati; rasa khawatir kecurigaan
 wasi n orang yg melaksanakan wasiat
 wasiat n 1 pesan terakhir yg disampaikan oleh orang yg akan meninggal berkenaan dng harta kekayaan dsb; 2 pusaka; (yg) bertuah; gaib (yg berarti ganjil, dapat mengadakan sesuatu yg aneh, dsb); -- di bawah tangan wasiat yg dibuat sendiri, tidak di muka notaris, yg membuat penunjuk seorang ahli waris untuk mene- rima sebagian atau seluruh warisan; -- hukum wasiat yg dibuat di muka notaris dan diumumkan setelah pembuat meninggal dunia; -- rahasia wasiat yg ditaruh dl sampul tertutup dan disimpan oleh notaris (dikuatkan dl bentuk akta dng disaksikan oleh empat orang); berwasiat v membuat wasiat; berpesan; mewasiatkan v memberikan wasiat; memesankan; mewariskan
 wasilah n ikatan; perhubungan; pertalian
-wasilat ĺ wasilah
+wasilat -> wasilah
 wasir n penyakit pd lubang anus; ambeien
 wasit n 1 penengah; perantara; 2 penentu; pemimpin (dl pertandingan olahraga, dsb); 3 pemisah; pelerai; pendamai (antara yg berselisih dsb); -- honorer wasit kehormatan; mewasiti v menjadi wasit
 wasitah n 1 perempuan yg dapat berhubungan dng orang halus; 3 perantara (telangkai dsb)
@@ -158,7 +151,7 @@ watak n sifat batin manusia yg memengaruhi segenap pikiran dan tingkah lakunya; 
 watan n tanah air; tanah tumpah darah
 watermark n tanda dl kertas (msl) pd uang kertas yg hanya tampak samar-samar jika kena sinar
 waterpas n alat untuk mengetahui rata atau tidaknya suatu permukaan horizontal (msl ubin) -wati kl n akhiran dl bahasa Indonesia untuk bentuk yg menyatakan jenis perempuan: warta--;
-waton ĺ watan
+waton -> watan
 watt n satuan tenaga listrik yg diperlukan arus dr satu amper dan tegangan satu volt
 wattmeter /wattméter/ n alat untuk mengukur daya listrik dl watt
 watu n batu
@@ -170,10 +163,7 @@ wawanmuka n temu muka; berwawanmuka v berhadap-hadapan; saling mengenali
 wawanrembuk n tukar pendapat; perundingan
 wawas, mewawas (= mawas) v meneliti; meninjau;
 wawasan n 1 hasil mewawas; 2 cara pandang; ~ nasional cara pandang suatu bangsa dl hidup bermasyarakat, berbangsa dan bernegara serta dl hubungan antarnegara yg merupakan hasil perenungan filsafat tt sejarah diri dan lingkungan dng memperhatikan sejarah dan kondisi sosial budaya serta memanfaatkan konstelasi geografis untuk menciptakan dorongan dan rangsangan dl usaha mencapai tujuan nasional; ~ nusantara wawasan nasional bangsa Indonesia yg dijiwai Pancasila dan UUD 1945, menghendaki adanya persatuan dan kesatuan wilayah, rakyat, dan pemerintah dl mencapai tujuan nasional dan ikut melaksanakan ketertiban dunia berdasarkan kemerdekaan, perdamaian abadi dan keadilan sosial; ~ sosial kemampuan untuk memahami cara-cara penyesuaian diri atau penempatan diri dl lingkungan sosial
-wayang n 1 boneka tiruan orang dsb, terbuat dr pahatan kulit atau kayu dsb yg dapat dimanfaatkan untuk memerankan tokoh dl pertunjukkan drama tradisional (Bali, Jawa, Sunda, dsb), biasanya dimainkan oleh dalang; 2 pertunjukan wayang (selengkapnya); 3 ki orang suruhan yg harus bertindak sesuai dng perintah orang lain; 4 bayang-bayang -- beber wayang berupa lukisan yg dibuat pd kertas gulung dan memainkannya dng cara membeberkan kertas gulung itu, yg berisikan cerita inti dr lakon yg akan dikisahkan oleh dalang; --golek
-wayang yg dibuat dr kayu biasanya berupa anak-anakan atau boneka kayu; -- klitik wayang terbuat dr kayu; -- kerucil wayang klitik; -- kulit wayang yg dibuat dr kulit; -- mbeling cerita
-wayang yg menyimpang dr aturan yg ada, biasanya penuh humor dan berisikan kritik kpd orang atau lembaga tertentu; -- purwa wayang kulit yg membawakan cerita-cerita yg bersumber dr kitab Mahabarata dan Ramayana; -- sadat wayang kulit yg menuntaskan lakon para wali dr kerajaan Demak sampai Kerajaan Pajang, anak-anak wayang dan dalang beserta niyaga memakai serban; -- wong wayang yg dimainkan oleh orang; mewayangkan v memainkan wayang; menjadikan lakon wayang; pewayang n sesuatu atau alat yg dapat memunculkan bayang-bayang; ~ pandang alat elektronika yg mampu memunculkan bayang-bayang yg berupa tulisan atau sumber untuk dibaca atau dilihat; pewayangan n perihal wayang;
-wayangan n pertunjukan wayang
+wayang n 1 boneka tiruan orang dsb, terbuat dr pahatan kulit atau kayu dsb yg dapat dimanfaatkan untuk memerankan tokoh dl pertunjukkan drama tradisional (Bali, Jawa, Sunda, dsb), biasanya dimainkan oleh dalang; 2 pertunjukan wayang (selengkapnya); 3 ki orang suruhan yg harus bertindak sesuai dng perintah orang lain; 4 bayang-bayang -- beber wayang berupa lukisan yg dibuat pd kertas gulung dan memainkannya dng cara membeberkan kertas gulung itu, yg berisikan cerita inti dr lakon yg akan dikisahkan oleh dalang; -- golek wayang yg dibuat dr kayu biasanya berupa anak-anakan atau boneka kayu; -- klitik wayang terbuat dr kayu; -- kerucil wayang klitik; -- kulit wayang yg dibuat dr kulit; -- mbeling cerita wayang yg menyimpang dr aturan yg ada, biasanya penuh humor dan berisikan kritik kpd orang atau lembaga tertentu; -- purwa wayang kulit yg membawakan cerita-cerita yg bersumber dr kitab Mahabarata dan Ramayana; -- sadat wayang kulit yg menuntaskan lakon para wali dr kerajaan Demak sampai Kerajaan Pajang, anak-anak wayang dan dalang beserta niyaga memakai serban; -- wong wayang yg dimainkan oleh orang; mewayangkan v memainkan wayang; menjadikan lakon wayang; pewayang n sesuatu atau alat yg dapat memunculkan bayang-bayang; ~ pandang alat elektronika yg mampu memunculkan bayang-bayang yg berupa tulisan atau sumber untuk dibaca atau dilihat; pewayangan n perihal wayang; wayangan n pertunjukan wayang
 wayuh a beristri lebih dr seorang
 wazir kl n perdana menteri
 web /wéb/ n sistem untuk mengakses, memanipulasi, dan mengunduh dokumen hipertaut yg terdapat dl komputer yg dihubungkan melalui internet
@@ -189,10 +179,9 @@ wedel, mewedel v mewarnai kain dng mencelupkan ke dl larutan nila;
 wedelan n hasil mencelup
 weduk a kebal; kewedukan n perihal weduk; kekebalan
 wedus gembel /wedus gémbél/ n ki lahar panas
-wejang n nasihat; petunjuk; petuah; mewejang v memberi nasihat; memberi pelajaran dsb;
-wejangan n 1 petuah; petunjuk; ajaran; 2 pidato yg bertujuan memberi nasihat dsb
+wejang n nasihat; petunjuk; petuah; mewejang v memberi nasihat; memberi pelajaran dsb; wejangan n 1 petuah; petunjuk; ajaran; 2 pidato yg bertujuan memberi nasihat dsb
 wekel a tekun; rajin; dng sungguh-sungguh
-weker /wéker/ ĺ beker
+weker /wéker/ -> beker
 welahar n danau kecil
 welas a belas; kasihan
 weling n wasiat; pesan
@@ -217,7 +206,7 @@ wewarah n ajaran
 wewaton n persyaratan
 wibawa n 1 pembawaan yg mengandung kepemimpinan sehingga dapat memengaruhi dan menguasai orang lain; 2 kekuasaan; berwibawa v mempunyai wibawa (sehingga disegani dan dipatuhi): orang yg ~ layak dijadikan pemimpin; kewibawaan n 1 hal yg menyangkut wibawa; 2 kekuasaan yg diakui dan ditaati
 wicara n bicara; tutur kata; pembicaraan
-widara ĺ bidara
+widara -> bidara
 widiawan n orang yg ahli dl ilmu dan pengetahuan; cerdik-cendikia; pandit
 widiawati n sarjana wanita; doktoranda
 widuri n nama pohon yg batangnya tidak begitu tinggi, Calotropis gigantea
@@ -227,17 +216,16 @@ wihara n biara yg didiami oleh para biksu
 wijaya kl n kemenangan; menang
 wijayakusuma n pohon berukuran sedang, batangnya bengkang-bengkok, rantingnya tebal, daunnya besar lonjong sampai bundar telur, berwarna hijau muda, bunganya kecil-kecil wangi, tumbuh di pantai berbatu di pulau-pulau kecil di sekitar pulau Jawa; Pisonia grandis
 wijen /wijén/ n 1 tumbuhan suku biji-bijian dng tinggi dua meter, buahnya berbentuk kotak lonjong, bijinya kecil-kecil mengandung minyak untuk minyak goreng, margarine, dsb; Sesamum orientale
-wijik v mencuci kaki (tangan);
-wijikan n pencucian kaki (tangan)
+wijik v mencuci kaki (tangan); wijikan n pencucian kaki (tangan)
 wikalat n jabatan sbg wakil; perwakilan
 wiket /wikét/ n gawang dl permainan kriket
 wiku kl n pendeta pertapa
 wiladah n kelahiran
 wilah n bilah
-wilahar ĺ welahar
+wilahar -> welahar
 wilangon kl n gelora berahi; dendam berahi
 wilayah n daerah (kekuasaan, pemerintahan, pengawasan, lingkungan dsb); -- administratif lingkungan kerja perangkat pemerintah pusat yg menyelenggarakan tugas pemerintahan umum di daerah; -- antar wilayah yg ada dl batas antar kantor pos; -- kerja daerah yg menjadi kekuasaan dl menjalankan tugas; mewilayahi v mencakupi daerah: kecamatan Serpong ~ beberapa desa; perwilayahan n hal-hal yg berhubungan dng wilayah; sewilayah n satu wilayah; seluruh wilayah
-wilayat ĺ wilayah
+wilayat -> wilayah
 wilis a biru kehijau-hijauan; hijau
 wimana kl n kendaraan; kereta
 wincester /wincéster/ n nama jenis senapan
@@ -250,18 +238,17 @@ wira kl n 1 pahlawan; laki-laki; 2 sifat jantan (berani); perwira; kewiraan n ke
 wiracarita n cerita kepahlawanan; syair kepahlawanan; epos
 wirang a malu: semua orang tua akan -- apabila anaknya terlibat kejahatan
 wiraniaga n pedagang
-wirasat ĺ firasat
+wirasat -> firasat
 wirasuara n penyanyi pria dl karawitan (gamelan) Jawa; penyeling (bagi penyanyi)
 wiraswasta n orang yg berani mengambil risiko untuk memulai usaha baru, memasarkan, serta mengatur permodalan usahanya
 wirawan kl n pahlawan; gagah perkasa; gagah berani
 wirid n 1 zikir yg diamalkan sesudah sembahyang; 2 kutipan-kutipan dr Quran yg ditetapkan untuk dibaca; 3 pelajaran (ilmu keagamaan); mewiridkan v 1 membawa wirid; mengamalkan wirid; 2 menjadikan sbg wirid;
 wiridan n 1 yg akan diwiridkan; 2 hal mengucapkan wirid
 wiru n lipatan-lipatan (pd kain dsb); berwiru-wiru v berlipatan-lipatan; mewiru v melipat-lipat kain
-wir-wir ĺ uir-uir
+wir-wir -> uir-uir
 wisa n bisa; racun
 wisana n akhir; kesudahan
-wisata v 1 bepergian bersama-sama (untuk memperluas pengetahuan, bersenang-senang, dsb); bertamasya; 2 piknik; -- bahari berwisata untuk menikmati alam laut; --  edukatif wisata untuk memperdalam atau lebih memahami suatu objek agar menambah wawasan, dan pengetahuan, baik budaya maupun teknologi; -- budaya wisata dng tujuan mengenal hasil kebudayaan setempat; -- karya kunjungan kerja; tur; -- kuliner wisata yg dilakukan untuk menikmati aneka ragam masakan dr berbagai daerah; -- niaga wisata dng objek yg bersifat komersial, msl pameran dagang atau industri; -- puri
-wisata yg objeknya adalah puri (istana) dng segala isi dan kegiatannya; berwisata v melakukan perjalanan wisata
+wisata v 1 bepergian bersama-sama (untuk memperluas pengetahuan, bersenang-senang, dsb); bertamasya; 2 piknik; -- bahari berwisata untuk menikmati alam laut; --  edukatif wisata untuk memperdalam atau lebih memahami suatu objek agar menambah wawasan, dan pengetahuan, baik budaya maupun teknologi; -- budaya wisata dng tujuan mengenal hasil kebudayaan setempat; -- karya kunjungan kerja; tur; -- kuliner wisata yg dilakukan untuk menikmati aneka ragam masakan dr berbagai daerah; -- niaga wisata dng objek yg bersifat komersial, msl pameran dagang atau industri; -- puri wisata yg objeknya adalah puri (istana) dng segala isi dan kegiatannya; berwisata v melakukan perjalanan wisata
 wisatawan n orang yg berdarmawisata; pelancong; turis
 wisaya n 1 jerat penangkap binatang; 2 sihir
 wisesa /wisésa/ n 1 penguasa utama; 2 kekuasaan yg tertinggi

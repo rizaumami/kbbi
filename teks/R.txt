@@ -67,7 +67,7 @@ radikal n Kim gugus atom yg dapat masuk ke dl berbagai reaksi sbg satu kesatuan;
 radikalisme n Pol paham yg menganut cara radikal dl politik
 radikula n Tan akar yg pertama-tama keluar dr embrio
 radin ark, padi -- n padi pulut; ketan, Oryza sativa
-radin ĺ raden
+radin -> raden
 radio n siaran (pengiriman) suara; meradiokan v 1 menyiarkan lewat radio atau bunyi melalui udara: berita itu dia dengar dr --; 2 pemancar radio; 3 pesawat radio; -- etnik radio yg menonjolkan nilai-nilai yg ada di suatu daerah
 radioaktif n bahan kimia (berupa radium dan uranium) yg menimbulkan tenaga atau sinar yg berbahaya, tetapi dapat dimanfaatkan untuk pengobatan
 radioaktivitas n sifat yg dimiliki oleh beberapa unsur (spt uranium) yg secara spontan memancarkan sinar alfa atau beta dan kadang-kadang sinar gamma dng penghancuran inti atom; -- buatan 1 Met radioaktivitas dl atmosfer krn kegiatan manusia; 2 Kim keradioaktifan yg diciptakan dng jalan menembak suatu zat dng radiasi elektromagnetik atau pancaran partikel
@@ -187,7 +187,7 @@ raksa n zat cair yg warnanya spt perak, nomor atom 80, lambang Hg, digunakan unt
 raksasa n 1 mahluk menyerupai manusia yg berbadan tinggi dan besar; gergasi; buta; 2 ki besar sekali (melebihi ukuran yg biasa)
 raksasi n raksasa perempuan
 raksi n 1 wangi-wangian; bau-bauan yg harum; 2 wangi; harum; meraksi v mengharumkan dng bungabungaan, minyak wangi, dsb: ~ tempat tidur; peraksi n wangi-wangian untuk meraksi
-raksi ĺ rasi
+raksi -> rasi
 rakuk v toreh sebagian supaya mudah patah; takik; takuk; berakuk v ada rakuknya; bertakik; bertakuk; membuat titian ~ , pb memakai tipu muslihat untuk mencelakakan orang
 rakung, rakungan n kerongkongan
 rakus a 1 suka makan banyak dng tidak memilih; lahap; gelojah; 2 ki ingin memperoleh lebih banyak dr yg diperlukan; loba; tamak; serakah; kerakusan n perihal rakus; kelahapan; ketamakan
@@ -231,7 +231,7 @@ rambung n pohon karet, Fikus elastica
 rambut n 1 bulu yg tumbuh pd kulit manusia (terutama di kepala); 2 apa saja yg panjang dan halus (menyerupai rambut): akar --; -- sama hitam, hati berlainan, pb setiap orang mempunyai pendapat (kemauan) masing-masing; bagai -- dibelah tujuh (seribu), pb sedikit (kecil) sekali; sakit kepala panjang --, pb pura-pura sakit kepala; termakan di --, pb amat susah; bergantung pd -- sehelai, pb berada dl keadaan yg sangat sulit (bahaya); si -- panjang, ki perempuan; wanita; -- getar rambut halus yg dapat digerakkan pd sel-sel epitel yg membatasi saluran tertentu spt saluran napas dan saluran sperma; berambut v mempunyai rambut; merambut v berhelai-helai spt rambut; menyerupai rambut; perambut n ujung tali yg dikaitkan pd pancing; serambut adv sebesar rambut; sekecilkecilnya
 rambutan n 1 pohon yg tingginya dapat mencapai 20 meter, bercabang banyak dan rindang, buahnya bulat lonjong berambut, jika masih muda buahnya berwarna hijau, kalau sudah matang berwarna merah atau kuning, isinya putih, rasanya manis atau masam, Nephelium lappaceum; 2 buah rambutan; -- jantan pohon rambutan yg berbunga, tetapi bunganya tidak menjadi buah; -- lekang rambutan dr jenis yg baik, daging buahnya dapat dilepas dr bijinya; rambutan aceh
 rambuti n kain tenun dr bulu domba; kain rambuti
-rame /ramé/ ĺ ramai
+rame /ramé/ -> ramai
 rames v bercampur menjadi satu (nasi, lauk, sayur, dsb)
 ramet n individu tumbuhan baru yg dihasilkan melalui reproduksi aseksual, msl pembentukan umbi, akar rimpang, atau stolon
 rami n tumbuhan semak, seratnya dibuat tali, Bohmeria nivea
@@ -249,7 +249,7 @@ rampat, merampat v 1 memukul dng parang (tongkat, cambuk, dsb) sekaligus; 2 memb
 rumput di pekarangan; ~ papan ki menyalahkan semua orang tanpa memeriksa; perampatan n perihal merampatkan; kerampatan n keadaan rampat
 ramping a kecil panjang (turus); langsing; lampai: pinggangnya --; merampingkan v membuat tubuh lebih kecil (kurus); mengecilkan; melangsingkan: salah satu cara ~ tubuh dng melakukan banyak olahraga dan mengurangi makan makanan yg mengandung banyak lemak
 ramping, meramping a koyak-koyak (cabik-- cabik) pd tepi: kain yg sudah -- masih dipakainya juga
-rampis ark ĺ ramping
+rampis ark -> ramping
 rampok n kawanan penjahat yg merampas harta dng kekerasan; perampok n orang yg merampok; penggedor; garong; merampok v 1 mencuri dng menggedor rumah; mencuri dng paksa: sebelum ~ mereka menganiaya korbannya; 2 merampas dng kekerasan: penjahat tidak berhasil ~ mobil saudagar itu; perampokan n hal merampok; perkara rampok
 rampung a selesai; beres; usai: pd akhir tahun ini penyusunan kedua kamus ini sudah --; merampungkan v menyelesaikan; perampungan n hal merampungkan
 rampus a tidak lemah lembut; tidak sopan; kasar (tt perkataan dsb); berampus v 1 mengeluarkan perkataan kasar; memaki-maki; sangat marah; 2 melakukan sesuatu secara kasar (serampangan); merampus berampus
@@ -259,14 +259,14 @@ ramunia n pohon gandaria
 ramus, beramus a berbulu (berambut) banyak; tebal dan panjang (kumis, janggut); meramus v berbulu (berambut) banyak: jika dibiarkan sepekan saja lamanya mukanya ~, tidak kenal lagi kita kepadanya
 rana, merana a 1 lama atau selalu menderita (penyakit, kesedihan, kesusahan, dsb): hati ~; 2 selalu sakit (sedih, susah, dsb) dan makin lama makin kurus: tumbuh-tumbuhan yg ~ hidupnya
 rana ark kl n 1 peperangan; 2 medan perang
-rana ĺ ratna
+rana -> ratna
 ranah n 1 tanah rata; dataran rendah; lembah; 2 tanah yg berpaya-paya; -- politik bidang yg berhubungan dng politik
 ranai a basah (krn air mata, keringat, dsb); meranai v bertitik-titik air mata, hujan, dsb
 ranap v (hampir) rata dng tanah (krn tumbang, roboh, dsb): rumah itu -- ditimpa pohon kelapa tumbang; meranap v meratakan dng tanah sehingga rata dng tanah
 ranap a sunyi: di daerah terpencil itu sangat -- ranca ark, meranca v menganggap mudah (gampang, ringan)
 ran.ca n peternakan besar untuk mengembangbiakkan kuda, sapi, atau domba
 rancah n 1 tanah yg berpaya-paya; 2 berpaya-paya
-rancah ĺ rencah
+rancah -> rencah
 rancak a bagus; elok; cantik: -- di labuh, senang berpakaian yg elok-elok, tetapi kantongnya kosong; pesolek; kerancakan n perihal rancak; kerancak-rancakan n sombong krn merasa cantik
 rancak, merancak v menetak(-netak); memenggal(-menggal); mengerat(-ngerat)
 rancak, serancak num seperangkat gamelan;
@@ -287,11 +287,11 @@ randajawa ark n jewawut
 randang n rendang
 randang n makanan yg terbuat dr sagu; merandang v membuat randang
 randau, merandau v mencampur makanan dng bahan makanan lain supaya lebih sedap atau lebih banyak: ~ beras dng jagung; berandau bercampur (tt makanan): makan nasi ~ ubi; merandaukan v mencampurkan (tt makanan): ~ sayur-mayur
-randeh ĺ randih
+randeh -> randih
 randek, merandek v berhenti; terhenti oleh sesuatu
 randa royal n penganan goreng dibuat dr tape yg dilapisi dng adonan tepung beras
 randi n kain sutera yg bertitik-titik; kain randi
-randih ĺ rondah-randih
+randih -> rondah-randih
 randu n pohon kabu-kabu; kapuk, Ceiba pentandra
 randuk ark, meranduk v mengarungi (sungai, padang, dsb)
 randuk a berjanggut dan berbulu panjang (tt kambing)
@@ -305,7 +305,7 @@ rangak n siput yg dapat dimakan
 rangak a gaduh; ribut; merangak berbuat ribut
 rangam n tumbuhan spt ranti (tomat), Solanum lycopersicum
 rangas n rayap (anai-anai) yg tajam giginya (suka makan tikar dsb)
-rangda ĺ randa
+rangda -> randa
 rangga n tanduk tajam dan bercabangcabang (spt pd rusa); berangga v mempunyai rangga: rusa ~
 rangga n sebutan atau pangkat pegawai kerajaan (zaman penjajahan)
 ranggah, meranggah v menjolok (memetik) buah-buahan pd pohon sampai habis; merodok (dng tongkat dsb)
@@ -323,7 +323,7 @@ rangin n perisai panjang (biasa dipakai untuk menari)
 ranginan n permainan biola untuk mengawali suatu lagu (vokal) sehingga penyanyi gandrung mengetahui jangkauan nada yg diperlukan
 rangka n tulang-tulangan (tubuh, barang, rumah, dsb); kerangka; -- dada tulang-tulang sekeliling rongga dada; berangka v mempunyai rangka; mempunyai bentuk (tt bangunan): binatang bersel satu itu tiada ~
 rangka n rancangan; rencana; skema; merangkakan v membuat rangka (rancangan dsb) untuk sesuatu: usaha memperlancar hubungan lalu lintas
-rangka ark ĺ rengga
+rangka ark -> rengga
 rangkai n beberapa benda yg dihubungkan (dikaitkan dsb); berangkai v mempunyai hubungan (kaitan) satu dng yg lain: pembunuhan itu ~ dng penyelundupan; berangkai-rangkai v bergandeng-gandeng; sambung-menyambung: bunga cempaka itu disusun ~; merangkai v menyusun (mengatur) menjadi berangkai-rangkai: seni ~ bunga, seni mengatur bunga pd jambangan; merangkaikan v menghubung-hubungkan; menggandengkan: ~ kejadian yg satu dng yg lain;
 rangkaian n untaian; ~ digital rangkaian yg dirancang khusus untuk menangani sinyal digital yaitu sinyal yg hanya terdiri; perangkai n yg merangkaikan (menghubungkan); alat untuk merangkai; perangkaian n 1 perhubungan; segabungan susunan; 2 sesuatu yg bersambung-sambung; 3 rentetan (peristiwa, kejadian, dsb); kumpulan berbagai-bagai karangan, sajak, dsb; 4 hubungan susunan kata (kalimat); menyerangkaikan v menjadikan serangkai atas dua tingkatan nilai, yaitu tinggi atau rendah, 1 atau 0; ~ listrik rangkaian komponen listrik spt penghambat, kapasitor, transistor, sumber arus yg dihubungkan dng penghantar; ~ logika rangkaian yg dirancang untuk dapat melakukan operasi logika pd masukan dan keluarnya; ~ paralel rangkaian yg semua ujung yg bertegangan positif dihubungkan menjadi satu dan semua ujung yg bertegangan negatif menjadi satu pulsa; ~ penala rangkaian resonansi yg frekuensi resonansinya dapat diubah sehingga dapat beresonansi dng frekuensi sinyal yg diinginkan; ~ seri El rangkaian listrik yg bagianbagiannya dihubungkan berurutan sehingga setiap bagian diakhiri oleh arus listrik yg sama ; serangkai n satu rangkai
 rangkak, merangkak v 1 bergerak maju dng bertumpu pd tangan dan lutut: anaknya baru pandai ~; 2 ki tidak pesat kemajuannya; merangkak-rangkak kl v 1 maju dng lambat sekali; terhenti-henti (belajar, membaca, dsb); 2 baru mencoba-coba melakukan sesuatu; 3 ki merendahkan diri; merangkaki v mendekati dng cara merangkak (perlahan-lahan): para pemuda pejuang ~ daerah musuh itu dng menyamar;
@@ -336,11 +336,11 @@ rangkap a dua tiga helai melekat menjadi satu; lipat dua (tiga dsb); kembar: dik
 rangkap n jodoh; pasangan
 rangkaya n orang kaya (sebutan)
 rangket /rangkét/, merangket v memukuli dng rotan dsb
-rangkiang ĺ rengkiang; -- kecik rangkiang yg bentuknya lebih kecil dan rendah, atapnya tidak bergonjong, tempat menyimpan padi abuan untuk persediaan benih dan biaya mengerjakan sawah pd musim berikutnya -- sibayau-bayau rangkiang yg bentuknya besar bertiang enam, tempat menyimpan padi untuk keperluan makan sehari-hari, berada di sebelah kiri rumah gadang; -- sitanggung lapar rangkiang yg bentuknya persegi, tempat menyimpan padi untuk membantu masyarakat di musim paceklik, terletak di tengah (di antara sibayau-bayau dan sitinjau lauik); -- sitinjau laut rangkiang tempat menyimpan padi untuk bantuan dan untuk tamu yg datang, berada di sebelah kanan rumah gadang
+rangkiang -> rengkiang; -- kecik rangkiang yg bentuknya lebih kecil dan rendah, atapnya tidak bergonjong, tempat menyimpan padi abuan untuk persediaan benih dan biaya mengerjakan sawah pd musim berikutnya -- sibayau-bayau rangkiang yg bentuknya besar bertiang enam, tempat menyimpan padi untuk keperluan makan sehari-hari, berada di sebelah kiri rumah gadang; -- sitanggung lapar rangkiang yg bentuknya persegi, tempat menyimpan padi untuk membantu masyarakat di musim paceklik, terletak di tengah (di antara sibayau-bayau dan sitinjau lauik); -- sitinjau laut rangkiang tempat menyimpan padi untuk bantuan dan untuk tamu yg datang, berada di sebelah kanan rumah gadang
 rangkik n siput laut, Canus; -- bilang sawah siput yg kulitnya berbilang-bilang; -- rintik siput yg kulitnya berbintik-bintik; rangkik mata cacing
 rangking n keranjang bertutup
 rangkok n burung enggang
-rangkuh ĺ rengkuh
+rangkuh -> rengkuh
 rangkul, merangkul v 1 melingkarkan lengan pd pundak, tubuh, pinggang, dan bagian badan lainnya; mendekap; memeluk: dia ~ ibunya jika merasa ketakutan; 2 ki menjadikan mitra, sahabat: kita harus ~ rakyat kecil;
 rangkulan n pelukan
 rangkum, merangkum v 1 membawa dl pelukan: ia ~ kain-kain itu dan membawanya ke luar; 2 ki memeluk: ibu itu ~ dan mencium anaknya yg baru kembali; 3 meliput; melingkung(i): perasaan cemas selalu ~ hatinya; perangkum n orang yg merangkum; merangkumkan v 1 merangkum sesuatu untuk (atau dng); 2 mengumpulkan jadi satu; memasukkan ke dl lingkungan; 3 mengikhtisarkan; meringkaskan (uraian dsb): ~ hasil rapat;
@@ -357,11 +357,11 @@ rangsang n 1 sesuatu yg dapat mempengaruhi indria (pencium, perasa, peraba, peng
 rangsangan v dorongan; perangsang n 1 sesuatu yg dapat membangkitkan perasaan (marah, hawa nafsu, dsb); 2 pembangkit (kemarahan, kesedihan, kegairahan, dsb)
 rangsang, merangsang v 1 menyerbu; menyerang: ~ benteng musuh; 2 mem- bantah (melawan) perkataan dsb; menyanggah: kalau di rumah ia selalu ~; perangsang n pasukan yg merangsang; penyerbu; penggempur
 rangsang n 1 ranting kering (mati) yg telah berjatuhan; 2 rintangan dr rantingranting berduri yg dipasang pd batang pahon (supaya tidak dapat dipanjat orang)
-rangsel ĺ ransel
-rangsuk ĺ rasuk
-rangsum ĺ ransum
+rangsel -> ransel
+rangsuk -> rasuk
+rangsum -> ransum
 rangu n jamur yg dapat dimakan; kulat, Schizophyllum alneum
-ranguk ĺ rango-rango
+ranguk -> rango-rango
 rangum ark, merangum v merebut (menangkap) dng paksa; merenggut
 rangup ark a 1 mudah pecah; rapuh; 2 pecahan: rangup-rangup tulang, pecahan tulang
 rani n 1 raja perempuan; ratu; 2 permaisuri
@@ -372,15 +372,15 @@ ranjah ark, meranjah v merampok: ia dituduh ~ dan membunuh
 ranjang n perabot rumah tangga yg terbuat dr besi atau kayu dsb, dipakai untuk tempat tidur; -- dorong ranjang lipat yg dapat didorong dan digunakan untuk mengangkut orang yg sakit atau luka
 ranjau n 1 pancang kecil-kecil tajam (dr besi, buluh, dsb) yg dipasang di tanah untuk melukai orang; 2 alat peledak yg ditanam di tanah atau dipasang di laut; 3 ki sesuatu yg sengaja dibuat untuk mencelakakan orang; tipu muslihat; duduk meraut --, tegak meninjau jarak (duduk meraut --, berdiri melihat musuh), pb selalu bekerja dan waspada; -- bicara undang-undang yg membatasi kemerdekaan berbicara di muka umum (rapat umum, rapat terbuka, dsb); -- cacak ranjau yg dipasang tegak lurus; -- darat alat peledak yg ditanam dl tanah untuk menghalang-halangi musuh; -- laut alat peledak yg dipasang di laut untuk meledakkan kapal musuh yg menyentuhnya; -- pers undang-undang yg membatasi kemerdekaan menulis dl surat kabar; beranjau v ada ranjaunya; mempunyai ranjau
 ranjing, keranjingan a 1 kemasukan roh jahat; kemasukan hantu; 2 ki kegilagilaan
-ranju ĺ ranjau
-ranjungan ĺ rajungan
+ranju -> ranjau
+ranjungan -> rajungan
 ransel n tas besar yg biasanya terbuat dr kain terpal, dapat dibawa dng cara digendong di punggung
 ransum n 1 pembagian makanan yg sudah ditentukan ukurannya untuk setiap orang; 2 pembagian bahan makanan kpd penduduk dng ukuran yg sudah ditentukan dl waktu kesukaran bahan pangan; catu makanan; meransum v memberi makanan atau bahan makanan secara tertentu
 rantai n 1 tali dr cincin yg berkaitan biasanya dr logam; 2 kalung; 3 ikatan; pertalian; 4 belenggu; kungkungan; kekuasaan; -- bercabang Kim rantai yg bercabang pd satu tempat membentuk dua rantai baru yg terikat pd rantai utama, msl pd isopentana; -- kangkang rantai dr besi untuk mengikat kaki orang hukuman agar tidak lari; -- karbon Kim ikatan atom karbon berturut-turut dl suatu senyawa,
 rantai tertutup pd senyawa aromatik, terbuka pd senyawa alifatik; -- makanan hubungan makanan menurut tingkat tropik yg mempersatukan spesies anggota suatu masyarakat hayati; -- radioaktif Kim urutan radionuklida, yg masingmasing berubah ke nuklida berikutnya sbg akibat peluruhan radioaktif, hingga tercapai nuklida akhir yg stabil, anggota yg pertama disebut induk, yg terakhir disebut hasil akhir, sedangkan yg lain disebut turunan; -- tertutup Kim rantai yg membentuk suatu lingkar krn atom ujung membentuk ikatan; -- utama Kim
 rantai paling panjang pd hidrokarbon bercabang; -- pemotong rantai tempat diletakkannya pisau potong bundar; -- gergaji rantai yg dilengkapi dng rantai pemotong, bergerak dl kecepatan tinggi sepanjang pinggiran batang pengarah; -- komando Adm bagan yg menunjukkan bahwa wewenang dan tugas kewa-jiban mengalir dr atas ke bawah dan pertanggungjawaban mengalir dr bawah ke atas; berantai v 1 memakai rantai; 2 bersambung: lari ~; berantai-rantai v bersambung-sambung; berturut-turut; merantai v mengikat dng rantai; membelenggu: polisi ~ pencuri itu dan menggiringnya ke kantor polisi; terantai v memakai rantai; berantai; asal ada sama di hati, gajah ~ boleh dilepaskan, pb kalau sudah ada persetujuan, apa pun halangannya dapat diatasi;
 rantaian n 1 deretan berturut-turut; rangkaian; rentetan; 2 ki orang hukuman; orang rantai
-rantak ĺ berantakan
+rantak -> berantakan
 rantam, berantam v bersama-sama (beramai-ramai) melakukan suatu pekerjaan (spt membeli barang)
 rantang n panci bersusun dan bertutup untuk tempat makanan dng dilengkapi dng tangkai yg berfungsi sbg pengait
 rantangan n makanan (lauk, dsb) yg dipesan secara berlangganan (biasanya makanan ditempatkan dl rantang)
@@ -404,7 +404,7 @@ rapang n pepatah
 rapat a 1 hampir tidak berantara; dekat sekali (tidak renggang); 2 kerap (tt tanaman, anyaman, dsb): jika menanam padi jangan terlalu --; 3 tertutup benarbenar, hingga tidak bercelah: menutup pintu dng--; 4 berhampiran sekali; dekat benar: kapal dapat berlabuh -- dng pangkalan; 5 karib; erat (tt persahabatan): teman --; merapat v 1 menjadi rapat; mendekat: ia duduk ~ ke ayahnya; 2 berlabuh dekat pangkalan dsb: perlahan-lahan perahu itu pun ~lah; 3 menjadi (berusaha supaya akrab, erat (tt persahabatan): kedua belah pihak keluarga yg berselisih itu mulai ~; merapati v 1 mendekati dng perlahanlahan dan berhati-hati; menghampiri: ia ~ rumah itu; 2 meramahi, mengaribi (untuk memperbaiki persahabatan): jika ia ingin bekerja sama dng mereka, ia harus ~ mereka lebih dahulu; merapatkan v 1 menjadikan rapat; mengerapkan: ~ anyaman tikar; 2 mendekatkan kpd; 3 mempererat: persahabatannya; memperapat v merapatkan;
 rapatan n 1 sesuatu yg menyebabkan
 rapat (sambungan dsb); 2 sesuatu yg dirapatkan
-rapat n pertemuan (kumpulan) untuk membicarakan sesuatu; sidang; majelis; -- akbar ĺ rapat raksasa; -- anggota sidang yg diadakan untuk anggotaanggota perserikatan, partai, dsb; -- kerja 1 sidang untuk membahas suatu masaIah yg berkenaan dng bidang pekerjaan yg dihadapi; 2 pertemuan para karyawan yg membahas hal-hal yg berhubungan dng pelaksanaan tugas suatu instansi; -- kilat 1 sidang yg diadakan dng mendadak; 2 sidang yg berlangsung dl waktu singkat; -- lengkap rapat yg dihadiri oleh segenap anggota, seksi, dan pengurus; rapat pleno; --  pleno ĺ rapat lengkap; -- raksasa rapat besar untuk umum, biasanya diadakan di lapangan terbuka yg luas; rapat samudra; -- samudra ĺ rapat raksasa; -- terbuka rapat yg boleh dihadiri oleh setiap orang; -- umum rapat untuk semua orang; rapat terbuka; berapat berkumpul untuk bersidang (membicarakan sesuatu dsb); berapat v berkumpul untuk bersidang; merapatkan v membahas sesuatu dl rapat; mengajak berapat untuk membicarakan sesuatu
+rapat n pertemuan (kumpulan) untuk membicarakan sesuatu; sidang; majelis; -- akbar -> rapat raksasa; -- anggota sidang yg diadakan untuk anggotaanggota perserikatan, partai, dsb; -- kerja 1 sidang untuk membahas suatu masaIah yg berkenaan dng bidang pekerjaan yg dihadapi; 2 pertemuan para karyawan yg membahas hal-hal yg berhubungan dng pelaksanaan tugas suatu instansi; -- kilat 1 sidang yg diadakan dng mendadak; 2 sidang yg berlangsung dl waktu singkat; -- lengkap rapat yg dihadiri oleh segenap anggota, seksi, dan pengurus; rapat pleno; --  pleno -> rapat lengkap; -- raksasa rapat besar untuk umum, biasanya diadakan di lapangan terbuka yg luas; rapat samudra; -- samudra -> rapat raksasa; -- terbuka rapat yg boleh dihadiri oleh setiap orang; -- umum rapat untuk semua orang; rapat terbuka; berapat berkumpul untuk bersidang (membicarakan sesuatu dsb); berapat v berkumpul untuk bersidang; merapatkan v membahas sesuatu dl rapat; mengajak berapat untuk membicarakan sesuatu
 rapat n tumbuhan menjalar, kulitnya dibuat obat, Parameria barbata
 rapel /rapél/ n bagian gaji atau imbalan uang yg diterima sekaligus, krn ada kelebihan yg belum diterima
 rapi a 1 baik, teratur, dan bersih; apik: rambutnya selalu disisir --; 2 teratur baik; tertib: deretan rumah kayu yg amat --; 3 serba beres dan menyenangkan (pekerjaan dsb): pekerjaan ditanggung -- dan memuaskan; 4 siap sedia; siaga: rumah penginapan tamu negara dilcawal dng --; 5 sebagaimana mestinya; tidak asal saja: pintu sudah terkunci --; merapikan v menjadikan rapi; membereskan: ~ susunan buku-buku di atas meja; kerapian n perihal rapi; keapikan; keberesan; ketertiban; kerapian n perihal rapi; keapikan; perapi n sesuatu yg merapikan; ~ pintu orang yg pekerjaannya memperbaiki atau merapikan pintu
@@ -428,7 +428,7 @@ rasa-rasa adv 1 sekiranya; kira-kira: kalau ~ sangat perlu belilah secukupnya; 2
 rasai, merasai v banyak menderita (kesusahan); mengalami (kesedihan): ~ kesengsaraan hidup; merasaikan v merasai; perasaian n perihal merasai(kan); penanggungan (kesusahan, kesedihan, dsb); pengalaman (sedih)
 rasam n kebiasaan; aturan; adat; sifat; ~ minyak ke minyak, ~ air ke air, pb setiap orang mencari (kembali) kpd golongan masing-masing; serasam p (dng) sesuai (dng); selaras (dng)
 rasamala n pohon yg kayunya berbau harum, Altingia excelsa
-rasan ĺ rasam
+rasan -> rasam
 rasan ark, berasan v berunding dng rahasia antara dua orang saja; merasan(i) v membicarakan kejelekankejelekan atau kekurangan-kekurangan (dilihat dr segi negatif); perasanan n perundingan rahasia antara dua orang
 rasan a basi; rusak; busuk; nasi sudah -- 1
 rasau n pandan yg tumbuh di tepi sungai, bunganya harum, Pandanus helicopus
@@ -462,7 +462,7 @@ rata kl n kereta; -- terbang, kereta yg dapat terbang purata n Mat nilai yg bera
 ratah a tidak bercampur apa-apa (laukpauk); meratah v makan lauk saja (tidak dng nasi)
 ratap, meratap v menangis dng mengucapkan kata-kata yg menyedihkan; mengeluh dng (menangis, menjerit, dsb): dia tiada hendak pulang meskipun hatinya ~ ingin pulang; meratapi v meratap atau menangisi: ia ~ nasib yg menimpa anaknya;
 ratapan n tangisan dng mengucapkan kata-kata yg menyedihkan
-ratas ĺ retas
+ratas -> retas
 ratep /ratép/ nupacara mendatangkan hujan yg ditarikan dengan gamelan tidak berlogam hingga penari utamanya kesurupan
 ratib n Isl puji-pujian atau doa kpd Tuhan yg diucapkan berulang-ulang spt lailahaillallah, Allahu akbar, zikir; meratib v melakukan ratib; berzikir; meratibkan v meratib untuk mendoakan orang yg meninggal dsb supaya Tuhan melapangkan arwah orang tsb di dalam kubur; menzikirkan
 ratifikasi n pengesahan dan peresmian perjanjian atau persetujuan dsb dng memberi tanda tangan (oleh Dewan Perwakilan Rakyat dsb); meratifikasikan v menandatangani dan mengesahkan (perjanjian dsb)
@@ -518,10 +518,10 @@ rayon n serat tekstil sintetis
 rayonisasi n pembagian wilayah atas beberapa rayon
 rayu (sayu -- ) a 1 mempunyai perasaan iba (sedih dsb); pilu hati; rawan hati; 2 merasa pilu; terharu; merayukan v membuat jadi sedih: ~ hati, membuat hati merasa sedih; mengibakan hati
 rayu, rayuan n hiburan atau bujukan (janji yg muluk-muluk dsb) untuk menyenangkan hati; merayu, merayu-rayu v 1 menyenangkan hati (menyedapkan hati, menawan) spt hiburan dsb: suara merdu yg ~ hati; 2 membujuk (memikat) dng kata-kata yg manis dsb: ia ~ gadis itu dng kata-kata manis supaya mau menjadi istrinya; 3 mengajukan permohonan: mereka ~ supaya yg berwajib mengambil tindakan tegas
-rayun ĺ rayu
+rayun -> rayu
 razia n 1 penangkapan beramai-ramai oleh petugas keamanan; 2 pemeriksaan suratsurat penting yg wajib dimiliki penduduk, pengendara mobil atau motor oleh petugas keamanan; 3 penggerebekan pengganggu keamanan dan ketertiban; merazia v 1 menggerebek (tt penjahat, pelacur, dsb); 2 memeriksa secara serentak (surat-surat kendaraan bermotor, televisi, dsb); perazia n yg melakukan razia
 re /ré/ n nada kedua dl tangga nada diatonik (pd musik)
-reaksi /réaksi/ n 1 kegiatan (aksi, proses, dsb) yg timbul krn suatu pengaruh atau suatu petistiwa; 2 tanggapan (respons) terhadap suatu aksi; 3 Kim perubahan dsb yg terjadi krn bekerjanya suatu unsur (obat dsb); -- adisi 1 reaksi dua molekul atau lebih yg membentuk molekul lebih kompleks; 2 reaksi penambahan A+B ĺ C; -- atom sarana atau pembangkit tenaga atom; -- eksotermik reaksi kimia yg disertai pembebasan kalor dr sistem ke sekitarnya; -- enzimolisis reaksi kimia yg dikatalisis oleh enzim terutama pemecahan ikatan, msl, hidrolisis; -- hidrolisis penguraian senyawa kimia yg disebabkan oleh
+reaksi /réaksi/ n 1 kegiatan (aksi, proses, dsb) yg timbul krn suatu pengaruh atau suatu petistiwa; 2 tanggapan (respons) terhadap suatu aksi; 3 Kim perubahan dsb yg terjadi krn bekerjanya suatu unsur (obat dsb); -- adisi 1 reaksi dua molekul atau lebih yg membentuk molekul lebih kompleks; 2 reaksi penambahan A+B -> C; -- atom sarana atau pembangkit tenaga atom; -- eksotermik reaksi kimia yg disertai pembebasan kalor dr sistem ke sekitarnya; -- enzimolisis reaksi kimia yg dikatalisis oleh enzim terutama pemecahan ikatan, msl, hidrolisis; -- hidrolisis penguraian senyawa kimia yg disebabkan oleh
 reaksi dng air, umumnya terjadi senyawa baru dng penambahan atom molekul H2O kpd salah satu pecahan senyawa yg terurai, biasanya satu pecahan mengambil satu atom hidrogen, sedangkan yg lainnya lagi mengambil gugus hidroksil; -- inti reaksi yg melibatkan inti atom, msl pembelahan inti, penangkapan neuton (oleh inti), peluruhan inti yg pd reaksi ini terdapat perubahan massa, sehingga perubahan massa dan perubahan energi saling dihubungkan oleh kesetaraan massa energi dan tunduk pd asas kekekalan massa energi; -- kimia perubahan materi yg menyangkut struktur dl molekul suatu zat; -- redoks lantaran mikroba reaksi oksida-reduksi yg dikatalisis oleh adanya mikroba, msl fermentasi yg merupakan
 reaksi oksidasi-reduksi zat-zat organik direduksi oleh zat organik pengoksidasi lain; -- substitusi reaksi yg terjadi krn tukar ganti atom atau radikal dl suatu senyawa oleh atom atau radikal lain, atom atau radikal yg ditukargantikan biasanya bereaksi dng pecahan jika ada yg ditinggalkan oleh atom atau radikal yg menukar ganti; bereaksi v mengadakan reaksi: tertuduh itu tidak ~ ketika putusan hakim dibacakan; mereaksi Kim v mengadakan reaksi; pereaksi n Kim alat untuk mengadakan
 reaksi (spt kertas laksum untuk mengetahui barang cair yg mengandung asaman atau alkali)
@@ -560,12 +560,12 @@ rebeh /rébéh/ a 1 compang-camping; rompang-ramping (pakaian dsb); 2 usang; bur
 rebek /rébék/ n kotoran mata;
 rebekan a kotor (mata); belum cuci muka (mandi): matanya masih ~ sudah minta uang
 rebes, berebesan a ompong: giginya ~
-rebet /rébét/ ĺ rembet
-rebet /rébét/ ĺ ribet
+rebet /rébét/ -> rembet
+rebet /rébét/ -> ribet
 rebewes /rébewés/ n surat izin mengemudi (mobil, motor, dsb); sim
 reboisasi n penanaman kembali hutan yg telah tandus (gundul) dng pohon-po hon pelindung; penghijauan: mengusaha kan -- dan rehabilitasi padang alangalang
 rebon, udang -- n udang yg kecil-kecil; udang geragau
-rebong ĺ rebung
+rebong -> rebung
 rebu, merebu ark v masuk banyak-banyak sekaligus; menyerbu masuk
 rebuk kl n nanah (luka dsb); merebuk kl v bernanah; berisi nanah (luka dsb)
 rebung n anak (bakal batang) buluh yg masih kecil dan muda, biasa dibuat sayur; -- tidak jauh dr rumpun, pb tabiat anak tidak jauh berbeda dng orang tuanya; merebung v tumbuh rebungnya; tumbuh spt rebung (janggat dsb)
@@ -585,7 +585,7 @@ recup n tunas atau kuncup yg baru keluar dr batang atau cabang; tumbuhan muda yg
 reda v mulai berkurang; hampir berhenti (hujan, angin ribut, dsb): hujan lebat mulai --; 2 tenang kembali; tidak menghebat lagi (hawa nafsu dsb); 3 berkurang; surut (panas, penyakit, kemarahan, kerusuhan, dsb): panas badannya mulai --; bereda v berlindung; berteduh; mereda menjadi reda: kasus pergantian gubernur sudah ~ dr medan pembicaraan kalangan DPR; meredakan, meredai ark v menjadikan atau menyebabkan reda; menenangkan: ia pergi berjalan-jalan untuk ~ ketegangan otaknya; keredaan n perihal reda; ketenangan; peredaan n perihal membuat reda
 reda /réda/ a rela; keredaan n kerelaan
 reda v 1 mulai berkurang; hampir berhenti (tt hujan, angin, ribut, dsb): geledeknya mulai --; 2 tenang kembali; tidak menghebat lagi (hawa nafsu dsb); 3 berkurang; surut (tt panas penyakit, kemarahan, kerusuhan, dsb): demamnya mulai --; mereda v menjadi reda: hujan sudah ~; pereda n bahan atau alat untuk meredakan sakit dsb
-redah ark ĺ reda
+redah ark -> reda
 redah, meredah v menebang (menebas) banyak-banyak: ~ belukar
 redah, meredah v menempuh (bahaya, hutan, dsb); mengarungi; melintasi: ~ hutan lebat
 redaksi n 1 badan persuratkabaran yg menangani berita, karangan yg akan dimuat di koran, majalah dsb; 2 susunan katakata dl kalimat
@@ -595,8 +595,8 @@ redaksi; 2 pemimpin, kepala, atau penerbit surat kabar, majalah, dsb; -- film an
 redam a kurang terang; sayup-- sayup: -- terdengar suaranya; meredam v mengurangi; menghilangkan: alat ini berguna untuk -- suara; peredam n alat untuk meredam ~ kejut alat untuk meredam getaran atau guncangan pd kendaraan bermotor
 redam a hancur; remuk: kaca mobil itu remuk -- krn menabrak mobil yg lain -- padam 1 padam sama sekali; 2 rusak sekali; musnah; meredam, meredamkan v menghancurkan, meremukkan
 redang /rédang/ n ark rawa yg dalam; paya dan --, bermacam-macam paya
-redang ĺ radang
-redap ĺ redup
+redang -> radang
+redap -> redup
 redap n gendang (rebana) kecil; dap
 rede /rédé/ n laut di luar pantai, biasanya untuk kapal melepas jangkar
 redesain /rédesain/ v rancangan ulang: produk ini semacam -- dr produk sebelumnya
@@ -676,14 +676,14 @@ reinkarnasi /réinkarnasi/ n penjelmaan (penitisan) kembali makhluk yg telah mat
 reinvestasi /réinvestasi/ n penanaman modal kembali
 reja /réja/ n sisa-sisa atau buangan; rejareja; -- ayam bagian ayam (spt kaki, sebagian isi perut) yg dibuang; -- kain (kertas) perca-perca kain (kertas) yg sudah dipotong-potong; -- kayu pecahan (potongan) kayu; tatal; -- nasi sisa nasi
 rejah, merejah v berjalan menempuh (melanggar, melanda) dng tiada mempedulikan apa pun: ada yg duduk di atas gajah, ada yg berkuda jalan ~; merejahkan v melanggarkan; perejah n pelanggar (adat, sopan santun, dsb)
-rejam ĺ rajam
+rejam -> rajam
 rejan, merejan v menahan napas dng bertenaga spt ketika hendak buang air; mengejan
 rejang n cara perhitungan baik buruk untuk tiap-tiap hari bulan yg biasanya dilambangkan oleh binatang (spt tanggal 1 kuda), perhitungan nujum
 rejang, merejang v memecahkan (membongkar ); perejang n alat untuk memecah atau membongkar; linggis; alabangka
 rejang a gerakan yg cepat (tt lompat, lari); lejang; serejang adv waktu yg sangat singkat; sekilas; ~ kuda berlari sepintas lalu; singkat sekali
 Rejasa n 1 timah; 2 nama pohon, Elacocarpus grandiflora
 rejeh /réjéh/ a belengset (merah dan berair pelupuk mata)
-rejeki ĺ rezeki
+rejeki -> rezeki
 rejeng, merejeng v menangkap (memegang) bersama-sama
 rejuk, merejuk v melompat ke muka dan ke atas (spt harimau, kucing)
 rejuvinasi /réjuvinasi/ v meremajakan
@@ -692,9 +692,9 @@ reka, reka-reka /réka/ n ark 1 aturan; tindakan; 2 sesuatu yg dibuat-buat atau 
 reka(-reka)an n karangan; cerita karangan (khayal); buatan; rancangan; angan-angan (fantasi dsb); skema; kirakiraan; perkiraan (perhitungan)
 reka /réka/, mereka v 1 menyusun (mengatur, mengarang) baik-baik; 2 mencari akal (ikhtiar); 3 memikirkan; merencanakan; 4 membayangkan; 5 memperkirakan
 rekacipta n inovasi perekaciptaan n proses, cara, perbuatan mereka cipta pereka cipta n orang yg mereka cipta
-rekaat ĺ rakaat
+rekaat -> rakaat
 rekah, merekah v 1 Bio membuka secara cepat dng mengeluarkan isi yg dikandungnya (tt kepala sari); 2 ki fajar mulai terbit
-rekal /rékal/ ĺ rehal
+rekal /rékal/ -> rehal
 rekalkulasi /rékalkulasi/ n perhitungan kembali
 rekam n 1 bekas atau kesan dr sesuatu yg diucapkan atau dituliskan (spt garis-garis atau gambaran berwarna pd kain; garisgaris berwarna pd kain tenun; huruf; tanda dsb yg diterakan pd kopor dsb; cetakan stensil); 2 sulam (suji) dng warna yg lain (dng benang emas dsb); 3 aluralur bunyi (suara) pd piringan hitam dsb; merekam v 1 mengecap; mencetak; memberi bergambar (garis-garis) berwarna pd kain dsb; 2 menyulam (dng benang emas atau benang berwarna); menyuji; 3 melekap; melekat (spt baju pd tubuh, sambungan kayu); merekamkan v 1 mengecapkan; mencetakkan; menerangkan; menggambarkan garis-garis berwarna pd kain dsb; 2 memasang gambar pd majalah (surat kabar dsb); 3 menyulamkan; menyujikan; 4 mengambil bunyi (suara untuk diterakan dl piringan hitam dsb); 5 melekatkan (menyiratkan) ke dl hati;
 rekaman n sesuatu yg direkam; hasil merekam; perekam n alat untuk merekam (suara dsb); ~ kilat Met alat untuk merekam arah, intensitas, dan frekuensi kilat; ~ ionosfer Met alat untuk merekam struktur vertikal ionosfer perekaman n proses, cara, perbuatan merekam
@@ -738,7 +738,7 @@ rela /réla/ v 1 bersedia (sudi) dng ikhlas hati: aku -- mati membela tanah tump
 relai n siput mutiara
 relai a rusak berpisah-pisah (krn lapuk atau busuk tt kayu)
 relai /rélai/, merelai v menghubungkan; menyiarsambungkan (tt siaran radio): siaran radio RRI Jakarta akan ~ siaran pandangan mata pertandingan sepak bola itu dari RRI Semarang
-relaks /rélaks/ ĺ rileks
+relaks /rélaks/ -> rileks
 relaksasi /rélaksasi/ v berkurangnya ketegangan
 relang n kilap; gilap; merelang v mengkilap; cemerlang
 relang n lingkaran (selang-selang) pd rotan
@@ -774,13 +774,13 @@ remang ark, meremang v meleleh (air mata); bersimbah (peluh)
 remang, remang-remang a agak gelap (kelam); keremangan n kesamaran; keredupan; kekelaman
 remang, remang-remang a agak gelap atau kelam: kamar yg berampu kecil itu -- remas, meremas v 1 mengepal-- ngepal dan memerah-merah (kelapa, adonan, dsb): ~ tepung; 2 memulas dan memerah (kain basah dsb); memeras: ~ kain basah; 3 merenyukkan; mengumalkan: ia ~ surat itu, lalu dibuangnya ke keranjang sampah; 4 memijit-mijit; mengurut: ia ~ kakinya yg keram itu dng tangannya; ~ bibir (mulut) menggasak; menghajar; ~ jantung (perut) ki (membikin) sebal; mendongkol; marah dl hati; peremas n 1 orang yg meremas; 2 alat untuk meremas
 rematik /rématik/ n penyakit yg ditandai oleh rasa nyeri atau radang pd otot, sendisendi, atau jaringan-jaringan badan; encok
-rematisme /rématisme/ ĺ rematik
+rematisme /rématisme/ -> rematik
 rembah, merembah v meleleh (air mata);
 rembah-rembih 1 bercucuran (air mata); 2 tidak teratur rapi (memakai kain sarung dsb)
-rembah ĺ rambah
+rembah -> rambah
 rembang 1 a setinggi-tingginya (tt matahari, bulan); titik di langit; 2 kl tepat benar (waktunya): segala takwin kitab dibuka, --lah saat dng ketika; -- petang menjelang sore
 rembas ark a -- habis habis sama sekali; rusak sama sekali
-rembat /rémbat/ ĺ rimbat
+rembat /rémbat/ -> rimbat
 rembega /rembéga/ n tumbuhan (widuri), Calotropis gigantea
 rembes /rémbés/ n 1 penyakit mata (tepi matanya merah dan berair); 2 mata banyak kotorannya
 rembes, merembes v meresap ke luar atau ke dl (tt barang cair); tiris: jika hujan deras itu ~ ke tembok; merembesi v menjalari ke luar atau masuk (tt barang cair); meresapi: molekul-molekul pelarut air dapat ~ dinding-dinding itu;
@@ -842,7 +842,7 @@ renceng /réncéng/ a 1 panjang lampai (kurus tt badan): sosok orangnya tinggi d
 renceng /réncéng/, serenceng num seuntai (pelor, senapan mesin, petasan, dsb); berenceng v beruntaian; berangkaian;
 rencengan n untaian (petasan dsb)
 renceng /réncéng/ ark a, -- mulut sangat mudah bercakap-cakap
-rencet /réncét/ ĺ rentet
+rencet /réncét/ -> rentet
 rencong /réncong/ n keris atau golok dr Aceh, bentuknya melengkung dan tipis tajam, biasanya digunakan untuk membela diri atau lambang kegagahan
 renda /rénda/ n kerawang (biku-biku) yg biasa dipasang pd tepi baju (sarung bantal dsb); merenda v membuat renda: para siswa diberi pelajaran kejuruan spt ~ menyulam; merendai v memberi berenda; memasang renda: ia sedang ~ baju barunya
 rendabel /réndabel/ a cukup memberi keuntungan
@@ -874,8 +874,8 @@ rengga n tempat duduk di punggung gajah
 renggam n tunai atau sabit
 renggang a 1 tidak rapat; ada celahnya (antaranya, sela-selanya): mereka disuruhnya berjajar, agak -- sedikit; 2 kurang erat (tt persahabatan dst): perkara itu menyebabkan perhubungan antara kedua negara itu semakin --; merenggang v menjadi renggang; merenggangi v menjauhi (supaya renggang): ~ sahabat lama; merenggangkan v 1 menjadikan (menyebabkan) renggang: ~ persahabatan; ~ tulisan; 2 menjarangkan: ~ kelahiran; memperenggang v merenggangkan; kerenggangan n perihal renggang
 renggat n garis-garis lingkaran pd tanduk atau batang kayu
-renggek /rénggék/ ĺ rengek
-rengges /rénggés/ ĺ ranggas
+renggek /rénggék/ -> rengek
+rengges /rénggés/ -> ranggas
 rengginang n penganan dibuat dr ketan yg dijemur lalu digoreng (kerupuk ketan)
 renggut, v merenggut v 1 menarik (menyentak, merebut, mencabut) dng paksa: pencopet itu tidak berhasil ~ arlojiku; 2 merengkuh: ~ dayung
 rengit n nyamuk kecil-kecil; agas; angit; gegat
@@ -916,7 +916,7 @@ rentang a terulur tegang; merentangi v 1 merentang (tali dsb) pd: ~ jalan dng ka
 rentang /réntang/ ark, merentang-rentang v menggerentang; membentak-bentak
 rentap ark, merentap(kan) v merentakkan; menyentakkan '
 rentas, merentas v 1 meretas; memintas; 2 merintis: ~ jalan
-rente /rénte/ ĺ renten
+rente /rénte/ -> renten
 renten /rénten/ n bunga uang; riba merentenkan v membungakan uang yg dipinjamkan; meminjamkan uang dng dikenakan bunga merenteni v memberi bunga uang
 renteng /rénténg/, serenteng num seuntai; serangkai: ~ mercon; berenteng-renteng ark 1 beruntai-untai; berangkai-rangkai; 2 berendeng; beruntun-runtun; merenteng v memasang seuntai-seuntai (tt mercon dsb) tidak satu-satu: ~ mercon;
 rentengan n untaian; rangkaian (mercon dsb): ~ mercon
@@ -951,9 +951,9 @@ reoplankton /réoplankton/ n Bio plankton yg hidup di air yg mengalir, msl air s
 reorganisasi /réorganisasi/ n penyusunan kembali; perbaikan aturan (susunan)
 reorientasi /réorientasi/ n peninjauan kembali untuk menentukan sikap dsb
 reostat /réostat/ n alat untuk mengatur aliran listrik
-reot /réot/ ĺ reyot
-repah ĺ rapah
-repak ĺ repas
+reot /réot/ -> reyot
+repah -> rapah
+repak -> repas
 repang a rata (dipangkas); pepat: cucuran atap yg --; merepang v memangkas rata-rata; meratakan: ~ gigi
 reparasi /réparasi/ n pembetulan apa-apa yg rusak; mereparasi v memperbaiki (membetulkan) yg rusak: ia dapat ~ radio
 repas a mudah pecah (rusak); rapuh
@@ -966,7 +966,7 @@ repeten /repéten/ n Mat angka atau kelompok angka yg selalu berulang dl pecahan
 repetisi /répetisi/ n 1 ulangan (tt pelajaran); 2 pelatihan ulangan (sandiwara dsb)
 repetitif a bersifat pengulangan: untuk batik "cap" dan batik "tulis" yg sering terjadi pengulangan secara massal dl satu corak, lebih cocok untuk dikatakan sbg seni -- repetitor n orang yg membantu mahasiswa mempelajari lagi bahan-bahan pelajaran yg akan diujikan
 repih 1 a mudah dipecahkan (spt roti kering); 2 n potongan-potongan kecil; serpihan: ~ kaca berserakan di jalan krn baru saja terjadi tabrakan; serepih adv sekeping; secuil (roti, kue, dsb)
-repis ĺ repih
+repis -> repih
 replik /réplik/ n Huk jawaban penutut umum di persidangan atas tangkisan terdakwa atau pengacaranya
 replika /réplika/ n kopi atau duplikat
 replikasi /réplikasi/ n 1 Bio kemampuan virus memperbanyak diri; 2 proses, cara meniru; penduplikatan; bereplikasi v melakukan replikasi
@@ -1066,14 +1066,14 @@ retail /rétail/ n usaha bersama dl bidang perniagaan dl jumlah kecil kpd penggu
 retak a 1 tampak bergaris pd barang keras (spt piring, batu) yg menandakan akan pecah (belah): piring ini sudah --; 2 kl cacat; cela: buku ini masih banyak --nya; 3 kl ada perpecahan atau perselisihan; sudah tidak utuh (bersatu) lagi: ditegaskannya bahwa tidak ada -- sedikit jua di antara mereka;
 retak-retak mentimun, pb retak halushalus hanya di luar saja: sumbing melukai, retak -- melampaui tara (garis), pb kesalahan besar; retak -- menanti belah, pb 1 perkara kecil yg mungkin menjadi besar; 2 tinggal menantikan timbulnya bencana yg lebih besar (kematian dsb); -- batu tidak dapat didamaikan lagi (tt perselisihan); -- bulu ayam mudah di- damaikan lagi (tt perselisihan); -- retai banyak retaknya; meretak v mulai retak; menjadi retak: gelas baru itu ~ dituangi air panas; meretakkan v menyebabkan retak: dialah yg ~ hubunganku dng gadis itu;
 retakan n hasil benda yg retak; keretakan n hal (keadaan) retak
-retal ĺ hartal
+retal -> hartal
 retardasi /rétardasi/ n pelambanan pembaharuan
 retas a sudah putus benang jahitannya; terbuka jahitannya (kelimnya dsb): jangan memakai pakaian yg sudah --; meretas v 1 memutuskan benang-benang pd jahitannya: ~ kelim; 2 membuka (surat) dng pisau; 3 membedah atau membelah kulit (karung dsb): krn putus asa ia ~ perutnya sendiri dng sebilah pisau; 4 menebangi pohon-pohonan untuk membuat jalan; merintis; merentas; menembus dng merusak dinding dsb: pencuri itu lolos setelah ~ dinding kamarku; peretas n 1 orang yg meretas jalan dsb; 2 alat yg dipakai meretas
 retas n Geo tubuh batuan beku yg menerobos memotong batuan lain
 retek /réték/, meretek v menggigil; gemetar: badannya ~ kedinginan
 retensi /réténsi/ n 1 penyimpanan; penahanan; 2 Bio penahanan terus-menerus zat dl tubuh yg secara normal seharusnya dikeluarkan (spt kencing); -- air sifat atau proses menahan air yg dikandung oleh bahan atau benda itu pd keadaan normal (suhu kamar, tekanan normal) dan air yg dikandung ini dapat dilepaskan jika suhu dinaikkan atau tekanan diturunkan; -- kawat banyaknya bahan yg tertinggal di atas kawat kasa pembentuk lembaran sewaktu suspensi serat mengalami drainase; -- kekuatan Kim kekuatan mekanis yg diukur jika kertas dijenuhkan dng air, besarnya berkisar antara 1%--8% dr kekuatan keringnya
 retentivitas /réténtivitas/ n Fis sifat bahan magnet yg terukur dl imbas-magnetik sisanya bila medan pemagnet yg menjenuhkannya telah disingkirkan
-retet / rétét/ ĺ rentet
+retet / rétét/ -> rentet
 retih, meretih v berbunyi spt daun-daunan basah dibakar; mendedas
 retih, meretih a 1 tampak berbutir-butir pd kulit (spt keringat, bintik-bintik air); 2 kl berloncatan (spt udang di tangguk)
 retikula /rétikula/ n jala halus dr protoplasma sel; perut kedua binatang pemamah biak
@@ -1082,10 +1082,10 @@ retikulosit /rétikulosit/ n Kim sel darah merah yg belum matang yg aktif menyin
 retikulum /rétikulum/ n Bio 1 jala halus pd protoplasma sel; 2 perut kedua pd binatang pemamah biak; -- endoplasma sistem membran yg kompleks pd sitoplasma sel tumbuhan tinggi, bercabang menyerupai jala, membagi sitoplasma menjadi ruang-ruang atau saluran-saluran
 retina /rétina/ n selaput saraf dl mata yg menerima bayangan
 retinaldehida /rétinaldéhida/ n Kim bentuk aldehida dr vitamin A
-retok /rétok/ ĺ recok
+retok /rétok/ -> recok
 retorik /rétorik/ a bersifat retorika: adakah gaya -- pd puisi di atas?
 retorika /rétorika/ n 1 keterampilan berbahasa secara efekif; 2 studi tt pemakaian bahasa secara efektif dl karang-mengarang
-retoris /rétoris/ ĺ retorik
+retoris /rétoris/ -> retorik
 retorsi /rétorsi/ n Dag tindakan pembalasan (thd negara yg menyulitkan perdagangan)
 retribusi /rétribusi/ n pemungutan uang oleh pemerintah (kotapraja dsb) sbg balas jasa; -- daerah pungutan daerah sbg pembayaran pemakaian atau krn memperoleh jasa pekerjaan, usaha atau milik daerah bagi yg berkepentingan atau krn jasa yg diberikan oleh daerah
 retrofili /rétrofili/ n Psi orang yg sangat senang mengingat masa lalu
@@ -1111,20 +1111,20 @@ rewang /réwang/, merewang a oleng (tt perahu); tidak tetap (selalu berpindahpin
 rewang /réwang/, merewang v merawak; merambang; mengawur: tembakannya ~ saja
 rewel /réwél/ a 1 banyak bicara atau suka membantah; tidak mudah menurut: mereka sangat -- dl hal memilih barang; 2 sukar atau tidak mudah mengerjakannya; tidak berjalan lancar untuk mesin: saya sedang memperbaiki mesin mobil yg -- itu
 rewet /réwét/, merewet v menyambar atau mengenai yg lain-lainnya; merembet: api itu terus ~ ke bangunan-bangunan di sekitarnya
-reyal /réyal/ ĺ rial
+reyal /réyal/ -> rial
 reyot /réyot/ a sudah rusak dan akan roboh: kursi makan di rumah nenekku sudah -- rezeki n 1 segala sesuatu yg dipakai untuk memelihara kehidupan yg diberikan oleh Tuhan; makanan (sehari-hari); nafkah; 2 ki penghidupan; pendapatan (uang dsb) untuk memelihara keuntungan; kesempatan mendapat makanan dsb; -- elang tak akan dapat (di makan) oleh musang (burung pipit), pb setiap orang ada keuntungannya masing-masing; -- batin sesuatu yg berguna bagi batin; santapan rohani; -- mahal sukar mencari
 rezeki (penghidupan); jarang sekali mendapat keuntungan; -- mata segala sesuatu yg sedap dipandang; -- murah mudah mendapat penghidupan; kerapkali mendapat keuntungan; -- musang ki gadis yg tidak terjaga
 rezim /rézim/ n tata pemerintahan negara; pemerintahan yg berkuasa; -- medis Dok orang atau perusahaan yg menjadi agen atau pengecer alat-alat medis atau kedokteran
 ria a 1 riang; gembira; sukacita: beliau disambut dng segala -- dan sukahati; berhati --, bersuka --, bersuka-suka; 2 ramai (oleh suara orang bersuka-suka dsb): terlalu amat -- bunyinya; beria v bergembira: mari ~, mari bergembira; beria-ria v bersuka-suka; bersenangsenang; bergembira: orang lain ~, dia tenggelam dl duka nestapa; keriaan n 1 kegembiraan; kegirangan
 ria a sombong; congkak; bangga (krn telah berbuat baik)
-riadah ĺ riadat
+riadah -> riadat
 riadat n perihal bertapa dng mengekang hawa nafsu (memantang berbagai makanan dsb)
 riah, meriah a 1 ramai yg bersifat sukaria: perarakan yg ~ menuju istana Merdeka; 2 dng upacara (kebesaran, kemuliaan, dsb): hari Maulid Nabi dirayakan di istana dng ~
 riak n 1 gerakan mengombak di permukaan air; ombak kecil; gerakan air yg merupakan lingkaran (spt bila kita menjatuhkan batu ke air): kedengaran -- air gemercik; 2 getaran udara: pd tempat yg kepanasan itu tampak -- udara; 3 ki gerak-gerik yg menjadi alamat bahwa ada sesuatu yg terkandung di dalam hati; gelagat: dr -- matanya; -- gelombang 1 gelombang radio; 2 aliran gelombang; -- meriak beriakriak (tt air); beriak v bergerak mengombak (tt air, udara): udara yg tenang mulai ~, silau mata memandangnya; air ~ tanda tak dalam; beriak-riak v bergerak-gerak mengombak (tt air)
 riak n lendir yg keluar dr tenggorokan pd saat terserang batuk; dahak; beriak v berdahak; mengeluarkan dahak
 riak a sombong; congkak
 rial n 1 kl (-- batu) nama mata uang pd zaman dulu; 2 bobot (timbangan berat) /2 tail (± 20 gr)
-rialat ĺ riadat
+rialat -> riadat
 riam n aliran air yg deras di sungai (hampir spt air terjun tetapi rendah sekali)
 rian num 1/16 tukal (ukuran benang)
 riang a suka hati; girang sekali: dng -- ia menyambut kedatanganku; -- gembira suka hati dan gembira; sukaria; -- hati sukacita; -- mulut suka bercakap-cakap; meriangkan v menggembirakan; menyenangkan hati; menggirangkan: hal itu benar-benar ~ hati kami; periang n orang yg selalu bersuka hati (bergembira); keriangan n kesukaan; kegembiraan
@@ -1153,7 +1153,7 @@ ribut a 1 sibuk sekali; banyak pekerjaan: menjelang Lebaran orang -- membeli ini
 ribut a bertiup sangat kencang (tt angin) dan tidak tentu arahnya; meribut v membadai; mengamuk: dl hati ~ pikiran
 rica-rica n masakan khas Manado yg bumbunya diberi cabai, tomat, dsb
 ricau, mericau v 1 menggericau; berkicau (spt burung murai); 2 merancau; beleter; mengoceh
-ricis ĺ rincis
+ricis -> rincis
 ricuh a 1 ribut; cekcok: -- soal jual beli tanah; 2 campur aduk tidak keruan; kacau: keadaan jadi -- krn tidak adanya pimpinan; kericuhan n kekacauan; kerusuhan
 rida n 1 rela; suka; senang hati; 2 perkenan; rahmat; meridai v memperkenankan; mengizinkan (untuk Tuhan); memberikan keridaan; keridaan n kerelaan
 ridan n nama pohon, kayunya dibuat papan dsb, Nephelium maingayi
@@ -1164,7 +1164,7 @@ rifler n Sen kikir kecil untuk menghaluskan lekuk yg sulit dijangkau
 rigai a lampai; tinggi kurus: perawakannya -- ringan
 rigiditas n kekakuan
 rigi-rigi n gerigi; berigi-rigi v bergerigi; beringgit-ringgit
-rihal ĺ rehal
+rihal -> rehal
 rihat v istirahat; berihat v beristirahat; mengaso
 riil n nyata
 rijalulgaib n roh (aulia) yg tersembunyi di atas bumi (yg melindungi manusia di dunia ini)
@@ -1172,15 +1172,15 @@ rijang n Geo batuan keras dan pejal terdiri atas asam silikat yg biasanya terdap
 rikuh a malu-malu; canggung; segansegan: rupanya ia agak -- menyilakan saya duduk di kursi; merikuhkan v merepotkan; membuat jadi rikuh (segan-segan)
 rim n jumlah lembar kertas yg berkisar antara 480 sampai 500 helai
 rima n kesamaan bunyi dsb yg bertalian dng ritme atau tekanan pd sajak atau kata
-rimah ĺ remah
+rimah -> remah
 rimas a 1 berasa tidak senang atau nyaman (krn panas dsb); 2 tidak senang hati; merimaskan v menyebabkan tidak senang (tidak nyaman): persoalan itu sangat ~ patik
 rimata n pendeta atau dukun keluarga pd suku bangsa Mentawai
 rimba n hutan lebat (yg luas dng pohon yg besar-besar): hilang tidak tentu --nya, hilang lenyap tanpa meninggalkan kesan atau jejak; -- raya hutan yg amat besar; merimba v 1 menjadi spt rimba; ladangnya sudah ~; 2 pergi atau biasa bekerja di rimba: setiap hari ia ~ mencari kayu bakar; perimba n orang yg biasa ke rimba (mencari nafkah di rimba)
 rimbas n patil untuk menarah kayu (kadang-kadang untuk menyiangi tanaman dsb); merimbas v menarah dng rimbas; menyiangi dng rimbas
 rimbat n 1 balok panjang di bibir perahu; 2 kayu palang pd pintu
 rimbawan n ahli kehutanan
-rimbit ĺ rembet
-rimbu ĺ rimba
+rimbit -> rembet
+rimbu -> rimba
 rimbun a 1 berdaun dan bercabang-cabang banyak: pohon-pohonnya --; 2 lebat atau tebal (tt rambut kepala); 3 banyak layarnya (tt perahu): perahu yg -- layarnya; 4 banyak pakaian (dan perhiasan) yg dipakai: pakaian dan perhiasan pengantin itu --; merimbun v menjadi rimbun: rumah itu terlindung oleh bebungaan yg --; rerimbun n banyak rimbun
 rimis n peser ( /2 sen); serimis adv setengah sen; sepeser: tidak berharga ~, tidak berharga sama sekali
 rimpang n umbi (akar) yg bercabangcabang sbg jari (spt kunyit, halia, dsb)
@@ -1194,7 +1194,7 @@ rinci, merinci v 1 memecahkan (membagibagi, menguraikan) kecil-kecil: pengeluara
 rincih n potongan (sayatan dsb) kecilkecil; merincih v mengiris kecil-kecil; menyayat; meracik; mengerat kecil-kecil
 rincis ark, merincis v meracik; merajang; menyayat kecil-kecil; perincis n alat untuk merincis
 rincu a kacau; rancu; merincukan v mengacaukan: kata-kata asing sering ~ ejaan
-rincuh ĺ rincu
+rincuh -> rincu
 rindang a banyak daun dan dahannya melebar (tt pohon): bernaung di bawah pohon yg --; merindang v menjadi rindang
 rinding a gerinding; genggong
 rinding, merinding v terasa bangun bulu kuduk; ngeri, seram: ia ~ mendengar suara makhluk itu; merindingkan v menyeramkan; mengerikan: teriakannya keras ~ siapa yg mendengar
@@ -1204,7 +1204,7 @@ ring n bunyi sbg bunyi bel, ’ring-ring' dsb
 ring n cincin; gelang-gelang
 ring n arena adu tinju; gelanggang: dia berhasil mendesak lawannya ke sudut --
 ringan a 1 tidak berat; enteng; sedikit bobotnya: kayu ini --; 2 ki tidak parah: lima orang luka --; 3 ki mudah melakukannya: pekerjaan itu -- sekali; 4 ki tidak besar jumlahnya: pajaknya --; 5 ki tidak keras (tidak lama): hukumannya; berat sama dipikul, -- sama dijinjing, pb bersama-sama dl suka dan duka; berat sepikul, -- sejinjing, pb bersama-sama dl suka dan duka; -- kaki suka datang (mengunjungi, melawat, dsb); -- kepala mudah mengerti; mudah menangkap pelajaran: -- langkah sudi datang berkunjung; -- lidah 1 peramah; suka bercakap-cakap; fasih berkata-kata; 2 suka cerewet (bawel, banyak mulut, dsb); --  mulut ringan lidah; -- tangan 1 suka menolong (membantu), lekas berbuat sesuatu; 2 gemar mencuri; -- tulang giat bekerja; tangkas; cekatan; terampil; meringankan v 1 menjadi ringan: bantuan Anda benar-benar ~ pekerjaan saya; 2 menganggap ringan (mudah dsb): kerjakanlah dulu jangan ~ begitu saja; memperingan v membuat jadi lebih ringan: adanya pegawai baru belum ~ tugas saya; peringanan n perbuatan (hal dsb) meringankan; keringanan 1 n pengurangan beban (tanggungan, tugas, dsb); 2 a sangat ringan
-ringgik ĺ renggek
+ringgik -> renggek
 ringgit 1 n ark mata uang dr perak harganya Rp2,50 (zaman penjajahan Belanda); 2 satuan mata uang dr Malaysia (disebut juga dolar)
 ringgit n rigi-rigi (spt pd lereng roda geretan dsb); beringgit-ringgit v berigi-rigi; bergerigi; meringgiti v membuat ringgit-ringgit (pd besi dsb)
 ringih, meringih v meringkik
@@ -1221,7 +1221,7 @@ ringsek a rusak dan pesok: sepeda motornya -- diterjang truk
 ringsing, meringsing v berkerut-kerut: kulit mulai -- dng bertambahnya usia
 rini n setengah sen; rinis
 rinjing n bakul yg bertangkai terbuat dr anyaman bambu dsb
-rintak ĺ rentak
+rintak -> rentak
 rintang, merintangi v 1 mengalangalangi: pohon yg tumbang di jaIan itu ~ kendaraan yg akan lewat; 2 mengganggu; mengusik: jangan ~ orang yg sedang bekerja; merintangkan v memasang sesuatu untuk mengalang-alangi: ~ batang-batang kayu di tengah jalan; terintang v teralang; terganggu: perjalanan kami ~ oleh cuaca yg buruk;
 rintangan n apa-apa yg merintangi; gangguan; alangan; perintang n 1 alat dsb untuk merintangi; 2 orang yg merintangi
 rintang v 1 sedang bekerja; sibuk melakukan sesuatu; melakukan sesuatu dng asyik: semua orang telah -- dng pekerjaannya masing-masing; 2 ark sangat gemar (minum madat dsb): -- main; -- anak menghibur atau membujuk anak supaya diam (tidak menangis); -- hati menghibur hati; -- mata mempersenang mata dng melihat-lihat barang yg indah; -- pikiran menghilangkan susah dsb (dng membelokkan pikiran pd perkara lain); merintang, merintang-rintang v 1 melakukan sesuatu untuk menghilangkan susah (lelah, waktu, dsb): dialah yg ~ membujuk menawarkan hatiku; perintang, perintang-rintang n barang apa yg dilakukan untuk merintang-rintang (hati, pikiran, waktu, dsb)
@@ -1232,7 +1232,7 @@ rintik n 1 titik (kurik) pd dasar warna yg lain; 2 titik (percik air dsb);
 rintik-rintik n gerimis; hujan renyai: jika hujan lebat saya tidak datang, tetapi kalau hanya ~, saya akan datang; berintik-rintik v berbelang kecil-kecil; kurik: ayam ~; merintik-rintik v bertitik-titik (tt air dsb); menetes: embun pagi mulai ~
 rintis n jalan kecil di hutan; merintis v 1 menebangi kayu-kayuan di hutan untuk membuat jalan: beberapa halamanya mereka ~ hutan barulah sampai ke tempat tujuan; 2 membuat batas-batas (pancang dsb) di tanah yg akan dipakai membuat jalan: pekerjaan ~ jalan kereta api itu memerlukan banyak tenaga dan biaya; 3 memelopori (mengerjakan untuk pertama kali): Rd Dewi Sartika telah turut ~ jalan kpd kemajuan kaum wanita;
 rintisan n 1 jalan kecil di dl hutan (yg baru saja dibuat); 2 jaIan kecil sbg batas antara hutan cadangan dan hutan yg diusahakan; 3 ki usaha yg mula-mula sekali; perintis n 1 orang yg memulai mengerjakan sesuatu; pelopor; 2 usaha pertama atau permulaan; pembuka jalan; 3 pasukan polisi (tentara) yg bergerak terdahulu atau yg melakukan serangan pendahuluan
-rinyai ĺ renai, renyai
+rinyai -> renai, renyai
 riol n saluran pembuangan air (di tepi jalan dsb)
 ripai n rebana
 riparian n tumbuhan yg hidup dan berkembang di tepi-tepi sungai
@@ -1243,13 +1243,13 @@ ririt ark n leret; deret
 risa n 1 bincut pd kulit (spt kutil); 2 belulang (kulit yg keras) pd telapak tangan dsb
 risalah n 1 yg dikirimkan (yaitu surat, utusan, dsb); 2 surat edaran (selebaran); 3 karangan ringkas mengenai suatu masalah dl ilmu pengetahuan; -- rapat Adm catatan mengenai apa yg telah dibicarakan dan diputuskan oleh suatu rapat; -- ujian ark disertasi
 risak, merisak v mengusik; mengganggu: mereka tidak putus-putusnya ~ku dng berbagai-bagai olok-olokan
-risalat ĺ risalah
+risalat -> risalah
 risau a buruk kelakuan (suka berbuat jahat dsb); merisau v hidup dng tidak beraturan; berkeliaran; bertualang; perisau n orang jahat (yg suka berbuat jahat; buruk kelakuan)
 risau a 1 gelisah; rusuh hati: hatinya merasa -- bercampur cemas; 2 rusuh (kacau, tidak aman): selama keadaan masih -- tidak mungkin kita dapat hidup dng tenteram; merisau, merisaukan v 1 mengganggu (keamanan, ketenteraman): jika terbukti dia ~ ketenteraman masyarakat pasti akan dituntut; 2 menggelisahkan: peristiwa itu sangat ~ hati kami; perisau n 1 perusuh; pengganggu (keamanan dsb); 2 orang yg mudah menjadi risau; kerisauan n kerusuhan (hati); kegelisahan
 risban n kursi panjang terbuat dr kayu untuk bersantai di teras atau di ruang tamu
 riset n penyelidikan (penelitian) suatu masalah secara bersistem, kritis, dan ilmiah untuk meningkatkan pengetahuan dan pengertian, mendapatkan fakta yg baru, atau melakukan penafsiran yg lebih baik
 risi a 1 berasa jijik; 2 ki merasa tersinggung; 3 merasa malu (merasa tidak enak dng keadaan sekeliling): sedikit pun ia tidak merasa -- di tengah-tengah orang banyak itu
-risih ĺ risi
+risih -> risi
 risik, merisik v meraba-raba (ke dl saku dsb): dia ~ sakunya ketika melihat seorang pengemis
 risik, merisik v 1 menyelidiki dng sembunyi-sembunyi; 2 menyelidiki berhasil tidaknya pinangan; menyuruh orang menyampaikan pinangan;
 risikan n 1 penyelidikan atau penelitian yg dilakukan dng sembunyi-sembunyi; 2 keterangan yg diperoleh secara rahasia
@@ -1260,13 +1260,13 @@ racun sehingga biji jarak tidak dapat dimakan dan menyebabkan aglutinasi zarah d
 risit ark n surat tanda penerimaan (kuitansi, resi)
 riskan a berbahaya; besar risikonya: kabut mulai menipis, tetapi masih tetap -- bagi penerbangan
 rit n perjalanan bolak-balik kendaraan umum (bus, bemo, dsb) dl satu trayek
-ritel /ritél/ ĺ retail
-ritma ĺ ritme
+ritel /ritél/ -> retail
+ritma -> ritme
 ritme n irama (lagu, gerakan, dsb) yg teratur
-ritmik ĺ ritmis
+ritmik -> ritmis
 ritmis a berirama: dng langkah yg -- berjalanlah pasukan itu mengiringi pasukan pengawal bendera
 ritual a berkenaan dng ritus; hal ihwal ritus
-rituil ĺ ritual
+rituil -> ritual
 ritul, meritul ark v memecat atau memberhentikan dr jabatan; mengganti dng pegawai lain; dl masa satu tahun pemimpin perusahaan itu telah ~ lima orang karyawannya
 ritus n tata cara dl upacara beragama
 riuh a ramai; ribut; hiruk: terdengar suara -- dr aula itu; -- rendah ramai sekaIi; hiruk pikuk: suara -- rendah tidak berhenti-henti selama sepuluh menit
@@ -1276,18 +1276,18 @@ riung, meriung v (duduk) berkumpul: mereka ~ di bawah pohon yg rindang sambil me
 rival n lawan (dl pertandingan dsb)
 rivalitas n pertentangan; permusuhan; perlawanan
 riwayat n 1 cerita yg turun-temurun; cerita; 2 sejarah; tambo; -- hidup uraian tt segala sesuatu yg telah dialami (dijalankan) seseorang; biografi; beriwayat v 1 bercerita; 2 bersejarah; mengandung sejarah (ki sangat penting, peristiwa yg penting); meriwayatkan v menceritakan: dialah yg ~ kisah itu kpd kami
-rizeki ĺ rezeki
+rizeki -> rezeki
 rizoid n akar tumbuhan halus atau lumur gunanya untuk melekatkan diri pd tumbuhan lain untuk menghisap makanan
 rizoma n akar yg tumbuh mendatar di dalam tanah; akar tinggal
 rob v pasang besar (tt air laut atau sungai) yg menyebabkan luapan air laut
-robah ĺ ubah
+robah -> ubah
 robak-rabik a banyak robek; koyak-koyak (tt tikar, baju, permadani, dsb)
 robat-rabit a sobek-sobek; robak-rabik
 robek /robék/ a terlepas, terputus dr anyaman, jahitan, dsb (tt tikar, baju, kain, dsb); sobek: bajunya -- terkait paku; merobek v 1 menyobek; mengoyak (tt tikar, kain, baju, dsb); 2 ki mengacaukan; meresahkan; mengharu-biru (hati dsb): inilah sebenarnya yg ~ pikiran dan perasaannya;
 robekan n sesuatu (kain dsb) yg sudah
 robek-robek atau dirobek-robek; hasil robekan
 roboh v 1 runtuh (tt barang yg besar-besar spt rumah, tembok): gedung-- gedung -- akibat gempa bumi yg hebat; 2 tumbang; jatuh rebah (tt pohon-pohonan, tanaman, dsb): hujan dan angin ribut semalam menyebabkan pohon-pohonan --; 3 ki jatuh (dl berbagai-bagai arti spt bangkrut, kalah, tidak bisa bertahan lagi, luntur imannya): petinju itu telah -- di ronde kedua; merobohkan v 1 meruntuhkan (rumah dsb): petugas ~ bangunan liar di sepanjang rel kereta api; 2 merebahkan atau menumbangkan (pohon-pohonan dsb): para penebang kayu di Kalimantan dng mudah ~ pohon-pohon kayu raksasa; 3 menjatuhkan (mengalahkan dsb): tim bulutangkis Indonesia dng mudah ~ lawan-lawannya; (ke)robohan n runtuhan; reruntuhan puing; perobohan n hal merobohkan
-robok ĺ rebuk; merobok v merebuk
+robok -> rebuk; merobok v merebuk
 robok, merobok v luka di dl saja, di luar tidak tampak lukanya (penyakit)
 robok, serobok v berpasangan; bertemu: ketika tatapan itu ~, kedua kepala itu tertunduk
 robok, merobok v menggelegak (spt botol kosong dsb yg dibenamkan ke dl air)
@@ -1314,7 +1314,7 @@ roh n 1 sesuatu yg hidup yg tidak berbadan jasmani, yg berakal budi, dan berpera
 rohani a 1 roh; 2 berupa roh; yg bertalian atau berkenaan dng roh: manusia mempunyai unsur jasmani dan --; kerohanian n sifat-sifat rohani; hal tt rohani;
 rohaniah a berkenaan dng rohani, roh, kerohanian
 rohaniwan n orang yg mementingkan kerohanian dp yg lain; orang yg ahli dl hal kerohanian
-rohmat ark ĺ rahmat
+rohmat ark -> rahmat
 rohulkudus n Isl Malaikat Jibril; Roh Kudus, pribadi ketiga dl tritunggal Allah menurut iman Kristen Protestan dan Kristen Katolik
 roi, garis -- n garis cadangan (garis yg menentukan batas jalan umum atau batasbatas tanah yg di atasnya boleh atau tidak boleh didirikan rumah dsb)
 rojabiah a mengenai bulan Rajab: untuk menyongsong bulan Rajab ini maka diadakan ceramah-- ceramah -- rojeng /rojéng/, merojeng v mencuri padi di sawah dng jalan menyabitnya;
@@ -1324,7 +1324,7 @@ rok n 1 baju perempuan model Eropa; bebe; gaun; 2 baju perempuan bagian bawah (b
 rok yg terdiri atas satu lembar kain yg sisinya bersilang di depan atau di belakang kemudian dikancingkan di sisi; -- lipat rok yg diikat pd bagian pinggang dan jatuh ke bawah dl lipatan-lipatan besar; -- mini rok pendek (yg panjangnya ± 10 cm di atas lutut); -- pantai rok bawahan untuk dipakai di pantai berupa selembar kain yg dililitkan di sekitar pinggang; rok sarung; -- sarung rok pantai; -- Skotlandia rok bawahan dr kain tartan yg dilipit-lipit, pd bagian depannya terdapat lembar kain yg menyilang dan dikancingkan dng peniti besar atau dng kancing
 roket /rokét/ n peluru berbentuk silinder yg digerakkan dng reaksi motor dan dapat bekerja di luar atmosfer; proyektil; meroket v ki membubung tinggi; melonjak ke atas (tt karier, harga, dsb): kariernya sbg penyanyi mulai ~; peroketan n 1 perihal roket; 2 hal meroket
 roketsonde /rokétsonde/ n Met alat yg dapat dibawa naik oleh roket ke atmosfer atas untuk mengamati keadaan cuaca
-rokhani ĺ rohani
+rokhani -> rohani
 roki n baju laki-laki model Eropa
 rokok n gulungan tembakau (kira-kira sebesar kelingking) yg dibungkus (daun nipah, kertas, dsb); -- kawung rokok yg penyalutnya (pembungkusnya) daun enau (aren); -- kelembak rokok yg tembakaunya dibubuhi kelembak; -- sek rokok yg penyalutnya kertas sek (kertas khusus penyalut rokok); merokok v mengisap rokok; perokok n (orang yg) suka merokok; ~ pasif orang yg tidak merokok, tetapi ikut menghisap asap rokok orang lain
 rol n peranan
@@ -1381,18 +1381,18 @@ rondok ark, berondok v bersembunyi: semak-semak itu dapat digunakan sbg tempat ~
 roneo /ronéo/, meroneokan v memperbanyak dng mesin stensil
 rong n lubang dl tanah
 rongak a ada yg tanggal; rumpang; ompong; bersela-sela (krn ada yg hilang)
-rongak ĺ ronggang
+rongak -> ronggang
 rongga n ruang; lubang; -- badan ruang dl badan; -- bumbung
 ruang atau lubang dl bumbung (bambu); -- bulu liang bulu roma; -- dada ruang dada; -- hidung lubang hidung; -- kayu lubang dl kayu; -- mata lekuk tempat mata; -- mulut ruang dl mulut; -- serat Kim ruang atau rongga yg terdapat di dl sebuah serat; berongga v ada ruang (lubangnya); tidak padat: kayu besar itu ternyata ~; merongga v merupakan rongga: krn deburan ombak setiap hari, makin lama batu itu makin ~
 ronggang a renggang; jarang; rongak
 ronggeng /ronggéng/ n penari perempuan yg diiringi gamelan; tandak; meronggeng v menandak; menari: pd pesta panen itu mereka ~ sepanjang malam; -- gunung tarian tradisional ronggeng khas Ciamis Jawa Barat
-ronggok ark ĺ rongkok
+ronggok ark -> rongkok
 rongkoh ark a bungkuk (krn sudah tua sekali); tua sekali
 rongkok, merongkok v berjalan (duduk) membungkuk; meringkuk
 rongkol ark n berkas; gabung; berongkol v berberkas-berkas; bergabung-gabung: akar aIang-alang itu dijual ~; serongkol adv seberkas; segabung: ~ kayu bakar sudah cukup untuk menanak nasi
 rongkong n 1 tulang-tulang dl tubuh; rangka; rongkongan; 2 tenggorokan binatang; rangkung; -- menghadap mudik, pb mudah mendapat rezeki; berair --, pb mendapat rezeki (keuntungan); kerongkongan n 1 pembuluh napas (di leher); 2 tenggorokan; lekum; 3 jalan makanan dr mulut ke perut
 rongos, merongos a mudah (lekas) marah: sejak ia sakit ia menjadi ~; perongos n orang yg lekas marah; pemarah
-rongot ĺ rungut
+rongot -> rungut
 rongrong, merongrong v 1 makan sedikitsedikit, secara terus-menerus; 2 ki selalu mengganggu (menyusahkan dsb); merusakkan secara berangsur-angsur atau dng diam-diam); merugikan (krn banyak makan ongkos); selalu minta uang (derma); selalu menebeng (tt makan); kerapkali rusak hingga makan ongkos banyak (tt mobil dsb); 3 menggerogoti: para pengacau yg mengganggu ketertiban, bahkan ~ kewibawaan pemerintah akan ditindak tegas; perongrong n orang yg pekerjaannya merongrong
 rongseng /rongséng/ a 1 lekas marah; suka mencomel; 2 mendongkol; jengkel: dng perasaan -- ia meninggalkan rumah tanpa tujuan; merongseng v mencomel; bersungut
 rongsok a rusak sama sekali; bejat;
@@ -1408,7 +1408,7 @@ ropak-- rapik a berantakan; bongkarbangkir: kamarnya selalu -- rorod, merorod v 
 ros n bunga mawar
 rosario Kat n tasbih
 rosela /roséla/ n tumbuh-tumbuhan, batangnya sebagian terdiri atas serat, yg dapat dijadikan tambang yg sangat kuat dan bahan untuk membuat karung (goni)
-roseng /roséng/ ĺ rongseng
+roseng /roséng/ -> rongseng
 rosok, merosok v meraba; merogoh; meresek: ~ saku; ~ ikan mencari ikan dng meraba-raba di antara batu-batu; merosokkan v memasukkan sesuatu (kaki dsb) ke dl lubang: ia pun duduk serta ~ kakinya ke bawah meja rendah itu
 rosok a rusak sama sekali; rongsok;
 rosokan n barang-barang yg sudah rusak sama sekali; rombengan; rongsokan
@@ -1428,7 +1428,7 @@ royal-royalan adv sangat berlebihlebihan; sangat melampaui batas: efisiensi bera
 royalti n imbalan atau uang jasa yg dibayar oleh penerbit kpd pengarang untuk setiap buku yg diterbitkan
 royan n penyakit yg timbul sesudah melahirkan (keluarnya darah yg berlebihlebihan, buang-buang air, dsb); meroyan v menderita sakit sesudah melahirkan
 royer /royér/, meroyer ark v mengeluarkan atau memecat seseorang dr salah satu perkumpulan
-ru ĺ eru
+ru -> eru
 rua ark a banyak makan tempat; tidak ringkas; lebar; merua v meluas; melebar, meruak; mengembang
 rua ark n jalan
 ruadat ark n pernyataan hormat; perihal menyatakan hormat
@@ -1438,7 +1438,7 @@ ruai ark a kendur (tt tali); kurang kukuh atau kurang kuat (tt tiang dsb); lemah
 ruak, meruak v 1 merata ke mana-mana; meluas (tt api dsb) api telah ~ menghabiskan rumah petak di dekat rumahku; 2 bertambah lebar; meroyak (tt kudis dsb): luka pd kakinya ~ krn kurang bersih merawatnya; 3 terbuka menjadi lebar; mengembang (tt gulungan tikar, bibir yg terkaput, dsb)
 ruak, ruak-ruak n burung yg tinggal di rawa-rawa
 ruam n penyakit kulit (pd anak-anak krn peluh) betik-betik merah
-ruan ĺ aruan
+ruan -> aruan
 ruang n 1 sela-sela antara dua (deret) tiang atau sela-sela antara empat tiang (di bawah kolong rumah); 2 Fis rongga yg berbatas atau terlingkung oleh bidang; 3 Fils rongga yg tidak berbatas, tempat segala yg ada; 4 petak dl buah (durian, petal, dsb); pangsa; -- angkasa angkasa luas; -- bagasi Terb ruang tempat menyimpan tas dan barang penumpang dl pesawat udara; -- bawah tanah bagian dr gedung yg seluruh atau sebagiannya berada di tingkat dasar; -- duduk ruangan rumah yg berfungsi sbg tempat bersantai; -- kecepatan ruang dua atau tiga dimensi tempat molekul di- gambarkan sbg titik dan tempat kedudukannya ditentukan oleh komponen kecepatan molekul itu ke arah sumbu; -- kerja ruang yg dilengkapi sarana kerja meja, kursi, komputer atau mesin ketik, dsb untuk melakukan suatu pekerjaan; -- laktasi ruang khusus di rumah sakit yg digunakan oleh ibu untuk menyusui bayi; -- lingkup yg meliputi suatu hal atau bidang pekerjaan (penelitian dsb); -- pengendapan primer Ikn unit sistem resirkulasi air tertutup tempat sisa makanan, kotoran ikan, dan bahan endapan lain mengendap sebelum air dialirkan ke biofilter; -- pengendapan sekunder Ikn tempat yg memiliki ruang pengendapan primer dng sistem resirkulasi air tertutup yg ditempatkan di antara biofilter dan tempat budi daya; -- pengendapan utama Ikn sistem pengaliran ulang berputar air tertutup pd suatu tempat yg menyebabkan sisa makanan, kotoran, dan bahan tersuspensi lain dibiarkan mengendap sebelum air dialirkan ke biofilter; -- pilot Terb ruang tempat awak navigasi mengendalikan pesawat udara; -- siber Komp ruang maya tempat masuknya data elektronik; -- tunggu ruang tempat menunggu; -- udara Pet ruang atau rongga kecil di antara kedua lapis selaput telur; beruang v memiliki ruang;
 ruangan n 1 tempat yg lega; kamar (besar); bilik (dl rumah); kelas (tempat belajar); tempat lebar dl kapal (perahu); tempat muatan; palka; 2 lajur, kolom dl surat kabar; 3 lapangan; lingkungan; kalangan; meruang v ark 1 menyucikan mayat (dng jalan mengeluarkan kotoran dr dl perut): di kampung kami hanya ada dua orang yg biasa memandikan dan ~ mayat; 2 membersihkan: ~ senjata
 ruap n 1 buih; 2 ki orang yg sangat hina dl masyarakat; sampah masyarakat; meruap v 1 berbuih; membuih: ia menyukai sabun yg ~; 2 mendidih dan melimpah; meluap: air soda yg dituang ke dl gelas itu ~; 3 ki mendidih: darahnya ~, marah sekali; 4 menguap (menjadi uap): tutuplah bensin itu supaya tidak ~; 5 membual; menyombong; bercakap besar: janganlah kamu sering ~ begitu, kurang baik; 6 merebak (bau dsb): dr luar ~ bau sate ayam yg sedang dibakar
@@ -1449,21 +1449,21 @@ rubah n binatang jenis anjing, bermoncong panjang, makanannya daging, ikan, dsb;
 rubai n sajak empat baris
 ruban ark n, air --, air yg terdapat pd minyak kelapa (ketika membuat minyak); meruban v membuang air ruban
 rubanah n akr ruang bawah tanah; lantai gedung yg sebagian atau seluruhnya berada di bawah tanah
-rubanat ark ĺ ruhbanat
+rubanat ark -> ruhbanat
 ruba-ruba n 1 Sas pemberian (dr nakhoda perahu kpd pembesar pelabuhan dsb); 2 pemberian sbg suap
-rubayat ĺ rubai
+rubayat -> rubai
 rubiah n 1 wanita saleh; pertapa wanita; 2 istri guru mengaji (ulama); guru wanita yg mengajar mengaji (Quran)
-rubiah ĺ riba
+rubiah -> riba
 rubik n penganan sj kripik
 rubin n permata yg berwarna merah
 rubing n dinding tambahan sementara untuk meninggikan pinggir perahu (dibuat dr anyaman, kain mota, dsb)
 rubing n tebing; tepi
 rubrik n karangan yg bertopik tertentu dl surat kabar, majalah, dsb
 rubu, merubu (merubu-rubu) v 1 pergi ke mana-mana (dng tidak bertujuan); berkelana; 2 meraba-raba atau mencari-cari ke sana ke mari (dl gelap)
-rubuh ĺ roboh
+rubuh -> roboh
 rubung, merubung v mengerumuni; mengelilingi: orang-orang ~ tukang jual obat di kaki lima
 rucah a 1 sebarang saja (bukan pilihan); sembarangan; 2 hina; kotor; keji
-rudah ark ĺ madat
+rudah ark -> madat
 rudal akr n peluru kendali; -- balistik rudal yg mengikuti arah sasaran
 rudat n seni tari dan nyanyian yg diiringi rebana, dr Jawa Barat, berisi ajaran agama Islam
 rudi n urat keting
@@ -1476,9 +1476,9 @@ rudu, merudu v melancar maju (spt angsa berenang dsb); berlari menuju atau menga
 rudus n kelewang (Aceh)
 rugbi n permainan bola yg persamaannya dng permainan sepak bola, tetapi boleh juga mempergunakan tangan
 rugi a 1 (terjual dsb) kurang dr modalnya; tidak mendapat laba: -- sedikit dijualnya juga krn ia memerlukan uang tunai; 2 kurang dr modal (krn menjual lebih rendah dr harga pokok): jika dijual Rp,1500,00 --nya Rpl00,00; 3 tidak mendapat faedah (manfaat); tidak beroleh sesuatu yg berguna: ia merasa -- mengikuti kursus itu ; 4 sesuatu yg kurang baik (tidak menguntungkan; mudarat): apa -- nya kalau kau maafkan kesalahan adikmu itu; -- menentang laba, jerih menentang boleh, pb supaya tercapai maksud kita harus mau berusaha (bersusah payah) dahulu; --  barang rugi yg berupa barang; -- tenaga rugi berupa habisnya tenaga; -- waktu rugi berupa habisnya waktu; berugi, merugi v mendapat rugi; menanggung rugi: jika dijual sekian akan ~ dua ratus rupiah; merugikan v 1 mendatangkan rugi kpd; menyebabkan rugi: pemogokan itu ~ perusahaan jutaan rupiah; 2 dng sengaja menjual dng merugi: ada pedagang yg ~ barang dagangannya krn perlu uang; 3 mendatangkan sesuatu yg kurang baik (spt kesusahan, kerusakan, mudarat) kpd: peraturan ujian itu sangat ~ para peserta ujian; kerugian n 1 menderita rugi; 2 rugi; 3 sesuatu yg dianggap sbg rugi (spt kerusakan); 4 (ganti ~) ganti rugi; pampasan; tempuh
-rugul ĺ rogol
-ruh ĺ roh
-ruhani ĺ rohani
+rugul -> rogol
+ruh -> roh
+ruhani -> rohani
 ruhban n Kat pertapa laki-laki
 ruhbanat n Kat pertapa wanita
 ruing n penggulung benang yg pertama pd alat tenun; meruing v menggulung benang pd ruing
@@ -1493,7 +1493,7 @@ rukam n pohon yg berduri-duri (terutama Flaccurtia rukam), banyak macamnya spt -
 rukhsah n kelonggaran; kemudahan bagi seorang yg krn suatu sebab tidak dapat atau tidak mampu memenuhi syarat
 rukunnya ibadah (spt mengkosor dan menjamak salat sewaktu dl perjalanan dsb)
 rukiah n segala apa yg berhubungan dng pesona (guna-guna dll); sihir; perukiah n orang yg melaksanakan rukiah
-rukiat ĺ rukiah
+rukiat -> rukiah
 ruku, ruku-ruku n berbagai tumbuhan berdaun harum spt selasih, Ocimum sanctum
 ruku, meruku v berbunyi ruku (tt burung tekukur)
 rukuh n kain penutup badan kaum wanita, kecuali muka dan kedua telapak tangan, pd waktu salat; mukena
@@ -1501,7 +1501,7 @@ rukuk n sikap membungkuk pd waktu sembahyang, yaitu membungkuk dng tangan diteka
 rukun n 1 sesuatu yg harus dipenuhi untuk sahnya suatu pekerjaan; 2 asas; dasar; sendi; -- Islam tiang utama sebagai agama Islam, yaitu syahadat, salat, puasa, zakat, dan mengerjakan ibadah haji jika mampu; -- iman dasar kepercayaan dl agama Islam, yaitu percaya kpd Allah, kpd malaikat-malaikat-Nya, kdp kitab-kitabNya, kpd nabi dan rasul-Nya, kpd hari kiamat, dan kpd untung baik dan buruk dr Allah
 rukun a 1 baik dan damai tidak bertengkar (tt pertalian persahabatan dsb): lbu harap kamu berdua dapat hidup --; 2 bersatu hati; bersepakat; ragam: penduduk kampung ini -- sekali; merukunkan v 1 mendamaikan: siapakah yg dapat ~ kakak beradik yg sedang berselisih itu; 2 menjadikan bersatu hati; meragamkan: ia mengambil bendela itu dl usaha ~ pegawai-pegawainya; kerukunan n 1 perihal hidup rukun; keragaman; kesepakatan; 2 perasaan rukun (bersatu hati)
 rukun n perkumpulan yg berdasar tolongmenolong dan persahabatan; -- tani perkumpulan kaum tani; -- tetangga perkumpulan antara orang-orang yg bertetangga; -- warga perkumpulan antara kampung-kampung yg berdekatan (bertetangga) dl suatu kelurahan
-rukyah ĺ rukyat
+rukyah -> rukyat
 rukyat n 1 penglihatan; 2 (rukyatulhilal), melihat bulan tanggal satu untuk menentukan hari permulaan dan penghabisan puasa Romadhan
 rum a kp harum
 rum n kepala susu; lemak kentalan air susu; -- gula campuran susu (mentega) dng gula
@@ -1511,7 +1511,7 @@ rumahan 1 a spt keadaan di rumah; 2 n hasil rumah; perumahan n 1 kumpulan bebera
 rumah-rumahan n sesuatu yg menyerupai rumah atau boleh disamakan dng rumah; tiruan rumah
 rumah tangga n 1 segala sesuatu yg berhubungan dng urusan kehidupan dl rumah; 2 segala sesuatu yg berhubungan atau berkenaan dng keluarganya; berumah tangga v berkeluarga: adik saya sudah ~
 rumal ark n sapu tangan; ramal
-Rumawi ĺ Romawi
+Rumawi -> Romawi
 rumba n langgam musik yg berasal dr orang negro dan orang Kreol di Kuba
 rumbah n daun-daun mentah yg dimakan bersama-sama dng nasi sbg lalap
 rumbai n jumbai; berumbai-rumbai v berjumbai-jumbai
@@ -1519,11 +1519,11 @@ rumbai n tumbuhan yg hidup di hutan yg berpaya-paya, Scirpodendronghaeri
 rumbai-rumbai n alat pd ubur-ubur yg terdapat di sekeliling lubang mulut dan diliputi dng sel-sel jelatang untuk melumpuhkan (mematikan) mangsanya
 rumbia n pohon palem yg menghasilkan sagu, daunnya dapat dibuat atap dsb, Metroxylon sagus
 rumbing a sumbing; sempak
-rumbu ĺ bubu
+rumbu -> bubu
 rumbu a 1 tidak senonoh (kelakuan); 2 tidak tentu arah tujuan (perjalanan); merumbu v 1 berlaku tidak senonoh; 2 berjalan (berkeliaran) ke mana-mana
 rumbu, merumbu v penuh melimpah (tt cairan dsb)
 rumenia n pohon, buahnya dapat dimakan, Bouea burmanica
-Rumi ĺ Romawi
+Rumi -> Romawi
 rumin n rami (spt benang --, tali --, dsb)
 ruminansia n hewan pemamah biak (spt lembu, biri-biri, dan domba)
 rumit a sulit; pelik; sukar; susah: perkara warisan itu menjadi semakin -- penyelesaiannya; merumitkan v menyulitkan; menyukarkan; menyusahkan; kerumitan n kesulitan; kesukaran; kesusahan: segala -- dihadapinya dng hati tabah
@@ -1555,13 +1555,13 @@ rungguh n barang dsb yg diserahkan untuk tanggungan uang yg dipinjam; rungguhan;
 rungguh, merungguh v bertinggung; berjongkok
 runggu-rangga v mencuar tajam-tajam; berujung-ujung tajam (tanduk rusa dsb)
 runggut, merunggut v merenggut
-rungkai ĺ ungkai
+rungkai -> ungkai
 rungkau ark, merungkau v terurai dan bergantung menutup muka (tt rambut): rambutnya porak-parik dan setengah ~ menutupi wajahnya
 rungkuh a (kelihatan) sudah tua sekali: ia baru setengah umur, tetapi kelihatan sudah --; kerungkuhan n hal menjadi tua renta; ketuarentaan
 rungkun n rumpun (buluh dsb)
 rungkup n merupakan sesuatu yg melindungi (menutupi, melingkupi): atap --, atap yg sangat lebar dan rendah sehingga rumah seakan-akan terlingkup oleh atap itu; kajang --, dua helai kajang yg dipasang hingga dapat menudungi; merungkup v menudungi; menutupi; melingkupi (hingga tidak kelihatan)
-rungsing ĺ rongseng
-rungsum ĺ rumrum
+rungsing -> rongseng
+rungsum -> rumrum
 rungus, merungus v menderam; merungus-rungus v menderam-deram: ~ kecil, bernyanyi perlahan-lahan (untuk diri sendiri saja)
 rungut v sungut; berengut; berungut v bersungut; memberengut; merengut; berungutan v merungutkan; merungut; berungut; merungut-rungut v bersungut-sungut; memberengut-berengut; merengut-rengut: sambil ~ dihardiknya pembantu rumah tangga yg malang itu; merungutkan v bersungut mengenai; memberengut mengenai; merengut;
 rungutan n perihal merengut
@@ -1570,21 +1570,21 @@ runjang, merunjang v 1 menusuk (merodok, mencocok) ke dl lubang dsb; menjolok; 2
 runjau ark, merunjau a panjang ramping; kurus tinggi; lampai
 runjung a berbentuk spt kerucut; merunjung v makin ke atas makin lancip; mengerucut
 runtai, seruntai n sejaras; segugus: seikat (buah-buahan); meruntai v bergantung terayun-ayun; berjuntai
-runtak ĺ ronta
+runtak -> ronta
 runtang-runtung v selalu pergi ke manamana bersama-sama; tidak pernah bercerai: saya lihat engkau sudah -- dng gadis manis itu
 runtas ark, meruntas v merenggut; menyentak: ~ buah dr ranting
 runti, merunti v menggosok rotan (terutama rotan sega) supaya hilang bagiannya yg keras
 runtih, meruntih v 1 memetik(i) atau mengambil (daun dr ranting, bunga, dsb); 2 menanggalkan biji jagung dr tongkolnya; 3 menyobek
 runtuh v 1 roboh krn rusak dsb (tt bangunan); jatuh ke bawah atau terbang krn rusak (tt barang yg berat-berat): gedung yg megah itu -- krn gempa bumi; 2 jatuh; gugur (tt buah): mendapat durian --; 3 gugur atau longsor (tt timah; lereng gunung dsb): lereng itu -- dan menutupi jalan raya; 4 ki rusak atau hancur sama sekali (tt kekuasaan; pertahanan, dsb): kekuasaan negara-negara kolonial dl Asia Tengah --; -- rantah runtuh (rusak) sama sekali; -- ripuh hancur sama sekali; meruntuh v 1 (menjadi) runtuh; 2 ark turun atau menyusup (tt tentara dsb); meruntuhkan v 1 merusakkan dan merobohkan; menjatuhkan; menerbangkan: bom atom itu telah ~ seluruh bandar Hirosima; 2 menyebabkan runtuh (gugur, longsor): hutan-hutan itu menjaga supaya air hujan tidak ~ tanah-tanah di lereng-Iereng gunung; 3 ki menjatuhkan (merusakkan, menghancurkan) kekuasaan pertahanan, pemerintahan, dsb: segala usahanya untuk ~ pertahanan musuh, gagal; 4 menghancurkan cita-cita (iman dsb); ~ hati menggiurkan hati; membangkitkan birahi (dl hati); ~ iman merusakkan iman; menggoda hati orang;
 runtuhan n barang yg telah runtuh; sisasisa bangunan yg rusak; puing; reruntuhan runtuhan-runtuhan; keruntuhan n 1 keadaan runtuh; kerusakan; kerobohan Guga dl arti kiasan); 2 tertimpa oleh sesuatu yg runtuh beruntuhan v saling runtuh; peruntuhan n proses, cara, perbuatan meruntuhkan
-runtuk ĺ reruntuk
+runtuk -> reruntuk
 runtun, meruntun(kan) v 1 menarik kuatkuat; menyentak; merenggut: menangis terisak-isak sambil ~ rambut; 2 kl merebut; merampas: hendak ~ negeri Malaka dr tangan Inggris
 runtun, beruntun(-runtun) v berturutturut; berderet-deret: kedengaran suara tembakan ~ yg ditembakkan dr kubu pertahanan musuh;
 runtunan n deretan; jajaran
 runtut a selaras; bersesuaian
 runtut, runtutan n runtuhan; rentetan
 runut n 1 jejak (bekas tapak kaki dsb); 2 alur di tanah (bekas roda pedati dsb): mendapat --, mendapat keterangan sesuatu perkara yg sedang diusut; putus --, kehilangan jejak; merunut(i) v 1 mengikuti jejak: mereka ~ jejak itu sampai ke hilir sungai; 2 ki mengusut perkara; menyelidiki; mencari pencuri (keterangan dsb): ~ perkara pembunuhan; 3 menelusuri kembali (asal bentuk bahasa dsb)
-runyai ĺ unyai
+runyai -> unyai
 runyam a 1 rumit; sulit; susah menjalankannya: kalau terjadi kecelakaan di jalan raya maka urusannya cukup --; 2 gagal; tidak berhasil (jadi); kalut: kalau begitu, tentu akan -- usaha kita ini; merunyamkan v 1 menyulitkan; merumitkan; 2 menggagalkan; kerunyaman n keadaan runyam
 runyut, merunyut a lisut; kisut; berkerut
 ruok ark, meruok v 1 berbuih; membual; 2 meluap; mendidih; 3 ki marah
@@ -1592,7 +1592,7 @@ rupa n 1 keadaan yg tampak di luar (pd lahirnya); 2 (-- muka) roman muka; tampan
 rupanya a 1 rupa; 2 kelihatannya; tampaknya; (jika) menilik keadaannya (bentuknya, kelakuannya, dsb): ~ hari akan hujan; 3 agaknya; kiranya; barangkali: ~ ia tidak dapat datang; 4 gerangan konon: siapa pula ~ yg mencoret-coret dinding itu; 5 kiranya (dl arti; alih-alih; sebetulnya; sebenarnya): kusangka sudah mati, ~ masih bergerak-gerak;
 rupawan kl a elok rupanya; cantik: gadis yg ~
 rupiah n satuan mata uang Republik Indonesia yg bernilai 100 sen; serupiah num satu rupiah; seperak (100 sen)
-ruruh ĺ luruh
+ruruh -> luruh
 rurut v gugur; jatuh: bunga itu telah -- sebelum mekar; -- hati jatuh hati; terharu hatinya
 rurut, merurut v melurut; melucutkan; meluluskan (cincin dsb)
 rusa n binatang menyusui, pemakan tanaman, tanduknya panjang dan bercabang-cabang, bulunya berwarna cokelat bergaris-garis atau berbintikbintik putih; Cerous equimus; spt -- masuk kampung, pb tercengangcengang keheranan; -- beruang rusa besar; Cervus equinus
@@ -1610,6 +1610,6 @@ Ruwah n (bulan --) bulan Syaban; bulan Arab yg kedelapan
 ruwat v 1 pulih kembali sbg keadaan semula (tt jadi-jadian, orang kena tulah, dsb); 2 terlepas (bebas) dr nasib buruk yg akan menimpa (bagi orang yg menurut kepercayaan akan tertimpa nasib buruk spt anak tunggal dsb); meruwat v membebaskan dr nasib buruk yg akan menimpa: dia ~ anak-anaknya agar selamat; ~ bumi upacara tradisional untuk membebaskan manusia dan bumi dr musibah; ~ pekarangan tradisi Jawa (zaman dahulu) yg berfungsi untuk menolak bala dan membuang sial, dng mengaji dan membakar dupa selama 66 hari;
 ruwatan n upacara meruwat
 ruwet a kusut; kalut; sulit; rumit: keadaan politik semakin -- meruwetkan v membuat kalut; membuat rumit; menyulitkan; keruwetan n kekusutan; kekalutan; kesulitan; kerumitan
-ruyak ĺ royak
+ruyak -> royak
 ruyung n kayu yg keras dr batang enau dsb, dipergunakan sbg tangkai pacul, sula, dsb; awak yg payah membelah --, orang lain yg beroleh sagunya, pb kita yg berusaha dan bersusah payah, tetapi orang lain yg mendapat faedahnya; jika tidak pecah --, di mana boleh mendapat sagu, pb tidak akan tercapai maksudnya, kalau tidak mau berusaha
 ruyup, meruyup v 1 berasa atau tampak sangat mengantuk; 2 turun atau masuk (tt matahari): matahari belum ~ benar; meruyup(mata) v memejamkan mata

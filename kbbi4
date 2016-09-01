@@ -104,7 +104,9 @@ perbaiki_kata() {
     # rubah dash (yang aslinya berupa double dash) menjadi double dash
     awk -i inplace '/ -[[:alnum:]]/{gsub(" -", " -- ")};1' "teks/kbbi4-$i.txt"
     # rubah tanda kutip
-    awk -i inplace '{gsub("[“”]", "\"")};1 "teks/kbbi4-$i.txt"
+    awk -i inplace '{gsub("[“”]", "\"")};1' "teks/kbbi4-$i.txt"
+    # rubah ĺ menjadi ->
+    awk -i inplace '{gsub("ĺ", "->")};1' "teks/kbbi4-$i.txt"
 
     # kbbi 2008 menggunakan angka di depan lema yang memiliki banyak arti
     # angka tersebut dirasa tidak penting dan akan dihapus oleh perintah berikut

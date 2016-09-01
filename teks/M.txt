@@ -23,7 +23,7 @@ madah o mad
 madali kl n bunyi-bunyian
 madaliun o medalion
 madam n nyonya (sebutan hormat bagi wanita yg sudah kawin)
-madaniah ĺ madani
+madaniah -> madani
 madar ark o mada
 madarat o mudarat
 madat n 1 candu yg telah diolah melalui proses tertentu dan siap untuk diisap; 2 minuman atau mengisap candu; bermadat minum madat; pemadat orang yg suka atau mengisap madat; pemadatan 1 proses, cara, perbuatan memakai madat; 2 gemar melakukan atau berbuat sesuatu yg kurang baik
@@ -412,7 +412,7 @@ mandung ki n ayam; ayam jantan
 mandung n kemenyan putih; dupa
 mandur o mandor
 manekin n 1 peragawati; 2 boneka untuk peraga pakaian-pakaian jadi di toko
-manekin ĺ maneken
+manekin -> maneken
 manfaat a 1 guna; faedah: sumbangan itu banyak --nya bagi orang miskin; 2 laba; untung: -- dan mudarat, untung dan rugi; baik buruknya; bermanfaat v ada manfaatnya; berguru; berfaedah: olah raga itu ~ bagi kesehatan; memanfaatkan v menjadikan ada manfaatnya; menjadikan berguna: ~ surat kabar untuk pendidikan; pemanfaatan n hal memanfaatkan; kemanfaatan n hal (ber)manfaat; kegunaan; memanfaatkan v menjadikan ada manfaatnya (gunanya dsb): pemerintah menganjurkan kpd petani agar ~ lahan kosong untuk menambah penghasilan petani miskin
 mang n 1 kp mamang; paman; 2 panggilan untuk laki-laki yg usianya kurang lebih sebaya dng paman
 mangan v makan
@@ -1440,7 +1440,7 @@ misteri /mistéri/ n sesuatu yg masih belum jelas; masih menjadi tanda tanya; be
 misterius a penuh rahasia; sulit diketahui atau dijelaskan (krn tidak jelas tandatandanya, dsb): kita harus mencari mobil -- yg disebut-sebut dl perkara pembunuhan itu kemisteriusan n hal (keadaan) misterius
 mistik n hal-hal gaib yg tidak terjangkau dng akal manusia biasa
 mistikus n penganut mistik
-mistikus ĺ mistis
+mistikus -> mistis
 mistis a bersifat mistik: ia tertarik untuk mempelajari hal-- hal yg -- mistri n Lay tukang kayu (di kapal)
 misuh o pisuh
 mitigasi n 1 menjadikan berkurang kekasaran atau kesuburannya (tt tanah dsb); 2 tindakan mengurangi dampak bencana
@@ -1625,7 +1625,7 @@ moril a mengenai moral atau batin: bantuan --, bantuan yg berupa sokongan batin 
 morse n sistem tanda berupa titik dan garis, satuan bunyi atau kelap-kelip cahaya panjang pendek, dsb sbg pengganti alfabet, digunakan dl komunikasi (ditemukan oleh S.F.B. Morse, 1872)
 mortalitas n laju kematian yg dinyatakan dl persentase jumlah per satuan waktu thd keseluruhan jumlah populasi
 mortir n 1 meriam kecil atau meriam pendek; 2 peluru pd meriam kecil
-mortuaria ĺ mortuarium
+mortuaria -> mortuarium
 mortuarium n 1 kamar mayat; 2 rumah pembaringan jenazah
 mosaik n 1 suatu rekaan atau bentuk yg terdiri atas batu kecil-kecil berwarna yg ditempelkan pd alas semen; 2 suatu lempeng yg ditutupi dng partikel-partikel zat yg peka cahaya, digunakan dl kamera televisi untuk mengubah bayangan optik menjadi arus listrik yg besarnya berubahubah
 mosi n keputusan rapat yg menyatakan pendapat dan keinginan para anggota rapat, atau anggota parlemen -- kepercayaan mosi yg menyatakan percaya kpd kebijaksanaan pemenintah (pengurus organisasi dsb); -- tidak percaya

@@ -7,7 +7,7 @@ nabu n biji buah (durian, nangka, cempedak) dng dagingnya
 nada n tinggi rendahnya bunyi (dl lagu, musik, dsb); -- minor nada yg sumbang; -- utama nada dasar; bernada v mempunyai nada; ada nadanya
 nada-nadanya n keadaan (tanda-tanda) yg dapat dilihat; gelagatnya
 nadam n uraian; penjelasan
-nadar ĺ nazar
+nadar -> nazar
 nadi n 1 pembuluh darah di pergelangan tangan; urat nadi; 2 pembuluh darah besar; aorta; batang nadi
 nadim n orang kepercayaan, sahabat karib
 nadir a jarang ada; ganjil; luar biasa
@@ -25,12 +25,11 @@ nafsu n 1 keinginan, kecenderungan, atau dorongan hati yg kuat; 2 selera atau ga
 nafta n Kim bensin yg mudah sekali terbakar, diperoleh dng cara penyulingan bertingkat dr minyak tanah mentah; -- petroleum istilah untuk fraksi petroleum dl selang gasolin
 naftalena /naftaléna/ n Kim hidrokarbon yg diperoleh dr ter batubara berupa zat padat kristal putih dng bau menusuk hidung; C10H8
 naga n ular yg besar, biasanya dl ceritacerita; cacing menjadi ular --, pb orang hina (miskin) menjadi orang besar (kaya); -- bura naga yg menyemburkan bisa dan api; -- gentala ukir-ukiran berbentuk naga pd roda kereta; -- hari kl naga penunggu mata angin yg tiap hari berpindah tempat; -- sekuik lukisan yg menggambarkan naga berenang terdapat pd kain batik yg dipakai orang perempuan sbg jimat untuk menundukkan hati suaminya; -- tahun kl naga penunggu mata angin yg setiap tahun berpindah tempat
-naga-naga n 1 (gambar, lukisan) tiruan
-naga; 2 patung kepala naga (dipasang di haluan perahu)
+naga-naga n 1 (gambar, lukisan) tiruan naga; 2 patung kepala naga (dipasang di haluan perahu)
 naga-naga kl n tempat yg ketinggian di balai penghadapan
 naga-naganya n keadaan yg menjadi gelagat atau alamat (baik atau buruk); nadanadanya:
 nagara ark, -- bukit kl n puncak bukit
-nagara ĺ nakara
+nagara -> nakara
 nagari n wilayah atau sekumpulan kampung di bawah satu penghulu; distrik
 nagasari n nama pohon, Mesua ferrea
 nagasari n kue kukus terbuat dr tepung beras dan santan berisi pisang, dibungkus dng daun pisang muda
@@ -48,7 +47,7 @@ najam n bintang
 najasah n kenajisan; kecemaran
 najat ark, bernajat v berdoa
 najis 1 a kotor yg menyebabkan terhalangnya seseorang beribadah kpd Allah (dl agama Islam); 2 n kotoran (tinja dan air kencing); membasuh -- dng mala, pb membuang malu dng jalan yg lebih hina; -- berat najis yg hukumnya diberatkan (spt anjing dan babi); -- ringan najis yg hukumnya diringankan, spt air kencing bayi laki-laki yg belum makan dan minum, kecuali air susu ibu; menajiskan v 1 menjadikan najis (kotor, cemar); mengotorkan; mencemarkan; 2 menganggap najis; menyatakan sbg najis; kenajisan n kotoran; kecemaran
-nak ĺ hendak
+nak -> hendak
 nak n kp anak
 naka, bernaka-naka v (berpantun, bernyanyi) bersambut-sambutan
 nakal a 1 suka berbuat kurang baik (tidak menurut, mengganggu, dsb, terutama bagi anak-anak); 2 buruk kelakuan (lacur dsb); menakali v berbuat nakal kpd; mengganggu (orang dsb);
@@ -65,13 +64,11 @@ nalar n 1 akal budi; 2 jangkauan pikir; kekuatan pikir; bernalar v mempunyai nal
 nali(h) ark n nama sukatan beras, dsb (1 nalih = 16 gantang, /50 koyan)
 naluri n 1 dorongan hati atau nafsu yg dibawa sejak lahir, insting; 2 sederetan reaksi yg tidak bergantung pd pengalaman
 naluriah a bersifat (berdasarkan) naluri
-nama n 1 kata untuk menyebut atau memanggil orang (tempat, barang, dsb); 2 gelar; sebutan; 3 kemasyhuran; kebaikan (keunggulan); kehormatan -- baik kehormatan; -- daging (tubuh)
-nama yg sebenarnya, nama yg diberikan oleh orang tua sejak lahir; -- diri nama yg dipakai untuk menyebut diri seseorang, benda, tempat tertentu, dsb; -- domain alamat internet suatu komputer atau jaringan; -- jenis nomina yg menunjuk- kan jenis umum benda atau konsep; -- kecil nama ketika masih kecil; -- samaran nama untuk menggantikan
-nama yg sebenarnya; bernama v 1 memakai nama; mempunyai nama; 2 ark mendapat nama; masyhur, terkenal menamai v memberi nama (julukan, sebutan); menamakan v menyebut dng nama ...; menyatakan namanya; menganggap; ternama v terkenal; termasyhur: anak itu ~ karena kepandaiannya; penamaan n proses, cara, perbuatan menamakan
+nama n 1 kata untuk menyebut atau memanggil orang (tempat, barang, dsb); 2 gelar; sebutan; 3 kemasyhuran; kebaikan (keunggulan); kehormatan -- baik kehormatan; -- daging (tubuh) nama yg sebenarnya, nama yg diberikan oleh orang tua sejak lahir; -- diri nama yg dipakai untuk menyebut diri seseorang, benda, tempat tertentu, dsb; -- domain alamat internet suatu komputer atau jaringan; -- jenis nomina yg menunjuk- kan jenis umum benda atau konsep; -- kecil nama ketika masih kecil; -- samaran nama untuk menggantikan nama yg sebenarnya; bernama v 1 memakai nama; mempunyai nama; 2 ark mendapat nama; masyhur, terkenal menamai v memberi nama (julukan, sebutan); menamakan v menyebut dng nama ...; menyatakan namanya; menganggap; ternama v terkenal; termasyhur: anak itu ~ karena kepandaiannya; penamaan n proses, cara, perbuatan menamakan
 nambi n penyakit puru (terutama pd kaki)
 namnam n nama pohon, buahnya masam rasanya, Cyanometra cauliflora
-nampak ĺ tampak
-nampal ĺ napal
+nampak -> tampak
+nampal -> napal
 nampan n tempat untuk menyajikan makanan atau minuman, terbuat dr kayu, logam, dsb
 namun p kata penghubung untuk menandai perlawanan; tetapi: sebetulnya ia tidak berani mengatakannya, ~ kebenaran harus diungkapkan
 nan p yang
@@ -86,24 +83,24 @@ nangkoda ark n nakhoda
 nangui n babi kecil yg banyak anaknya, Sus berbatus
 naning n tabuhan berwarna kuning
 nanoplankton n plankton yg berukuran sangat kecil, msl alga, bakteri, dan protozoa
-nanti 1 n waktu yg tidak lama akan tiba; waktu kemudian; kelak; 2 adv kalau begitu; kalau tidak;
-nantinya n kelak
+nanti 1 n waktu yg tidak lama akan tiba; waktu kemudian; kelak; 2 adv kalau begitu; kalau tidak; nantinya n kelak
 nanti v tunggu; bernanti-nanti v 1 selalu menunggu; lama menunggu; 2 selalu mengatakan "nanti" (kalau disuruh atau diingatkan): jangan suka ~ kalau disuruh oleh ibumu!; bernantian v 1 menunggu-nunggu; berjaga-jaga; 2 saling menunggu; menanti v menunggu: telah lama aku ~ temanku di sini; menanti-nanti v menunggu-nunggu; menantikan v menunggu kedatangan atau sesuatu yg akan datang; penanti n orang yg menunggu (menanti); penerima tamu; penantian n proses, cara, perbuatan menanti
 napal n 1 tanah liat merah yg dapat dimakan; ampo; 2 Geo batuan yg terdiri atas lempung dan kaliumkarbonat
 napalm n bensin beku untuk mengisi bom yg dapat membakar daerah yg luas dan mematikan semua tumbuhan
 napas n udara yg diisap melalui hidung atau mulut dan dikeluarkan kembali dr paru-paru; bernapas v menghirup dan mengeluarkan napas; ~ ke luar badan, pb lebih percaya kpd pendapat orang lain dp pendapat sendiri; bernapaskan v ki mengandung sifat; menyuarakan: lagu-lagu yg dinyanyikannya selalu ~ Islam; menapaskan v mengeluarkan napas; pernapasan hal bernapas; senapas n ki sejalan; mempunyai (pikiran, pendapat, teori) yg sama pernapasan n 1 hal bernapas; 2 pemakaian energi di dalam karbohidrat oleh makhluk hidup
 napas a kuning kemerah-merahan (tt warna bulu, terutama kuda)
 narapidana n orang yg sedang menjalani hukuman krn berbuat kejahatan
-napsi ĺ nafsi
-napsu ĺ nafsu
+napsi -> nafsi
+napsu -> nafsu
 napuh n bengkunang (pelanduk), Tragulas napu
 narapati, (= narpati) kl n raja
 narapraja ark n pegawai (pembesar kerajaan)
 narasi n 1 penceritaan suatu cerita atau kejadian; 2 cerita atau deskripsi dr suatu kejadian atau peristiwa; 3 Sen tema suatu karya seni
 narasumber n orang yg menjadi sumber informasi; informan
-naratif a bersifat narasi; bersifat menguraikan (menjelaskan dsb): kami ditugasi untuk membuat karangan -- narawastu ĺ narwastu
+naratif a bersifat narasi; bersifat menguraikan (menjelaskan dsb): kami ditugasi untuk membuat karangan --
+narawastu -> narwastu
 narawita n sawah (tanah dsb) yg merupakan milik suatu desa
-narestu ĺ narwastu
+narestu -> narwastu
 narkosis n keadaan mati rasa seluruh badan atau ketidaksadaran krn pengaruh obat bius (narkotik dsb)
 narkotik n obat untuk menenangkan saraf, menghilangkan rasa sakit, dan menidurkan (dapat memabukkan, sehingga dilarang dijual untuk umum)
 narsisisme n 1 hal atau keadaan mencintai diri sendiri; 2 hal atau keadaan mempunyai kecenderungan (keinginan) secara seksual dng diri sendiri
@@ -113,10 +110,9 @@ nasab n keturunan (terutama dr bapak); pertalian keluarga
 nasabah n 1 perbandingan; pertalian; 2 orang yg biasa berhubungan dng atau menjadi langganan bank (dl hal keuangan); 3 orang yg menjadi tanggungan asuransi
 nasal a Ling bersangkutan dng bunyi bahasa yg dihasilkan dng mengeluarkan udara melalui hidung, yaitu m, n, ng, dan ny
 nasar n burung elang
-nasehat /naséhat/ ĺ nasihat
+nasehat /naséhat/ -> nasihat
 nasi n 1 beras yg sudah dimasak (sudah ditanak); 2 ki rezeki -- sudah menjadi bubur, pb sesuatu yg sudah terlanjur, tidak dapat diperbaiki atau diulangi lagi; -- habis budi bersua, pb 1 sahabat yg pd akhirnya kelihatan budi pekertinya buruk; 2 sesudah dl kesusahan, barulah ingat akan sahabatnya; ada -- (= bernasi) di balik kerak, pb masih ada sesuatu yg ketinggalan (belum diselesaikan, belum diperlihatkan, dsb); -- tersaji di lutut, pb keuntungan yg diperoleh dng mudah; -- aking nasi sisa yg dibersihkan, dijemur kemudian dimasak kembali; -- detus nasi setengah masak (kalau dikunyah seakanakan berbunyi "tus, tus"); -- goreng nasi yg diberi bumbu dan digoreng; -- gurih nasi yg dimasak dng santan dan bumbu; -- jamblang nasi putih khas Cirebon yg dibungkus dengan daun jati; -- kebuli nasi yg dimasak sekaligus dng daging dan diberi bumbu; -- kerak nasi yg berasal dr kerak; --  kuning nasi kunyit; -- kunyit nasi yg dimasak dng santan dan diberi air kunyit supaya kuning; -- lemang ketan dng santan yg dimasak dl tabung bambu; -- lengat nasi tim; -- liwet nasi yg ditanak saja (tanpa dikukus); -- putih nasi tanpa lauk; --  rames nasi dng lauk-pauk; -- rawon nasi dng lauk kuah rawon; -- samin nasi yg dicampur dng minyak samin; -- sega nasi yg dimasak dng bumbu dan agak kering; -- tim nasi lembik yg dimasak dng cara ditim (yaitu ditempatkan dl mangkuk yg direbus dl kuali atau panci); -- tumpeng nasi yg dibentuk spt kerucut atau gunung (untuk selamatan dsb); -- uduk nasi yg dimasak dng santan; -- ulam nasi putih dng lauk lalap mentah dan bumbu (sambal) -- buruk kemalangan; --  baik (--  mujur) keberuntungan
-nasib n sesuatu yg sudah ditentukan oleh Tuhan atas diri seseorang; bernasib v mempunyai nasib: saya sangat bersyukur krn selalu ~ baik;
-nasib-nasiban n tergantung pd nasib; untung-untungan; senasib n sama nasib
+nasib n sesuatu yg sudah ditentukan oleh Tuhan atas diri seseorang; bernasib v mempunyai nasib: saya sangat bersyukur krn selalu ~ baik; nasib-nasiban n tergantung pd nasib; untung-untungan; senasib n sama nasib
 nasihat n 1 ajaran atau pelajaran baik; anjuran (petunjuk, peringatan, teguran) yg baik; 2 ibarat yg terkandung dl suatu cerita dsb; menasihati v memberi nasihat (kpd): nenek sayang sekali pd kami sehingga selalu ~ kami; menasihatkan v 1 memberikan nasihat kpd; 2 menganjurkan: dokter ~ agar selalu menjaga kebersihan; penasihat n orang yg menasihati
 nasi-nasi n tumbuhan, akarnya direbus untuk obat sakit perut, Callicarpa longifolia
 nasional a bersifat kebangsaan; berkenaan atau berasal dr bangsa sendiri; meliputi suatu bangsa; menasional v menjadi bersifat nasional (kebangsaan); penasionalan n perbuatan menjadikan bersifat nasional; kenasionalan n kebangsaan; sifat-sifat dsb yg ada pd bangsa
@@ -142,14 +138,15 @@ natural a 1 bersifat alam; alamiah; 2 bukan tiruan; asli; 3 dapat dipakai untuk 
 naturalis n 1 orang yg mengadakan penyelidikan khusus mengenai binatang dan tumbuhan; 2 bersifat natural; bercorak alam nyata (dl seni); 3 orang yg menganut paham naturalisme
 naturalisasi n hal menjadikan warga negara; menaturalisasikan v mengadakan atau melakukan naturalisasi; menjadikan warga negara (Indonesia dsb)
 naturalisme n 1 aliran dl seni yg menggambarkan sesuatu sebagaimana adanya; 2 Sen karya seni rupa yg memiliki sifat kebenaran fisik dr alam; 3 ajaran yg tidak mengakui adanya kekuatan lain selain dp alam; 4 teknik atau cara menampilkan pandangan objektif tt manusia secara teliti dan jujur (baik atau buruk)
-naturalistis a bersifat naturalis; bersifat sebagaimana adanya: lukisan alam itu sungguh -- nau n enau
+naturalistis a bersifat naturalis; bersifat sebagaimana adanya: lukisan alam itu sungguh --
+nau n enau
 naung, bernaung v 1 berada di bawah sesuatu (untuk menghindari panas, hujan, dsb); berlindung: tempat ~ yg paling nyaman bagiku adalah rumah; 2 berada di bawah sesuatu yg besar (suci, berkuasa, dsb); minta perlindungan (pertolongan dsb); menaungi v menutup sbg payung di atas sesuatu; melindungi;
 naungan n tempat bernaung; lindungan; penaung ark n yg melindungi; pelindung; penaungan n perihal menaungi (melindungi)
 navigasi n 1 ilmu mengenai cara menjalankan kapal terbang atau kapal laut; 2 penerbangan; pelayaran
 navigator n awak kapal atau awak pesawat yg bertugas mengamati cuaca untuk mengatur haluan kapal atau arah terbang pesawat
 nawa ark n sembilan
 nawaitu n saya berniat
-nawastu ĺ narwastu
+nawastu -> narwastu
 nayaga n pemukul, gamelan
 nayaka kl n menteri
 nayam n mata tenggala; mata bajak
@@ -161,12 +158,11 @@ nazim n penyair, pengarang
 nazisme 1 ajaran kaum Nazi; 2 ajaran yg menyerupai partai fasis Jerman
 nebeng /nebéng/ v turut makan (minum, merokok, membaca koran, dsb) tanpa membayar atau membeli
 nebula /nébula/ n 1 kabut; 2 awan; 3 awan di angkasa luar (dr bumi kelihatan spt bintang yg bersinar redup)
-neces /néces/ ĺ necis
+neces /néces/ -> necis
 necis /nécis/ a bersih dan rapi; rapi (terutama tt pakaian); apik
-negara n 1 organisasi dl suatu wilayah yg mempunyai kekuasaan tertinggi yg sah dan ditaati oleh rakyat; 2 kelompok sosial yg menduduki wilayah atau daerah tertentu yg diorganisasi di bawah lembaga politik, mempunyai kesatuan politik, berdaulat sehingga berhak menentukan tujuan nasionalnya; -- bagian negara yg menjadi anggota negara serikat; -- hukum negara yg menjadikan hukum sbg kekuasaan tertinggi; -- induk negara yg menjadi induk tanah jajahannya; -- industri negara yg penghidupan utama bangsanya dr perindustrian; -- kapitalis negara yg menganut paham kapitalisme; -- kesatuan negara yg mempunyai pemerintah (pusat) yg satu (tidak terbagi dl negaranegara bagian); -- penyangga negara yg terletak di antara dua negara yg bertentangan; -- protektorat negara yg barada di bawah pengawasan Dewan Keamanan PBB atau di bawah pengawasan negara lain (biasanya ditunjuk oleh PBB); -- satelit negara yg berada di bawah pengaruh atau bergantung kpd negara lain; -- Islam negara yg setiap perilaku politiknya didasarkan atas nilainilai atau ajaran agama Islam yg bersumber dari Alquran dan hadis Nabi Muhammad saw.; -- kreditor negara yg memberikan pinjaman uang kpd negara lain; -- serikat negara yg terdiri atas
-negara-negara bagian, masing-masing mempunyai pemerintahan sendiri, tetapi kedaulatan ke luar dipegang oleh pemerintah pusat; bernegara v mempunyai negara; menjalankan pemerintahan negara; menegara v menjalankan negara; menjadi warga negara; menjadi anggota bangsa-bangsa yg mempunyai negara; kenegaraan n seluk-beluk negara; segala sesuatu yg berkenaan dng negara
+negara n 1 organisasi dl suatu wilayah yg mempunyai kekuasaan tertinggi yg sah dan ditaati oleh rakyat; 2 kelompok sosial yg menduduki wilayah atau daerah tertentu yg diorganisasi di bawah lembaga politik, mempunyai kesatuan politik, berdaulat sehingga berhak menentukan tujuan nasionalnya; -- bagian negara yg menjadi anggota negara serikat; -- hukum negara yg menjadikan hukum sbg kekuasaan tertinggi; -- induk negara yg menjadi induk tanah jajahannya; -- industri negara yg penghidupan utama bangsanya dr perindustrian; -- kapitalis negara yg menganut paham kapitalisme; -- kesatuan negara yg mempunyai pemerintah (pusat) yg satu (tidak terbagi dl negaranegara bagian); -- penyangga negara yg terletak di antara dua negara yg bertentangan; -- protektorat negara yg barada di bawah pengawasan Dewan Keamanan PBB atau di bawah pengawasan negara lain (biasanya ditunjuk oleh PBB); -- satelit negara yg berada di bawah pengaruh atau bergantung kpd negara lain; -- Islam negara yg setiap perilaku politiknya didasarkan atas nilainilai atau ajaran agama Islam yg bersumber dari Alquran dan hadis Nabi Muhammad saw.; -- kreditor negara yg memberikan pinjaman uang kpd negara lain; -- serikat negara yg terdiri atas negara-negara bagian, masing-masing mempunyai pemerintahan sendiri, tetapi kedaulatan ke luar dipegang oleh pemerintah pusat; bernegara v mempunyai negara; menjalankan pemerintahan negara; menegara v menjalankan negara; menjadi warga negara; menjadi anggota bangsa-bangsa yg mempunyai negara; kenegaraan n seluk-beluk negara; segala sesuatu yg berkenaan dng negara
 negarawan n ahli dl kenegaraan; ahli yg menjalankan negara (pemerintahan)
-negari ĺ nagari
+negari -> nagari
 negasi /négasi/ n penyangkalan; kata sangkalan
 negatif /négatif/ n 1 film dr foto (potret) yg dipakai untuk memperbanyak foto; 2 kabel yg aliran listriknya berpotensi lebih rendah; 3 tidak pasti; tidak tentu; 4 kurang baik; menyimpang dr ukuran umum kenegatifan n keadaan negatif (kurang baik, kurang pasti, dsb)
 negativisme /négativisme/ n 1 falsafah atau pandangan yg bersifat acuh tak acuh; 2 Psi sifat atau kebiasaan untuk ingkar atau menolak
@@ -179,11 +175,10 @@ Negro /négro/ n bangsa berkulit hitam yg berasal dr Afrika bagian tengah; keneg
 negus /négus/ n sebutan raja Ethiopia
 nek a 1 berasa hendak muntah; mual; 2 ki berasa jijik (melihat, mendengar, dsb); muak
 nek /nék/ n kp nenek
-neka /néka/ ĺ aneka
+neka /néka/ -> aneka
 nekara n gendang besar yg dipergunakan dl upacara penobatan raja; nobat
-nekat /nékat/ a 1 berkeras hati; dng keras kemauan; 2 terlalu berani (dng tidak ber- pikir lagi); 3 tidak peduli apa-apa lagi (krn putus harapan, hilang akal, malu sekali, dsb); 4 tetap tidak mau (mengalah, menurut, menyerah, dsb); mengotot
-nekat-nekatan a terlalu nekat: remaja sekarang banyak yg ~; penekat n orang yg biasa nekat kenekatan n perbuatan (hal dsb) nekat
-nekel /nékel/ ĺ nikel
+nekat /nékat/ a 1 berkeras hati; dng keras kemauan; 2 terlalu berani (dng tidak ber- pikir lagi); 3 tidak peduli apa-apa lagi (krn putus harapan, hilang akal, malu sekali, dsb); 4 tetap tidak mau (mengalah, menurut, menyerah, dsb); mengotot; nekat-nekatan a terlalu nekat: remaja sekarang banyak yg ~; penekat n orang yg biasa nekat kenekatan n perbuatan (hal dsb) nekat
+nekel /nékel/ -> nikel
 nekrologi /nékrologi/ n 1 daftar atau catatan mengenai orang-orang yg meninggal dl suatu waktu (periode) tertentu; 2 catatan riwayat hidup singkat dr orang yg baru saja meninggal
 nekromansi /nékromansi/ n keahlian meramal masa depan dng mengadakan hubungan dng arwah orang yg telah meninggal
 nekropolis /nékropolis/ n pekuburan yg besar dr suatu kota kuno
@@ -193,12 +188,11 @@ nelayan n orang yg mata pencaharian utamanya dr usaha menangkap ikan di laut
 nemagon /némagon/ n Kim obat pembasmi hama tanaman (terutama nematoda)
 nematoda /nématoda/ n hewan yg termasuk kelas cacing (ulat) yg hidup sbg parasit pd tumbuh-tumbuhan atau binatang atau hidup bebas di dl tanah atau air
 nematosida /mématosida/ n Kim zat untuk membasmi cacing nematoda
-nenar ĺ nanar
-nenas ĺ nanas
+nenar -> nanar
+nenas -> nanas
 nenda /nénda/ n kp nenenda
-nenek /nénék/ n 1 sebutan dr cucu kpd orang tua ayah ibunya (biasanya nenek yg laki-laki disebut kakek, yg perempuan disebut nenek); 2 sebutan orang perempuan yg sudah tua (yg sudah patut menjadi nenek); senenek n satu nenek (tt keturunan)
-nenek-nenek n orang perempuan yg sudah tua, sudah patut menjadi nenek;
-nenekanda /nénékanda/ ĺ nenenda
+nenek /nénék/ n 1 sebutan dr cucu kpd orang tua ayah ibunya (biasanya nenek yg laki-laki disebut kakek, yg perempuan disebut nenek); 2 sebutan orang perempuan yg sudah tua (yg sudah patut menjadi nenek); senenek n satu nenek (tt keturunan); nenek-nenek n orang perempuan yg sudah tua, sudah patut menjadi nenek;
+nenekanda /nénékanda/ -> nenenda
 nenen /nénén/ v menetek (pd ibu): malu dong sudah besar masih -- nenenda /nénénda/ n hor nenek (dipakai dl surat-menyurat dsb)
 nener /nénér/ n sebutan untuk anak ikan bandeng yg masih kecil sekali
 nenes /nénés/, menenes v mengalir berdikit-dikit (nanah dr kudis, dsb)
@@ -220,7 +214,7 @@ Neptunus /néptunus/ n 1 nama dewa laut dl kepercayaan orang Romawi; 2 laut; 3 n
 neraca n 1 alat pengukur berat (terutama yg berukuran kecil) biasanya berupa batang lurus dng dua mangkuk yg digantungkan di kedua ujungnya untuk tempat anak timbangan dan benda yg ditimbang; 2 Dag catatan perbandingan untung rugi, hutang-piutang, pemasukan dan pengeluaran, dsb; 3 perimbangan (politik, kekuatan, dsb) -- palingan bungkal, hati palingan Tuhan, pb pikiran orang mudah berubah atau selalu berubah; yg palingan, bungkal yg piawai, pb sangat adil (hakim); -- pembayaran Dag perbandingan penerimaan uang antara dua negara (dl perdagangan dunia); -- perdagangan Dag perbandingan antara impor dan ekspor dr suatu negara dl perdagangan dunia; -- renik neraca yg dipakai untuk menimbang barang-- barang yg halus, kecil, atau sedikit spt emas; menerakakan v menyengsarakan; mencelakakan
 neraka n alam akhirat tempat (api) penyiksaan untuk orang yg berdosa;
 nerologi /nérologi/ n ilmu mengenai urat syaraf
-nesan /nésan/ ĺ nisan
+nesan /nésan/ -> nisan
 nestapa a sedih sekali; susah hati; kenestapaan n kesedihan; kesusahan hati
 net /nét/ n 1 jaring yg dibuat khusus untuk permainan olah raga spt bulu tangkis dan tenis, yg dipasang melintang memisahkan lapangan permainan menjadi dua bagian; 2 rajut untuk sanggul
 neto /néto/ a bersih (tt gaji, pendapatan, timbangan, dsb): berat -- kotak ini 2 kg
@@ -250,7 +244,7 @@ ngoko a Ling nama ragam bahasa dl bahasa Jawa yg dipakai ketika berbicara dng se
 ngung n tiruan bunyi sesuatu yg berdengung
 ni n kata panggilan untuk wanita yg belum kawin; nona
 nia n kerah (leher) baju
-niaga n kegiatan jual beli dsb untuk memperoleh untung; dagang; berniaga v berjual beli dsb untuk memperoleh untung; berdagang meniaga ĺ berniaga; memperniagakan v mengusahakan, (menggunakan dsb) untuk berniaga; memperdagangkan; memperjualbelikan; perniagaan n perdagangan
+niaga n kegiatan jual beli dsb untuk memperoleh untung; dagang; berniaga v berjual beli dsb untuk memperoleh untung; berdagang meniaga -> berniaga; memperniagakan v mengusahakan, (menggunakan dsb) untuk berniaga; memperdagangkan; memperjualbelikan; perniagaan n perdagangan
 nian adv 1 benar; amat; sangat; sekali; 2 untuk menguatkan arti
 niat n 1 maksud atau tujuan suatu perbuatan; 2 kehendak (keinginan, maksud) akan melakukan sesuatu; 3 janji untuk melakukan sesuatu jika cita-cita atau harapan terkabul; kaul; nazar; -- baik maksud baik; -- hati keinginan (harapan) hati; berniat v bermaksud (akan); berniat-niat v berharap (supaya); meniatkan v 1 melakukan sesuatu dng niat; 2 menazarkan; mengaulkan; 3 mendoakan; mengharapkan; terniat v 1 sudah diniatkan; termaksud; 2 timbul niat
 nibung n pohon yg termasuk keluarga palem, batangnya berduri, dan umbutnya boleh dimakan; -- bangsai bertaruk muda, pb orang tua yg bertingkah laku spt anak muda
@@ -265,9 +259,7 @@ nikmat 1 a enak lezat; 2 a merasa puas; senang; 3 n pemberian atau karunia (dr A
 nikotin n zat racun yg terdapat dl tembakau
 nila n 1 bahan cat (pewarna) biru yg dibuat dr daun tarum; 2 biru; krn -- setitik, rusak susu sebelanga, pb hanya krn keburukan yg sedikit, semuanya menjadi buruk
 nila ark n batu nilam
-nilai n 1 harga (dl arti taksiran harga); 2 harga uang (dibandingkan dng harga uang yg lain); 3 angka kepandaian; biji; ponten; 4 banyak sedikitnya isi; kadar; mutu; 5 sifat-sifat (hal-hal) yg penting atau berguna bagi kemanusiaan -- absolut Mat nilai mutlak; -- mutlak Mat besaran suatu bilangan tanpa membedakan tanda positif atau negatifnya, ditulis di antara dua garis, msl |10| adalah nilai mutlak 10 atau -- 10; nilai absolut; -- nominal Dag nilai uang yg tercantum pd sekuritas, spt wesel atau obligasi; -- tengah Mat purata; bernilai v 1 mempunyai nilai (harga uang dsb); menilai v 1 memperkirakan atau mengira-ngira nilainya; menghargai; 2 memberi
-nilai; menganggap; 3 memberi angka (biji); ternilai v (terkirakan) nilainya (harganya); terhingga
-nilaian n taksiran; penilai n orang yg menilai; juru taksir (harga barang gadai dsb); penilaian n proses, cara, perbuatan menilai;
+nilai n 1 harga (dl arti taksiran harga); 2 harga uang (dibandingkan dng harga uang yg lain); 3 angka kepandaian; biji; ponten; 4 banyak sedikitnya isi; kadar; mutu; 5 sifat-sifat (hal-hal) yg penting atau berguna bagi kemanusiaan -- absolut Mat nilai mutlak; -- mutlak Mat besaran suatu bilangan tanpa membedakan tanda positif atau negatifnya, ditulis di antara dua garis, msl |10| adalah nilai mutlak 10 atau -- 10; nilai absolut; -- nominal Dag nilai uang yg tercantum pd sekuritas, spt wesel atau obligasi; -- tengah Mat purata; bernilai v 1 mempunyai nilai (harga uang dsb); menilai v 1 memperkirakan atau mengira-ngira nilainya; menghargai; 2 memberi nilai; menganggap; 3 memberi angka (biji); ternilai v (terkirakan) nilainya (harganya); terhingga; nilaian n taksiran; penilai n orang yg menilai; juru taksir (harga barang gadai dsb); penilaian n proses, cara, perbuatan menilai;
 nilakandi kl n 1 kl batu nilam; 2 biru langit
 nilam n jenis burung berkicau yg badannya kecil dan bersuara nyaring (merdu); ketilang
 nilam n batu permata tembus cahaya, berwarna biru; nila; safir
@@ -283,14 +275,14 @@ ninik n nenek; -- mamak penghulu-penghulu adat dan orang tua-tua di minang
 ninitowok n boneka perempuan terbuat dr tempurung kelapa
 ninja n 1 orang yg terlatih, menguasai ilmu bela diri dr Jepang, bertugas untuk melakukan spionase dan pembunuhan; 2 pembunuh gelap yg berpakaian serba hitam dng muka berkedok yg melakukan aksinya secara terencana
 nipah n pohon palem yg tingginya mencapai delapan meter, daunnya digunakan untuk atap, tikar, keranjang, dsb, niranya dapat dijadikan gula dan minuman nypa futicans
-nipas ĺ nifas
+nipas -> nifas
 nipis n 1 pohon jeruk yg buahnya kecil sebesar telur ayam, rasanya agak masam, biasanya dipakai untuk minum, obat, dsb, Citrus medica; 2 buah jeruk nipis
 nira n air manis, sadapan dr mayang enau atau nyiur
 niraksara a tidak dapat membaca dan menulis buta huruf
 niraksarawan n orang yg tidak dapat membaca dan menulis; orang yg buta huruf
 nirgelar a tanpa gelar
 nirmala kl a tanpa cacat; tidak bernoda; suci bersih
-niru ĺ nyiru
+niru -> nyiru
 nirwana n 1 keadaan tidak menjelma kembali; dl keadaan lenyap sama sekali (sesudah mati) menurut kepercayaan agama Budha dan Hindu; 2 tempat yg tenteram dan sempurna (dl arti kiasan); surga
 nisab n jumlah harta minimum yg dikenakan zakat
 nisan n papan atau batu yg ditanam di atas kubur sbg penanda
@@ -298,13 +290,12 @@ nisbah n 1 perhubungan keluarga; nama yg menyatakan hubungan keluarga; 2 hubunga
 nisbi a hanya terlihat kalau dibandingkan dng lainnya; relatif; tidak mutlak: kecantikan dan ketampanan itu --, bergantung kpd orang yg melihatnya
 niscaya adv tidak boleh tidak; tentu; pasti; meniscayakan v memastikan
 niskala a tidak berwujud; tidak berbenda; mujarad; abstrak
-nista a 1 hina; 2 tidak enak didengar: menista v 1 mengaibkan; mencela; mencemarkan nama baik; 2 mengumpat, menghina; menistakan v menjadikan (menganggap) nista; menghinakan; merendahkan (derajat dsb);
-nistaan n cercaan; makian; perbuatan (perkataan dsb) untuk menista; penista n orang yg menista(kan); penistaan n proses, cara, perbuatan menistakan; kenistaan n keadaan (hal) nista
+nista a 1 hina; 2 tidak enak didengar: menista v 1 mengaibkan; mencela; mencemarkan nama baik; 2 mengumpat, menghina; menistakan v menjadikan (menganggap) nista; menghinakan; merendahkan (derajat dsb); nistaan n cercaan; makian; perbuatan (perkataan dsb) untuk menista; penista n orang yg menista(kan); penistaan n proses, cara, perbuatan menistakan; kenistaan n keadaan (hal) nista
 nitrat n garam dr asam sendawa (HN03), dipakai dl campuran pupuk
 nitrogen /nitrogén/ n Kim gas tidak berwarna, tidak berasa, tidak berbau, dan tidak beracun, bebas di udara (dilambangkan dng N); bernitrogen v mengandung nitrogen
 nitrogenase /nitrogénase/ n Kim enzim yg terdapat dl bakteri penambat nitrogen yg mengatalisis perubahan nitrogen menjadi amonia
 nitrometer /nitrométer/ n Kim alat untuk mengukur nitrogen dan gas lain yg dibebaskan dr reaksi kimia
-niur ĺ nyiur
+niur -> nyiur
 nobat kl n gendang besar (untuk menghormati raja ketika ditabalkan)
 nobat, menobatkan v menaikkan ke takhta kerajaan; penobatan n pelantikan menjadi raja
 noda n 1 noktah (yg menyebabkan menjadi atau tampak kotor); bercak; 2 aib; cela; cacat; bernoda v 1 ada nodanya (sehingga tampak kotor dsb): baju putihnya ~ getah pisang; 2 bercela (mendapat nama buruk): namanya sudah ~ di daerah itu; menodai v 1 menjadikan ada nodanya; mengotori; 2 merusak (kesucian, keluhuran, dsb); 3 mencemarkan; menjelekkan (nama baik); ternoda v kena noda; dicemarkan; dikotori: jaga dirimu di kota besar nanti, jangan sampai ~
@@ -315,10 +306,9 @@ nol num 1 nama bilangan bagi lambang bilangan kosong (0); 2 bilangan kosong yg m
 nomad n orang atau bangsa yg hidupnya mengembara dr tempat yg satu ke tempat lain (tidak menetap di suatu tempat)
 nombor ark n nomor
 nomenklatur /noménklatur/ n sistem penamaan yg dipakai dl bidang atau ilmu tertentu; tata nama
-nomer ĺ nomor
+nomer -> nomor
 nomina n Ling kategori kata yg biasanya ditandai dng tidak dapatnya didahului oleh kata ingkar "tidak" (seperti nama tumbuh-tumbuhan, hewan, dan manusia); kata benda
-nominal a 1 hanya namanya saja; 2 menurut
-nama atau apa yg tertulis
+nominal a 1 hanya namanya saja; 2 menurut nama atau apa yg tertulis
 nominal a Ling bersangkutan dng (bersifat) nomina
 nominalisasi n Ling 1 proses atau hasil membentuk nomina dr kelas kata lain dng mempergunakan afiks tertentu; 2 proses atau hasil membentuk satuan berkelas
 nomina dr kata, frase, klausa, atau kalimat dr kelas lain
@@ -348,7 +338,7 @@ nonkonvensional /nonkonvénsional/ a tidak menurut apa yg sudah menjadi kebiasaa
 nonkooperatif a bersifat (bersikap) tidak bekerja sama
 nonmedis /nonmédis/ a tidak berhubungan dng ilmu pengobatan (kedokteran)
 nonmiliter /nonmilitér/ a tidak bersifat militer; bukan militer
-nonoh ĺ senonoh
+nonoh -> senonoh
 nonol n binatang kecil (hama) yg merusakkan kopi, Zeazera coffiae
 nonong a agak menonjol ke depan (tt dahi); jantuk
 nonpatogenik /nonpatogénik/ a Bio tidak mampu menimbulkan penyakit (tt jasad hidup renik atau jasad lain)
@@ -388,10 +378,9 @@ novokaina n obat pemati rasa setempat; obat bius lokal
 nuansa n 1 perbedaan yg sangat halus (tt suara, warna, dsb); 2 kebenaran, kewaspadaan, atau kemampuan menyatukan adanya pergeseran yg sangat kecil; bernuansa v memiliki nuansa
 nubuat n wahyu yg diturunkan kpd nabi (untuk disampaikan kpd manusia); bernubuat membuat ramalan; meramalkan
 nudis v 1 telanjang; tak berpakaian; 2 Sen orang telanjang dl lukisan; 3 orang yg suka telanjang di bawah sinar matahari atau di alam bebas (untuk kesehatan)
-nugraha ĺ anugerah
+nugraha -> anugerah
 Nuh n nabi dan rasul ketiga yg diutus Allah Swt
-nujum n 1 perbintangan untuk meramalkan (mengetahui) nasib orang dsb; 2 bintangbintang; menujumkan v meramalkan;
-nujuman n ramalan; pernujuman n 1 perihal nujum; 2 perihal ramalan atau meramalkan
+nujum n 1 perbintangan untuk meramalkan (mengetahui) nasib orang dsb; 2 bintangbintang; menujumkan v meramalkan; nujuman n ramalan; pernujuman n 1 perihal nujum; 2 perihal ramalan atau meramalkan
 nukil v kutip; menukil v mengutip; menulis (memetik) kembali apa yg pernah ditulis (diucapkan) orang lain; menukilkan v 1 menuliskan kembali apa yg pernah ditulis (diucapkan) orang lain; 2 mencantumkan; mematerikan tulisan pd suatu benda (sbg tanda peringatan dsb); ternukil v tercantum; terpateri; terkutip;
 nukilan n kutipan tulisan yg dicantumkan pd suatu benda silat
 nukleon /nukléon/ n Fis zarah pembentuk inti atom (yakni proton atau neutron)
@@ -408,7 +397,7 @@ nuraga a simpati
 nurbisa ark n penawar bisa
 nuri n burung kakatua berbulu merah dan hijau (biru hitam), dapat mengoceh, menirukan suara manusia, dsb
 nuriah a berkenaan dng nur; bercahaya; terang
-nurmala ĺ nirmala
+nurmala -> nirmala
 nus n nama ikan laut yg mempunyai umbai-umbai pd kepalanya untuk menangkap mangsa; ikan sotong
 nusa n 1 pulau; 2 tanah air; negara
 nusa indah n tanaman perdu, tingginya mencapai 4 m, berdaun tunggal, berbentuk bulat telur, berbulu halus berbunga di ujung ranting, mahkota bunga berbentuk terompet dng bagian atas seperti bintang, kecil, dan kuning, bertajuk rimbun, biasa ditanam sb pohon hias, Nussenda erythophila
@@ -417,7 +406,7 @@ nutfah n 1 mani (benih manusia); 2 Tan embrio yg berada di dl biji
 nutrisi n 1 proses pemasukan dan pengolahan zat makanan oleh tubuh; 2 makanan bergizi; 3 ilmu tt gizi; menutrisi v memberi nutrisi
 nutrisinis n ahli gizi
 Nuzulul Quran n turunnya (wahyu) Alquran (tanggal 17 Ramadan)
-nyah ĺ enyab
+nyah -> enyab
 nyai n 1 gundik orang asing (terutama orang Eropa); 2 panggilan kpd perempuan tua; 3 kl adinda
 nyalar ark adv selalu
 nyak n emak
@@ -427,7 +416,7 @@ nyali n 1 empedu; 2 perasaan (dl arti kiasan); 3 keberanian; bernyali v ki mempu
 nyaman a 1 segar; sehat; 2 sedap; enak; menyamankan v menjadikan nyaman; menyegarkan; menyedapkan; kenyamanan n keadaan nyaman; kesegaran; keenakan
 nyambing n tumbuhan yg hidup di payapaya, Lasias spinosa
 nyamikan n 1 makanan ringan; kue-kue kecil; makanan yg tidak mengenyangkan; 2 ki wanita untuk pelepas hawa nafsu; pelacur
-nyampang, menyampang ĺ senyampang
+nyampang, menyampang -> senyampang
 nyamplung n nama pohon, biasa tumbuh di pesisir yg berpasir dan berbatu karang, kulit pohonnya bisa digunakan sbg obat penyakit darah putih, kencing darah, kelamin, dan obat luar untuk kelenjar yg bengkak, kayunya keras digunakan untuk bahan pembuat perahu dan tiang kapal, Calophyllum inophyllum
 nyamuk n serangga kecil bersayap, yg betina memiliki sepasang sungut yg dipakai sbg pengisap darah manusia dan binatang, bertelur di air yg tergenang; -- mati gatal tak lepas, pb menaruh dendam kpd orang yg berbuat jahat, meskipun yg jahat itu sudah dihukum; menepak - menjadi daki, pb melawan orang yg lemah tidak akan mendapat nama baik; -- gajah nyamuk yg besar; -- harimau nyamuk loreng; -- malaria nyamuk yg mengandung parasit malaria dan dng gigitannya memindahkan malaria kpd manusia, Anopheles; -- pers ki wartawan; -- serampang nyamuk malaria
 nyamur n embun
@@ -436,8 +425,7 @@ nyanya, menyanya v merendang (menggoreng tidak dng minyak); menyangrai
 nyanyah v, menyanyah v selalu berkata yg bukan-bukan; merepek
 nyanyang a gelisah; resah, tidak tenang hati
 nyanyar a 1 lunak pd kulitnya; bonyor; 2 menjadi lunak dan gembur (tt tanah yg diinjak-injak lembu dsb)
-nyanyi, bernyanyi v mengeluarkan suara bernada, berlagu (dng lirik atau tidak); menyanyi v bernyanyi; menyanyikan v melagukan dng nyanyi; mengeluarkan (lagu); menyuarakan (lagu);
-nyanyian n yg dinyanyikan; lagu; penyanyi n orang yg (pekerjaannya) menyanyi; biduan
+nyanyi, bernyanyi v mengeluarkan suara bernada, berlagu (dng lirik atau tidak); menyanyi v bernyanyi; menyanyikan v melagukan dng nyanyi; mengeluarkan (lagu); menyuarakan (lagu); nyanyian n yg dinyanyikan; lagu; penyanyi n orang yg (pekerjaannya) menyanyi; biduan
 nyanyu ark, menyanyu v selalu berkata yg bukan-bukan; merepek; menyanyah
 nyanyuk a tidak jernih pikirannya (suka termenung-menung, bengong, dsb)
 nyapang ark n teman

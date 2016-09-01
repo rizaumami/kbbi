@@ -24,8 +24,7 @@ vandalisme n 1 perusakan hasil karya seni (keindahan alam dsb); 2 perusakan seca
 vandalistis a 1 bersifat suka merusak hasil karya seni (keindahan dsb); 2 bersifat suka merusak secara kasar dan kejam
 vandel n semacam bendera kadang berumbai-rumbai pd tepinya, memuat tulisan atau gambar, dan diberikan tali untuk menggantungkannya, biasa diberikan sbg kenang-kenangan
 vanila a berasa vanili
-vanili n 1 tanaman menjalar yg buahnya berbentuk polong, berisi biji harum yg dikeringkan untuk pengharum makanan,
-Vanilla mexicana; 2 serbuk (hablur) berwarna putih yg dibuat dr biji vanili untuk pengharum makanan
+vanili n 1 tanaman menjalar yg buahnya berbentuk polong, berisi biji harum yg dikeringkan untuk pengharum makanan, Vanilla mexicana; 2 serbuk (hablur) berwarna putih yg dibuat dr biji vanili untuk pengharum makanan
 varia n aneka warna; serba-serbi; ruparupa; bermacam-macam
 variabel a 1 dapat berubah (bervariasi, berubah-ubah, bermacam-macam, berbeda-beda) harga, kuaIitas, mutu, dsb; 2 (sesuatu yg) dapat berubah; (faktor, unsur yg) ikut menentukan perubahan: -- yg perlu diperhatikan dl penelitian itu di antaranya usia dan latar belakang pendidikan responden; -- bebas faktor-faktor yg dapat memengaruhi suatu gejala; -- lingkungan faktor di luar kekuasaan perusahaan yg sangat besar pengaruhnya thd permintaan spt keadaan ekonomi, perkembangan teknologi, peraturan pemerintah, kebudayaan, dsb; -- pelanggan faktor yg berhubungan dng jumlah pelanggan di dl pasar dan tingkat penggunaan barang atau jasa; -- pesaing faktor yg berada di bawah kekuasaan para pesaing dan memengaruhi penjualan produk perusahaan; -- terikat faktor-- faktor yg diakibatkan pengaruh variabel lain; -- transformer faktor pengubah; -- voltase faktor tenaga listrik yg diukur dl volt
 variabilitas n kecenderungan berubah-ubah
@@ -55,8 +54,7 @@ veld /véld/ n padang rumput yg sangat luas dng pohon dan semak tersebar, terdap
 velodrom /vélodrom/ n tempat berlatih atau bertanding balap sepeda; arena balap sepeda
 velositas /vélositas/ n kecepatan yg diukur dl satuan jarak per satuan waktu
 velum /vélum/ n bagian belakang dr langitlangit lembut
-vena /véna/ n pembuluh darah balik; -- kaya inferior vena yg mengembalikan darah dr lobus bawah paru kanan ke atrium kiri jantung; -- kaya superior
-vena yg mengembalikan darah dr lobus atas dan media paru kanan ke atrium kiri jantung; -- pulmonalis pembuluh darah balik yg mengembalikan darah kaya oksigen dr paru-paru ke atrium kiri jantung
+vena /véna/ n pembuluh darah balik; -- kaya inferior vena yg mengembalikan darah dr lobus bawah paru kanan ke atrium kiri jantung; -- kaya superior vena yg mengembalikan darah dr lobus atas dan media paru kanan ke atrium kiri jantung; -- pulmonalis pembuluh darah balik yg mengembalikan darah kaya oksigen dr paru-paru ke atrium kiri jantung
 venarismus /vénarismus/ n penyakit kelamin
 venerologi /vénérologi/ n cabang ilmu kedokteran yg mempelajari penyakit kelamin
 ventilasi /véntilasi/ n 1 pertukaran udara; perputaran udara secara bebas dl ruangan; 2 lubang tempat udara dapat keluar masuk secara bebas; -- alam perputaran udara (msl tambang bawah tanah) sbg akibat adanya perbedaan suhu pd dua titik
@@ -151,8 +149,7 @@ vital a sangat penting (untuk kehidupan dsb): air adalah kebutuhan -- untuk manu
 vitalis n penganut aliran vitalisme
 vitalisme n pandangan yg optimis tt hidup
 vitalitas n 1 daya hidup; kemampuan untuk bertahan hidup; 2 ki kehidupan (dl seni, sastra, dsb)
-vitamin n zat yg sangat penting untuk metabolisme normal, pertumbuhan dan perkembangan badan; -- A makanan pelindung untuk mencegah rabun senja, biasanya terdapat pd buahbuahan dan sayur-sayuran; -- A2 bentuk
-vitamin A yg diperoleh dr hati ikan; -- B makanan pelindung yg berguna untuk pertumbuhan, biasanya terdapat pd kacang-- kacangan, telur, daging, sayuran; -- B1 tiamina; --  B2 bagian dr vitamin B terdapat dl susu, ragi, hati, ginjal, dan putih telur; riboflavin; --  B6 piridoksina; -- B12 vitamin yg larut dl air, diperoleh dr ikan, penting untuk pembentukan darah -- C makanan pelindung yg terdapat pd buah-buahan dan sayur-sayuran spt jeruk, tomat, mangga, bermanfaat untuk kesehatan kulit dan gusi; -- D makanan pelindung yg bermanfaat untuk tulang dan gigi, terdapat pd susu, sayuran hijau, kacang-kacangan; -- D3 bentuk vitamin D, dibentuk oleh sinar matahari pd kulit; -- K1 bentuk vitamin K, ditemukan pd sayuran hijau; --  K2 bentuk vitamin K, ditemukan pd ikan; --  P bioflavonoid
+vitamin n zat yg sangat penting untuk metabolisme normal, pertumbuhan dan perkembangan badan; -- A makanan pelindung untuk mencegah rabun senja, biasanya terdapat pd buahbuahan dan sayur-sayuran; -- A2 bentuk vitamin A yg diperoleh dr hati ikan; -- B makanan pelindung yg berguna untuk pertumbuhan, biasanya terdapat pd kacang-- kacangan, telur, daging, sayuran; -- B1 tiamina; --  B2 bagian dr vitamin B terdapat dl susu, ragi, hati, ginjal, dan putih telur; riboflavin; --  B6 piridoksina; -- B12 vitamin yg larut dl air, diperoleh dr ikan, penting untuk pembentukan darah -- C makanan pelindung yg terdapat pd buah-buahan dan sayur-sayuran spt jeruk, tomat, mangga, bermanfaat untuk kesehatan kulit dan gusi; -- D makanan pelindung yg bermanfaat untuk tulang dan gigi, terdapat pd susu, sayuran hijau, kacang-kacangan; -- D3 bentuk vitamin D, dibentuk oleh sinar matahari pd kulit; -- K1 bentuk vitamin K, ditemukan pd sayuran hijau; --  K2 bentuk vitamin K, ditemukan pd ikan; --  P bioflavonoid
 vitrifikasi n proses pengubahan material menjadi kaca
 vivipar n Tern reproduksi pd hewan mengakibatkan telur berkembang di dl tubuh hewan betina dan (perkembangan) janinnya mendapat makanan dr induknya
 vla n saus yg dibuat dr susu, kuning telur, gula, dan vanili atau aroma lainnya; -- cokelat saus yg dibuat dr susu, kuning telur, gula, dan cokelat dng aroma lain untuk makan puding; -- vanili saus yg dibuat dr susu, kuning telur, gula, dan vanili dng aroma lain untuk makan puding
@@ -182,7 +179,7 @@ vulkan n gunung berkawah, yg hampir selalu mengeluarkan gas, abu, lahar, dsb; gu
 vulkanik n magma yg mencapai permukaan bumi
 vulkanis a memiliki sifat-sifat gunung berapi ( vulkan)
 vulkanisasi n 1 proses kimia untuk membentuk berbagai karet mentah menjadi lebih kuat atau elastis; 2 hal mengolah karet dng api dsb
-vulkanisir ĺ vulkanisasi
+vulkanisir -> vulkanisasi
 vulkanisme n semua gejala alam yg terjadi akibat adanya aktivitas magma
 vulkanologi n ilmu pengetahuan tt gunung berapi, gempa, dsb
 vulva n alat kelamin perempuan bagian luar; aurat
