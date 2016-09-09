@@ -15,7 +15,7 @@ nadir n titik yg paling rendah dr bola langit, terletak tepat di bawah kaki peng
 nadir n perahu (di Malaysia)
 nadir ark n pengawas; inspektur
 nafar n meninggalkan Mina menuju Mekah pd waktu melaksanakan ibadah haji; -- awal keberangkatan jemaah haji dr Mina ke Mekah pd tanggal 12 Zulhijah; -- sani keberangkatan jemaah haji dr Mina ke Mekah pd tanggal 13 Zulhijah
-nafas o napas
+nafas -> napas
 nafi n 1 penolakan; penampikan; pengingkaran; 2 ingkar; negatif; 3 tidak mau; menafikan v menolak; menampik; menyangkal; mengingkari: menolak atau ~ itikad yg ragu disebut sifat salbiah penafian n proses, cara, perbuatan menafikan
 nafiri n trompet panjang; bernafiri v membunyikan nafiri
 nafkah n 1 belanja untuk hidup; (uang) pendapatan; belanja yg diberikan kpd istri; 2 rezeki; bekal hidup sehari-hari; menafkahi v memberi nafkah; menafkahkan v membelanjakan (uang); mempergunakan (uang, harta) untuk keperluan hidup atau keperluan lain-lain; penafkah n orang yg memberi nafkah penafkahan n proses, cara, perbuatan menafkahi
@@ -56,7 +56,7 @@ nakara n gendang besar (beduk, tabuh)
 nakas n meja kecil dng satu atau dua laci yg diletakkan di bagian samping kepala sebuah tempat tidur
 nakhoda n 1 pemimpin perahu atau kapal; 2 perwira laut yg memegang komando tertinggi di atas kapal niaga; kapten kapal
 Nakir n Isl nama malaikat yg menanyai orang mati dl kubur
-nakoda o nakhoda
+nakoda -> nakhoda
 nal n penyumbat mesiu pd meriam dsb supaya menimbulkan kekuatan yg hebat bila meletup
 nala ark bernala-nala v berpikir-pikir; menimbang-nimbang
 nalam n gubahan sajak (syair, karangan); bernalam v bersajak (bersyair); bercerita dng lagu; menalamkan v menyajakkan; menceritakan dng lagu; mengubah
@@ -316,7 +316,7 @@ nominasi n 1 pengangkatan atau pengukuhan sbg calon; pencalonan; 2 yg dicalonkan
 nominatif n Ling kasus yg menandai nomina atau sejenisnya sbg pokok kalimat (subjek)
 nominator n orang yg mencalonkan
 nomine /nominé/ n orang yg dicalonkan
-nomor n 1 angka sbg tanda atau lambang bilangan; 2 angka yg menunjukkan kedudukan dl urutan; 3 Olr jenis lomba; -- induk nomor menurut catatan dl buku induk (buku catatan daftar nama dsb); -- lepas nomor eceran (tt surat kabar, majalah, dsb); -- perdana nomor permulaan terbit (tt surat kabar, majalah, dsb); -- pokok o nomor induk; -- polisi nomor yg diberikan polisi lalu lintas bagi kendaraan bermotor dsb; -- rekening nomor yg digunakan untuk menarik dan memasukkan uang di bank; -- satu 1 yang pertama; yg terdahulu; 2 ki yg terbaik; bernomor mempunyai nomor; ada nomornya; bernomor v ada nomornya; mempunyai nomor; menomori v memberi nomor; penomoran n perihal (tindakan) memberi nomor atau angka
+nomor n 1 angka sbg tanda atau lambang bilangan; 2 angka yg menunjukkan kedudukan dl urutan; 3 Olr jenis lomba; -- induk nomor menurut catatan dl buku induk (buku catatan daftar nama dsb); -- lepas nomor eceran (tt surat kabar, majalah, dsb); -- perdana nomor permulaan terbit (tt surat kabar, majalah, dsb); -- pokok -> nomor induk; -- polisi nomor yg diberikan polisi lalu lintas bagi kendaraan bermotor dsb; -- rekening nomor yg digunakan untuk menarik dan memasukkan uang di bank; -- satu 1 yang pertama; yg terdahulu; 2 ki yg terbaik; bernomor mempunyai nomor; ada nomornya; bernomor v ada nomornya; mempunyai nomor; menomori v memberi nomor; penomoran n perihal (tindakan) memberi nomor atau angka
 non n nona
 non n biarawati
 non n morfem terikat yg ditambahkan di awal kata yang mengandung makna 'tidak' atau 'bukan'
