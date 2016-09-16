@@ -107,6 +107,8 @@ perbaiki_kata() {
     awk -i inplace '{gsub("[“”]", "\"")};1' "teks/kbbi4-$i.txt"
     # rubah ĺ menjadi ->
     awk -i inplace '{gsub("ĺ", "->")};1' "teks/kbbi4-$i.txt"
+    # rubah o menjadi -> pada baris di bawah 5 kolom
+    awk -i inplace 'NF<5 {gsub(" o ", "->")};1' "teks/kbbi4-$i.txt"
 
     # kbbi 2008 menggunakan angka di depan lema yang memiliki banyak arti
     # angka tersebut dirasa tidak penting dan akan dihapus oleh perintah berikut
