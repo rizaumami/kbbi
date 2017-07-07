@@ -10,55 +10,83 @@
 
 readonly KBBI='sumber/Kamus-Besar-Bahasa-Indonesia.pdf'
 readonly LEMA='sumber/Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4.pdf'
+readonly DEPS='pdftotext awk bash'
 
 # FUNCTIONS --------------------------------------------------------------------
 
 usage() {
   printf '%s\n' "
-  Cara pakai: $0 pilihan
+ Cara pakai: ${0##*/} PILIHAN
 
-  Mengalih-tuliskan berkas PDF Kamus Besar Bahasa Indonesia edisi IV (2008)
-  ke dalam bentuk berkas teks biasa.
+ Mengalih-tuliskan berkas PDF Kamus Besar Bahasa Indonesia edisi IV (2008)
+ ke dalam bentuk berkas teks biasa.
 
-  Menjalankan $0 tanpa pilihan sama dengan menjalankan -g, -t, dan -r secara berurutan.
+ Menjalankan ${0##*/} tanpa PILIHAN sama dengan menjalankan -g, -t, dan -u secara berurutan.
 
-  PILIHAN:
-    -g --gabung       Gabungkan berkas teks berdasar huruf lema
-    -t --teks         Rubah berkas PDF KBBI menjadi teks
-    -r --rubah        Perbaiki karakter hasil OCR yang salah
-    -h --help         Tampilkan bantuan ini
-  "
+ PILIHAN:
+   -g --gabung       Gabungkan berkas teks berdasar huruf lema
+   -t --teks         Ubah berkas PDF KBBI menjadi teks
+   -u --ubah         Perbaiki karakter hasil OCR yang salah
+   -h --help         Tampilkan bantuan ini
+ "
 }
 
 # tampilkan pesan berupa huruf tebal berwarna hijau
-green() {
+hijau() {
   printf "\e[1;32m$1\n\e[0;39;49m"
 }
 
-# rubah pdf menjadi berkas biasa menggunakan pdftotext
+# tampilkan pesan berupa huruf tebal berwarna coklat
+coklat() {
+  printf "\e[1;33m$1\n\e[0;39;49m"
+}
+
+# tampilkan pesan berupa huruf tebal berwarna merah
+merah() {
+  printf "\e[1;31m$1\n\e[0;39;49m"
+}
+
+# periksa ketersediaan aplikasi yang dibutuhkan, jika tidak ada, hentikan skrip
+check_deps() {
+  printf "\n ${0##*/} sekarang akan memeriksa ketersediaan program yang ia butuhkan untuk bekerja.\n"
+
+  for i in $DEPS; do
+    if [[ -x $(which $i 2>/dev/null) ]]
+    then
+      hijau " - $i: OK"
+    else
+      merah " - $i: Tidak ada!"
+      coklat " Harap terlebih dahulu memasang paket yang menyediakan $i."
+      exit 1
+    fi
+  done
+}
+
+# ubah pdf menjadi berkas biasa menggunakan pdftotext
 pdf_to_text() {
   [[ ! -d 'teks' ]] && mkdir 'teks'
 
   local i
 
   for i in {19..129}; do
-    green "Converting page ${i}"
+    hijau " Mengubah laman ${i} menjadi $0/teks/kbbi4-$i.txt"
     # laman untuk lema a memiliki tinggi bagian nomor yang berbeda dengan
     # halaman lainnya (sekitar 600px pada resolusi 500dpi)
     pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 600 -W 3250 -H 3636 "$KBBI" teks/kbbi4-"$i".txt
   done
 
   for i in {130..1490}; do
-    green "Converting page ${i}"
+    hijau " Mengubah laman ${i} menjadi $0/teks/kbbi4-$i.txt"
     pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 436 -W 3250 -H 3800 "$KBBI" teks/kbbi4-"$i".txt
   done
 
-  # Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4 hanya akan dirubah ke teks
+  # Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4 hanya akan diubah ke teks
   # untuk selanjutnya disunting secara manual
-  green "Converting ${LEMA##*/}"
+  hijau " Mengubah ${LEMA##*/} menjadi $0/teks/${LEMA##*/}.txt"
   pdftotext -r 500 -eol unix -nopgbrk "$LEMA" teks/"${LEMA##*/}".txt
 }
 
+# kelompokkan kata berdasar huruf awal
 group_text() {
   cat teks/kbbi4-{19..129}.txt > teks/kbbi4-A.txt
   cat teks/kbbi4-{130..263}.txt > teks/kbbi4-B.txt
@@ -90,32 +118,37 @@ group_text() {
   cat teks/kbbi4-{1486..1490}.txt > teks/kbbi4-Z.txt
 }
 
+# perbaiki kata hasil konversi pdftotext
 perbaiki_kata() {
   local i
   for i in {A..Z}; do
-    # kbbi 2008 menggunakan drop cap letter pada halaman awal lema
-    # perintah berikut akan menghapus huruf yang berada di baris 1 tersebut
-    awk -i inplace 'NR>1' "teks/kbbi4-$i.txt"
+    if [ -f "teks/kbbi4-$i.txt" ]; then
+      coklat " Memperbaiki kata di berkas $i"
 
-    # hapus baris kosong
-    awk -i inplace 'NF' "teks/kbbi4-$i.txt"
+      # kbbi 2008 menggunakan drop cap letter pada halaman awal lema
+      # perintah berikut akan menghapus huruf yang berada di baris 1 tersebut
+      awk -i inplace 'NR>1' "teks/kbbi4-$i.txt"
 
-    # pdftotext gagal menerjemahkan beberapa karakter
-    # rubah dash (yang aslinya berupa double dash) menjadi double dash
-    awk -i inplace '/ -[[:alnum:]]/{gsub(" -", " -- ")};1' "teks/kbbi4-$i.txt"
-    # rubah tanda kutip
-    awk -i inplace '{gsub("[“”]", "\"")};1' "teks/kbbi4-$i.txt"
-    # rubah ĺ menjadi ->
-    awk -i inplace '{gsub("ĺ", "->")};1' "teks/kbbi4-$i.txt"
-    # rubah o menjadi -> pada baris di bawah 5 kolom
-    awk -i inplace 'NF<5 {gsub(" o ", "->")};1' "teks/kbbi4-$i.txt"
+      # hapus baris kosong
+      awk -i inplace 'NF' "teks/kbbi4-$i.txt"
 
-    # kbbi 2008 menggunakan angka di depan lema yang memiliki banyak arti
-    # angka tersebut dirasa tidak penting dan akan dihapus oleh perintah berikut
-    awk -i inplace '!/^[[:digit:]]$/' "teks/kbbi4-$i.txt"
+      # pdftotext gagal menerjemahkan beberapa karakter
+      # ubah dash (yang aslinya berupa double dash) menjadi double dash
+      awk -i inplace '/ -[[:alnum:]]/{gsub(" -", " -- ")};1' "teks/kbbi4-$i.txt"
+      # ubah tanda kutip
+      awk -i inplace '{gsub("[“”]", "\"")};1' "teks/kbbi4-$i.txt"
+      # ubah ĺ menjadi ->
+      awk -i inplace '{gsub("ĺ", "->")};1' "teks/kbbi4-$i.txt"
+      # ubah o menjadi -> pada baris di bawah 5 kolom
+      awk -i inplace 'NF<5 {gsub(" o ", "->")};1' "teks/kbbi4-$i.txt"
 
-    # gabung baris berdasar lema
-    awk -v huruf=^"[$i${i,,}]" '$0 ~ huruf {if (x)print x;x="";}{x=(!x)?$0:x" "$0;}END{print x;}' "teks/kbbi4-$i.txt" > "teks/$i.txt"
+      # kbbi 2008 menggunakan angka di depan lema yang memiliki banyak arti
+      # angka tersebut dirasa tidak penting dan akan dihapus oleh perintah berikut
+      awk -i inplace '!/^[[:digit:]]$/' "teks/kbbi4-$i.txt"
+
+      # gabung baris berdasar lema
+      awk -v huruf=^"[$i${i,,}]" '$0 ~ huruf {if (x)print x;x="";}{x=(!x)?$0:x" "$0;}END{print x;}' "teks/kbbi4-$i.txt" > "teks/$i.txt"
+    fi
   done
 }
 
@@ -123,12 +156,15 @@ perbaiki_kata() {
 
 case $1 in
   -g|--gambar)
+    check_deps
     group_text
   ;;
   -t|--teks)
+    check_deps
     pdf_to_text
   ;;
-  -r|--rubah)
+  -u|--ubah)
+    check_deps
     perbaiki_kata
   ;;
   -h|--help)
@@ -136,9 +172,11 @@ case $1 in
     exit 0
   ;;
   *)
+    check_deps
     pdf_to_text
     group_text
     perbaiki_kata
-    rm -v teks/kbbi4-*.txt
+    merah " Menghapus semua berkas $0/teks/kbbi4-*.txt"
+    rm teks/kbbi4-*.txt
   ;;
 esac
