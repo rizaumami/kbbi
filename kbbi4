@@ -180,3 +180,5 @@ case $1 in
     rm teks/kbbi4-*.txt
   ;;
 esac
+
+# Terimakasih
