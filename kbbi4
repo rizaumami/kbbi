@@ -51,11 +51,11 @@ bantuan() {
  Cara pakai: ${0##*/} PILIHAN
 
  PILIHAN:
-	-a, --alihtulis  Mengalihtuliskan PDF KBBI IV 2008 menjadi berkas teks biasa
-	-g, --gabung     Gabungkan berkas teks berdasar huruf lema
+  -a, --alihtulis  Mengalihtuliskan PDF KBBI IV 2008 menjadi berkas teks biasa
+  -g, --gabung     Gabungkan berkas teks berdasar huruf lema
   -t, --teks       Ubah berkas PDF KBBI menjadi berkas teks
   -u, --ubah       Perbaiki karakter hasil OCR yang salah
-	-h, --help       Tampilkan bantuan ini
+  -h, --help       Tampilkan bantuan ini
 
  CONTOH:
    ${0##*/} -a
@@ -91,9 +91,7 @@ teks_merah() {
 pdf_ke_teks() {
   [[ -d 'teks' ]] || mkdir 'teks'
 
-  local i
-
-	teks_hijau "Mengubah halaman PDF menjadi halaman teks biasa"
+  teks_hijau "Mengubah halaman PDF menjadi halaman teks biasa"
   for i in {19..129}; do
     printf ':: %s\r' "- Halaman ${i} -> $0/teks/kbbi4-$i.txt"
     # Halaman untuk lema A memiliki tinggi bagian nomor yang berbeda dengan
@@ -150,11 +148,11 @@ perbaiki_kata() {
     if [[ -f teks/kbbi4-$i.txt ]]; then
       printf '\e[1;33m:: %s\r\e[m' "Memperbaiki kata di berkas $i"
 
-			# TODO
-			# Find a more efficient method to edit teks/kbbi4-*.txt files.
-			# gawk's inplace editing below is expensive.
-			# At least 7 processes, multiplied by 26 letters, is equal to 182 times
-			# it's opening - editing - saving the files. Ugly.
+      # TODO
+      # Find a more efficient method to edit teks/kbbi4-*.txt files.
+      # gawk's inplace editing below is expensive.
+      # At least 7 processes, multiplied by 26 letters, is equal to 182 times
+      # it's opening - editing - saving the files. Ugly.
 
       # KBBI 2008 menggunakan drop cap letter pada halaman awal lema
       # Perintah berikut akan menghapus huruf yang berada di baris 1 tersebut
@@ -186,7 +184,7 @@ perbaiki_kata() {
 # MAIN -------------------------------------------------------------------------
 
 # Skrip hanya menerima satu argumen
-[[ $# -eq 0 || $# -gt 3 ]] && bantuan
+[[ $# -ne 1 ]] && bantuan
 
 # Periksa ketersediaan program yang dibutuhkan
 declare -a DEPS=(pdftotext gawk bash)
@@ -208,14 +206,14 @@ fi
 cd "$KBBIDIR" || exit
 
 if [[ ! -d $KBBIDIR/sumber ]]; then
-	teks_merah 'Tidak menemukan map sumber yang berisi berkas PDF KBBI.'
-	exit
+  teks_merah 'Tidak menemukan map sumber yang berisi berkas PDF KBBI.'
+  exit
 fi
 
 if [[ -d $KBBIDIR/teks ]]; then
-	teks_coklat 'Menemukan map teks yang mungkin berharga.
+  teks_coklat 'Menemukan map teks yang mungkin berharga.
 :: Pindahkan atau hapus map tersebut kemudian jalankan kembali skrip ini.'
-	exit
+  exit
 fi
 
 case $1 in
@@ -225,7 +223,7 @@ case $1 in
     perbaiki_kata
     rm teks/kbbi4-*.txt
     teks_hijau 'Selesai.                               '
-		teks_coklat "Lihat hasil konversi di: $KBBIDIR/teks"
+    teks_coklat "Lihat hasil konversi di: $KBBIDIR/teks"
   ;;
   -g|--gabung)
     kelompokkan_kata
