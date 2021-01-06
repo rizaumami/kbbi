@@ -73,19 +73,19 @@ bantuan() {
 
   Contoh penggunaan:
   1. Mengalihtuliskan PDF KBBI IV 2008 menjadi berkas teks biasa
-    ${0##*/} -a
+     ${0##*/} -a
   2. Seperti no.1, dan akan menghapus berkas (hasil penyuntingan) terdahulu
-    ${0##*/} -fa
+     ${0##*/} -fa
   3. Mengubah isi berkas PDF KBBI menjadi berkas teks
-    ${0##*/} -t
+     ${0##*/} -t
   4. Mengelompokkan berkas hasil OCR ke dalam berkas A.txt sampai Z.txt
-    ${0##*/} -g
+     ${0##*/} -g
   5. Menyunting berkas hasil OCR secara otomatis
-    ${0##*/} -u
+     ${0##*/} -u
   6. Seperti no.7, dan akan menghapus berkas (hasil penyuntingan) terdahulu
-    ${0##*/} -fu
+     ${0##*/} -fu
   7. Menampilkan teks bantuan ini
-    ${0##*/} -h
+     ${0##*/} -h
 "
   exit
 }
