@@ -37,154 +37,237 @@
 
 # Skrip ini bergantung pada map sumber yang terletak pada direktori yang sama
 # Dapatkan letak di mana skrip berada.
-readonly KBBIDIR=$(cd "$(dirname "$0")" || exit; pwd)
 readonly KBBI='sumber/Kamus-Besar-Bahasa-Indonesia.pdf'
 readonly LEMA='sumber/Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4.pdf'
+readonly KBBIDIR=$(cd "$(dirname "$0")" || exit; pwd)
+readonly KBBIDIROUT="$KBBIDIR/teks"
+readonly BCKPDIR="$KBBIDIR/backup"
+readonly TXTDIR="$KBBIDIROUT/hasil_pdftotext"
+readonly GROUPDIR="$KBBIDIROUT/hasil_pengelompokkan"
+readonly RESDIR="$KBBIDIROUT/hasil_akhir"
 
 # FUNCTIONS --------------------------------------------------------------------
 
 bantuan() {
   printf '%s\n' "
- ${0##*/} adalah skrip Bash untuk mengalihtuliskan Kamus Besar Bahasa Indonesia
- edisi IV tahun 2008 dari bentuk PDF ke bentuk teks biasa (plain text).
+  ${0##*/} adalah skrip Bash untuk mengalihtuliskan Kamus Besar Bahasa Indonesia
+  edisi IV tahun 2008 dari bentuk PDF ke bentuk teks biasa (plain text).
 
- Cara pakai: ${0##*/} PILIHAN
+  Cara pakai: ${0##*/} PILIHAN
 
- PILIHAN:
-  -a, --alihtulis  Mengalihtuliskan PDF KBBI IV 2008 menjadi berkas teks biasa
-  -g, --gabung     Gabungkan berkas teks berdasar huruf lema
-  -t, --teks       Ubah berkas PDF KBBI menjadi berkas teks
-  -u, --ubah       Perbaiki karakter hasil OCR yang salah
-  -h, --help       Tampilkan bantuan ini
+  PILIHAN:
+  -a    1. Mengalihtuliskan PDF KBBI IV 2008 menjadi berkas teks biasa
+        2. Mengelompokkan berkas teks berdasarkan huruf awal lema
+        3. Memperbaiki karakter yang keliru diubah OCR
+        Sama seperti menjalankan -t, -g, dan -u secara berurutan
+  -t    Mengalihtuliskan PDF KBBI IV 2008 menjadi berkas teks biasa
+  -g    Mengelompokkan berkas teks berdasarkan huruf awal lema (A sampai Z)
+  -u    Memperbaiki karakter yang keliru diubah Optical Character Recognition
+  -h    Tampilkan bantuan ini
 
- CONTOH:
-   ${0##*/} -a
-   ${0##*/} --alihtulis
-   ${0##*/} -g
-   ${0##*/} --gabung
-   ${0##*/} -t
-   ${0##*/} --teks
-   ${0##*/} -u
-   ${0##*/} --ubah
-   ${0##*/} -h
-   ${0##*/} --help
- "
+  Tambahkan huruf f di depan perintah -a dan -u (menjadi -fa dan -fu) agar skrip
+  secara otomatis menghapus berkas-berkas lama (yang mungkin telah Anda sunting).
+
+  Secara asali skrip akan mengambil jeda untuk menanyakan apa yang harus dilakukan
+  terhadap berkas-berkas terdahulu tersebut.
+
+  Contoh penggunaan:
+  1. Mengalihtuliskan PDF KBBI IV 2008 menjadi berkas teks biasa
+    ${0##*/} -a
+  2. Seperti no.1, dan akan menghapus berkas (hasil penyuntingan) terdahulu
+    ${0##*/} -fa
+  3. Mengubah isi berkas PDF KBBI menjadi berkas teks
+    ${0##*/} -t
+  4. Mengelompokkan berkas hasil OCR ke dalam berkas A.txt sampai Z.txt
+    ${0##*/} -g
+  5. Menyunting berkas hasil OCR secara otomatis
+    ${0##*/} -u
+  6. Seperti no.7, dan akan menghapus berkas (hasil penyuntingan) terdahulu
+    ${0##*/} -fu
+  7. Menampilkan teks bantuan ini
+    ${0##*/} -h
+"
   exit
 }
 
+teks (){ printf ':: - %s\n' "$@"; }
+
 # Tampilkan pesan berupa huruf tebal berwarna hijau
-teks_hijau() {
-  printf '\e[1;32m:: %s\n\e[m' "$@"
-}
+teks_hijau(){ printf '\e[1;32m:: %s\n\e[m' "$@"; }
 
 # Tampilkan pesan berupa huruf tebal berwarna coklat
-teks_coklat() {
-  printf '\e[1;33m:: %s\n\e[m' "$@"
-}
+teks_coklat(){ printf '\e[1;33m:: %s\n\e[m' "$@"; }
 
 # Tampilkan pesan berupa huruf tebal berwarna merah
-teks_merah() {
-  printf '\e[1;31m:: %s\n\e[m' "$@"
+teks_merah(){ printf '\e[1;31m:: %s\n\e[m' "$@"; }
+
+# Pengaman agar skrip tidak menghapus atau menimpa berkas-berkas yang ada
+# (dan mungkin telah disunting}
+berkas_lama() {
+  if [[ -e $1 ]]; then
+    if [[ $(find "$1" -type f -iname "*.txt" -printf '.' | wc -c) -gt 0 ]]; then
+      teks_coklat 'Terdapat berkas yang mungkin berharga.'
+      teks 'Ketik b untuk mencadangkannya' 'Ketik d untuk menghapusnya'
+      read -rp ':: - ' tanya
+
+      case "$tanya" in
+        b)
+          MAPBARU="${1##*/}_$(printf '%(%F_%H%M%S)T')"
+          cp -r "$1" "$BCKPDIR/$MAPBARU"
+          teks 'Map teks lama telah dicadangkan ke:' "$BCKPDIR/$MAPBARU"
+        ;;
+        d)
+          teks 'Isi map teks lama telah dihapus'
+        ;;
+        *)
+          teks_coklat 'Pindahkan atau hapus map tersebut kemudian jalankan kembali skrip ini.'
+          exit
+        ;;
+      esac
+      if [[ $1 == "$KBBIDIROUT" ]]; then
+        rm "$TXTDIR"/* "$GROUPDIR"/* "$RESDIR"/*
+      else
+        rm "$RESDIR"/*
+      fi
+    fi
+  fi
 }
 
 # Ubah pdf menjadi berkas biasa menggunakan pdftotext
 pdf_ke_teks() {
-  [[ -d 'teks' ]] || mkdir 'teks'
-
-  teks_hijau "Mengubah halaman PDF menjadi halaman teks biasa"
+  teks_hijau 'Mengubah halaman PDF menjadi halaman teks biasa'
   for i in {19..129}; do
-    printf ':: %s\r' "- Halaman ${i} -> $0/teks/kbbi4-$i.txt"
+    printf ':: - %s\r' "Halaman ${i} -> $TXTDIR/kbbi4-$i.txt"
     # Halaman untuk lema A memiliki tinggi bagian nomor yang berbeda dengan
     # halaman lainnya (sekitar 600 px pada resolusi 500 dpi)
-    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 600 -W 3250 -H 3636 "$KBBI" teks/kbbi4-"$i".txt
+    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 600 -W 3250 -H 3636 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
   done
 
   for i in {130..1490}; do
-    printf ':: %s\r' "- Halaman ${i} -> $0/teks/kbbi4-$i.txt"
-    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 436 -W 3250 -H 3800 "$KBBI" teks/kbbi4-"$i".txt
+    printf ':: - %s\r' "Halaman ${i} -> $TXTDIR/kbbi4-$i.txt"
+    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 436 -W 3250 -H 3800 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
   done
 
   # Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4 hanya akan diubah ke teks
   # untuk selanjutnya disunting secara manual
-  teks_hijau "Mengubah ${LEMA##*/} menjadi $0/teks/${LEMA##*/}.txt"
-  pdftotext -r 500 -eol unix -nopgbrk "$LEMA" teks/"${LEMA##*/}".txt
+  # printf ':: - %s\r' "${LEMA##*/} -> $TXTDIR/${LEMA##*/}.txt"
+  pdftotext -r 500 -eol unix -nopgbrk "$LEMA" "$TXTDIR/${LEMA##*/}".txt
 }
 
 # Kelompokkan kata berdasar huruf awal
 kelompokkan_kata() {
-  cat teks/kbbi4-{19..129}.txt > teks/kbbi4-A.txt
-  cat teks/kbbi4-{130..263}.txt > teks/kbbi4-B.txt
-  cat teks/kbbi4-{264..319}.txt > teks/kbbi4-C.txt
-  cat teks/kbbi4-{320..390}.txt > teks/kbbi4-D.txt
-  cat teks/kbbi4-{391..418}.txt > teks/kbbi4-E.txt
-  cat teks/kbbi4-{419..439}.txt > teks/kbbi4-F.txt
-  cat teks/kbbi4-{440..516}.txt > teks/kbbi4-G.txt
-  cat teks/kbbi4-{517..553}.txt > teks/kbbi4-H.txt
-  cat teks/kbbi4-{554..585}.txt > teks/kbbi4-I.txt
+  if [[ $(find "$TXTDIR" -type f -iname "*.txt" -printf '.' | wc -c) == 0 ]]; then
+    teks_merah 'Berkas hasil konversi PDF ke teks tidak ditemukan.' \
+               "Jalankan ${0##*/} -t terlebih dahulu."
+    exit
+  fi
+
+  # Pindah ke dalam TXTDIR agar baris perintah lebih pendek
+  cd "$TXTDIR" || exit
+
+  cat kbbi4-{19..129}.txt > "$GROUPDIR"/kbbi4-A.txt
+  cat kbbi4-{130..263}.txt > "$GROUPDIR"/kbbi4-B.txt
+  cat kbbi4-{264..319}.txt > "$GROUPDIR"/kbbi4-C.txt
+  cat kbbi4-{320..390}.txt > "$GROUPDIR"/kbbi4-D.txt
+  cat kbbi4-{391..418}.txt > "$GROUPDIR"/kbbi4-E.txt
+  cat kbbi4-{419..439}.txt > "$GROUPDIR"/kbbi4-F.txt
+  cat kbbi4-{440..516}.txt > "$GROUPDIR"/kbbi4-G.txt
+  cat kbbi4-{517..553}.txt > "$GROUPDIR"/kbbi4-H.txt
+  cat kbbi4-{554..585}.txt > "$GROUPDIR"/kbbi4-I.txt
   # Tidak ada lema J di berkas PDF KBBI 2008
-  #cat teks/kbbi4-{..}.txt > teks/kbbi4-J.txt
-  cat teks/kbbi4-{586..764}.txt > teks/kbbi4-K.txt
-  cat teks/kbbi4-{765..866}.txt > teks/kbbi4-L.txt
-  cat teks/kbbi4-{867..968}.txt > teks/kbbi4-M.txt
-  cat teks/kbbi4-{969..989}.txt > teks/kbbi4-N.txt
-  cat teks/kbbi4-{990..1002}.txt > teks/kbbi4-O.txt
+  #cat kbbi4-{..}.txt > "$GROUPDIR"/kbbi4-J.txt
+  cat kbbi4-{586..764}.txt > "$GROUPDIR"/kbbi4-K.txt
+  cat kbbi4-{765..866}.txt > "$GROUPDIR"/kbbi4-L.txt
+  cat kbbi4-{867..968}.txt > "$GROUPDIR"/kbbi4-M.txt
+  cat kbbi4-{969..989}.txt > "$GROUPDIR"/kbbi4-N.txt
+  cat kbbi4-{990..1002}.txt > "$GROUPDIR"/kbbi4-O.txt
   # Tidak ada lema P di berkas PDF KBBI 2008
-  #cat teks/kbbi4-{..}.txt > teks/kbbi4-P.txt
-  cat teks/kbbi4-1003.txt > teks/kbbi4-Q.txt
-  cat teks/kbbi4-{1004..1092}.txt > teks/kbbi4-R.txt
-  cat teks/kbbi4-{1093..1259}.txt > teks/kbbi4-S.txt
-  cat teks/kbbi4-{1260..1430}.txt > teks/kbbi4-T.txt
-  cat teks/kbbi4-{1431..1459}.txt > teks/kbbi4-U.txt
-  cat teks/kbbi4-{1460..1467}.txt > teks/kbbi4-V.txt
-  cat teks/kbbi4-{1468..1481}.txt > teks/kbbi4-W.txt
-  cat teks/kbbi4-1482.txt > teks/kbbi4-X.txt
-  cat teks/kbbi4-{1483..1485}.txt > teks/kbbi4-Y.txt
-  cat teks/kbbi4-{1486..1490}.txt > teks/kbbi4-Z.txt
+  #cat kbbi4-{..}.txt > "$GROUPDIR"/kbbi4-P.txt
+  cat kbbi4-1003.txt > "$GROUPDIR"/kbbi4-Q.txt
+  cat kbbi4-{1004..1092}.txt > "$GROUPDIR"/kbbi4-R.txt
+  cat kbbi4-{1093..1259}.txt > "$GROUPDIR"/kbbi4-S.txt
+  cat kbbi4-{1260..1430}.txt > "$GROUPDIR"/kbbi4-T.txt
+  cat kbbi4-{1431..1459}.txt > "$GROUPDIR"/kbbi4-U.txt
+  cat kbbi4-{1460..1467}.txt > "$GROUPDIR"/kbbi4-V.txt
+  cat kbbi4-{1468..1481}.txt > "$GROUPDIR"/kbbi4-W.txt
+  cat kbbi4-1482.txt > "$GROUPDIR"/kbbi4-X.txt
+  cat kbbi4-{1483..1485}.txt > "$GROUPDIR"/kbbi4-Y.txt
+  cat kbbi4-{1486..1490}.txt > "$GROUPDIR"/kbbi4-Z.txt
+
+  # Pilah lema tertinggal sesuai huruf awal kata
+  gawk "NR==20,NR==105" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-A.txt
+  gawk "NR==106,NR==211" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-B.txt
+  gawk "NR==213,NR==216" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-C.txt
+  gawk "NR==218,NR==237" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-D.txt
+  gawk "NR==239,NR==258" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-E.txt
+  gawk "NR==260,NR==299" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-G.txt
+  gawk "NR==301,NR==304" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-H.txt
+  gawk "NR==306,NR==384" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-K.txt
+  gawk "NR==386,NR==398" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-L.txt
+  gawk "NR==400,NR==408" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-M.txt
+  gawk "NR==412,NR==419" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-N.txt
+  gawk "NR==421,NR==428" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-O.txt
+  gawk "NR==431,NR==463" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-P.txt
+  gawk "NR==466,NR==473" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-R.txt
+  gawk "NR==475,NR==499" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-S.txt
+  gawk "NR==502,NR==504" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-T.txt
+  gawk "NR==506,NR==508" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-U.txt
 }
 
 # Perbaiki kata hasil konversi pdftotext
 perbaiki_kata() {
-  for i in {A..Z}; do
-    if [[ -f teks/kbbi4-$i.txt ]]; then
-      printf '\e[1;33m:: %s\r\e[m' "Memperbaiki kata di berkas $i"
+  if [[ $(find "$GROUPDIR" -type f -iname "kbbi4-?.txt" -printf '.' | wc -c) == 0 ]]; then
+    teks_merah 'Berkas hasil penggabungan tidak ditemukan.' \
+               "Jalankan ${0##*/} -g terlebih dahulu."
+    exit
+  fi
 
-      # TODO
-      # Find a more efficient method to edit teks/kbbi4-*.txt files.
-      # gawk's inplace editing below is expensive.
-      # At least 7 processes, multiplied by 26 letters, is equal to 182 times
-      # it's opening - editing - saving the files. Ugly.
+  teks_hijau 'Memperbaiki karakter yang keliru diubah OCR'
+  for i in kbbi4-{A..Z} lema-tertinggal-{A..Z}; do
+    if [[ -f $GROUPDIR/$i.txt ]]; then
+      printf ':: - %s\r' "dalam lema $i"
 
-      # KBBI 2008 menggunakan drop cap letter pada halaman awal lema
-      # Perintah berikut akan menghapus huruf yang berada di baris 1 tersebut
-      gawk -i inplace 'NR>1' "teks/kbbi4-$i.txt"
+      HURUF="${i##*-}"
 
-      # Hapus baris kosong
-      gawk -i inplace 'NF' "teks/kbbi4-$i.txt"
+      # And here is the black magic...
+      # 1. KBBI 2008 menggunakan angka di depan lema yang memiliki banyak arti
+      #    Angka tersebut dirasa tidak penting dan akan dihapus
+      # 2. Ubah dash (yang aslinya berupa double dash) menjadi double dash
+      # 3. Ubah tanda kutip “ atau ” menjadi "
+      # 4. Ubah "ĺ" menjadi "->"
+      # 5. Ubah " o " menjadi "->" pada baris di bawah 5 kolom
+      # 6. Gabung baris berdasar lema.
+      gawk -v huruf="^[$HURUF${HURUF,,}]" '
+        {
+          !/^[[:digit:]]$/
+          / -[[:alnum:]]/gsub(" -", " -- ")
+          gsub("[“”]", "\"")
+          gsub("ĺ", "->")
+          /NF<5/gsub(" o ", "->")
+        }
+        $0 ~ huruf {
+          if (x && NF>1)
+            print x
+          else
+            print x" "$0
 
-      # pdftotext gagal menerjemahkan beberapa karakter
-      # Ubah dash (yang aslinya berupa double dash) menjadi double dash
-      gawk -i inplace '/ -[[:alnum:]]/{gsub(" -", " -- ")};1' "teks/kbbi4-$i.txt"
-      # Ubah tanda kutip
-      gawk -i inplace '{gsub("[“”]", "\"")};1' "teks/kbbi4-$i.txt"
-      # Ubah ĺ menjadi ->
-      gawk -i inplace '{gsub("ĺ", "->")};1' "teks/kbbi4-$i.txt"
-      # Ubah o menjadi -> pada baris di bawah 5 kolom
-      gawk -i inplace 'NF<5 {gsub(" o ", "->")};1' "teks/kbbi4-$i.txt"
-
-      # KBBI 2008 menggunakan angka di depan lema yang memiliki banyak arti
-      # Angka tersebut dirasa tidak penting dan akan dihapus oleh perintah berikut
-      gawk -i inplace '!/^[[:digit:]]$/' "teks/kbbi4-$i.txt"
-
-      # Gabung baris berdasar lema
-      gawk -v huruf=^"[$i${i,,}]" '$0 ~ huruf {if (x)print x;x="";}{x=(!x)?$0:x" "$0;}END{print x;}' "teks/kbbi4-$i.txt" > "teks/$i.txt"
+          x=""
+        }{
+          x=(!x) ? $0 : x" "$0;
+        }
+        ENDFILE {
+          print x;
+        }
+      ' "$GROUPDIR/$i.txt" > "$RESDIR/$i.txt"
+      # Buang baris yang hanya memiliki satu kolom:
+      # 1. baris paling atas yang hanya memiliki satu huruf
+      # 2. baris yang memiliki satu kata dengan awalan huruf lema
+      gawk -i inplace 'NF>1' "$RESDIR/$i.txt"
     fi
   done
 }
 
 # MAIN -------------------------------------------------------------------------
-
-# Skrip hanya menerima satu argumen
-[[ $# -ne 1 ]] && bantuan
 
 # Periksa ketersediaan program yang dibutuhkan
 declare -a DEPS=(pdftotext gawk bash)
@@ -198,7 +281,7 @@ done
 if [[ "${#DEPS[@]}" -gt 0 ]]; then
   teks_merah 'Ada paket yang dibutuhkan tidak ada dalam sistem.'
   teks_coklat 'Pasang paket berikut sesuai distro yang digunakan:'
-  printf '   - %s\n' "${DEPS[@]}"
+  teks "${DEPS[@]}"
   exit
 fi
 
@@ -207,34 +290,43 @@ cd "$KBBIDIR" || exit
 
 if [[ ! -d $KBBIDIR/sumber ]]; then
   teks_merah 'Tidak menemukan map sumber yang berisi berkas PDF KBBI.'
+  teks 'Pastikan terdapat map bernama sumber yang berisi' "${KBBI##*/} dan" \
+       "${LEMA##*/}"
   exit
 fi
 
-if [[ -d $KBBIDIR/teks ]]; then
-  teks_coklat 'Menemukan map teks yang mungkin berharga.
-:: Pindahkan atau hapus map tersebut kemudian jalankan kembali skrip ini.'
-  exit
-fi
+mkdir -p "$BCKPDIR" "$TXTDIR" "$GROUPDIR" "$RESDIR"
 
-case $1 in
-  -a|--alihtulis)
+case "$1" in
+  -a|-fa)
+    if [[ $1 == '-fa' ]]; then
+      rm "$TXTDIR"/* "$GROUPDIR"/* "$RESDIR"/*
+    else
+      berkas_lama "$KBBIDIROUT"
+    fi
     pdf_ke_teks
     kelompokkan_kata
     perbaiki_kata
-    rm teks/kbbi4-*.txt
-    teks_hijau 'Selesai.                               '
-    teks_coklat "Lihat hasil konversi di: $KBBIDIR/teks"
+    teks_coklat 'Lihat hasil konversi di:          '
+    teks "$RESDIR"
   ;;
-  -g|--gabung)
-    kelompokkan_kata
-  ;;
-  -t|--teks)
+  -t)
     pdf_ke_teks
   ;;
-  -u|--ubah)
+  -g)
+    kelompokkan_kata
+  ;;
+  -u|-fu)
+    if [[ $1 == '-fu' ]]; then
+      rm "$RESDIR"/*
+    else
+      berkas_lama "$RESDIR"
+    fi
     perbaiki_kata
   ;;
-  -h|--help|*)
+  *)
     bantuan
   ;;
 esac
+
+teks_hijau 'Selesai.                 '
