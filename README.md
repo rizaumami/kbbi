@@ -49,7 +49,7 @@ kbbi4 -h
      kbbi4 -g
   5. Menyunting berkas hasil OCR secara otomatis
      kbbi4 -u
-  6. Seperti no.7, dan akan menghapus berkas (hasil penyuntingan) terdahulu
+  6. Seperti no.5, dan akan menghapus berkas (hasil penyuntingan) terdahulu
      kbbi4 -fu
   7. Menampilkan teks bantuan ini
      kbbi4 -h

@@ -82,7 +82,7 @@ bantuan() {
      ${0##*/} -g
   5. Menyunting berkas hasil OCR secara otomatis
      ${0##*/} -u
-  6. Seperti no.7, dan akan menghapus berkas (hasil penyuntingan) terdahulu
+  6. Seperti no.5, dan akan menghapus berkas (hasil penyuntingan) terdahulu
      ${0##*/} -fu
   7. Menampilkan teks bantuan ini
      ${0##*/} -h
@@ -125,9 +125,9 @@ berkas_lama() {
         ;;
       esac
       if [[ $1 == "$KBBIDIROUT" ]]; then
-        rm "$TXTDIR"/* "$GROUPDIR"/* "$RESDIR"/*
+        rm -f "$TXTDIR"/* "$GROUPDIR"/* "$RESDIR"/*
       else
-        rm "$RESDIR"/*
+        rm -f "$RESDIR"/*
       fi
     fi
   fi
@@ -300,7 +300,7 @@ mkdir -p "$BCKPDIR" "$TXTDIR" "$GROUPDIR" "$RESDIR"
 case "$1" in
   -a|-fa)
     if [[ $1 == '-fa' ]]; then
-      rm "$TXTDIR"/* "$GROUPDIR"/* "$RESDIR"/*
+      rm -f "$TXTDIR"/* "$GROUPDIR"/* "$RESDIR"/*
     else
       berkas_lama "$KBBIDIROUT"
     fi
@@ -318,7 +318,7 @@ case "$1" in
   ;;
   -u|-fu)
     if [[ $1 == '-fu' ]]; then
-      rm "$RESDIR"/*
+      rm -f "$RESDIR"/*
     else
       berkas_lama "$RESDIR"
     fi
