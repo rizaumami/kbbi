@@ -37,7 +37,7 @@
 
 # Skrip ini bergantung pada map sumber yang terletak pada direktori yang sama
 # Dapatkan letak di mana skrip berada.
-readonly KBBI='sumber/Kamus-Besar-Bahasa-Indonesia.pdf'
+readonly KBBI='sumber/KBBI-IV.pdf'
 readonly LEMA='sumber/Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4.pdf'
 readonly KBBIDIR=$(cd "$(dirname "$0")" || exit; pwd)
 readonly KBBIDIROUT="$KBBIDIR/teks"
@@ -136,16 +136,17 @@ berkas_lama() {
 # Ubah pdf menjadi berkas biasa menggunakan pdftotext
 pdf_ke_teks() {
   teks_hijau 'Mengubah halaman PDF menjadi halaman teks biasa'
-  for i in {19..129}; do
-    printf ':: - %s\r' "Halaman ${i} -> $TXTDIR/kbbi4-$i.txt"
-    # Halaman untuk lema A memiliki tinggi bagian nomor yang berbeda dengan
-    # halaman lainnya (sekitar 600 px pada resolusi 500 dpi)
-    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 600 -W 3250 -H 3636 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
-  done
+  # dengan file kbbi baru, tinggi nomor sudah tidak bermasalah
+  #for i in {19..129}; do
+  #  printf ':: - %s\r' "Halaman ${i} -> $TXTDIR/kbbi4-$i.txt"
+  #  # Halaman untuk lema A memiliki tinggi bagian nomor yang berbeda dengan
+  #  # halaman lainnya (sekitar 600 px pada resolusi 500 dpi)
+  #  pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 600 -W 3250 -H 3636 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
+  #done
 
-  for i in {130..1490}; do
+  for i in {19..1844}; do
     printf ':: - %s\r' "Halaman ${i} -> $TXTDIR/kbbi4-$i.txt"
-    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 436 -W 3250 -H 3800 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
+    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 450 -W 3250 -H 3800 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
   done
 
   # Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4 hanya akan diubah ke teks
@@ -165,34 +166,32 @@ kelompokkan_kata() {
   # Pindah ke dalam TXTDIR agar baris perintah lebih pendek
   cd "$TXTDIR" || exit
 
-  cat kbbi4-{19..129}.txt > "$GROUPDIR"/kbbi4-A.txt
-  cat kbbi4-{130..263}.txt > "$GROUPDIR"/kbbi4-B.txt
-  cat kbbi4-{264..319}.txt > "$GROUPDIR"/kbbi4-C.txt
-  cat kbbi4-{320..390}.txt > "$GROUPDIR"/kbbi4-D.txt
-  cat kbbi4-{391..418}.txt > "$GROUPDIR"/kbbi4-E.txt
-  cat kbbi4-{419..439}.txt > "$GROUPDIR"/kbbi4-F.txt
-  cat kbbi4-{440..516}.txt > "$GROUPDIR"/kbbi4-G.txt
-  cat kbbi4-{517..553}.txt > "$GROUPDIR"/kbbi4-H.txt
-  cat kbbi4-{554..585}.txt > "$GROUPDIR"/kbbi4-I.txt
-  # Tidak ada lema J di berkas PDF KBBI 2008
-  #cat kbbi4-{..}.txt > "$GROUPDIR"/kbbi4-J.txt
-  cat kbbi4-{586..764}.txt > "$GROUPDIR"/kbbi4-K.txt
-  cat kbbi4-{765..866}.txt > "$GROUPDIR"/kbbi4-L.txt
-  cat kbbi4-{867..968}.txt > "$GROUPDIR"/kbbi4-M.txt
-  cat kbbi4-{969..989}.txt > "$GROUPDIR"/kbbi4-N.txt
-  cat kbbi4-{990..1002}.txt > "$GROUPDIR"/kbbi4-O.txt
-  # Tidak ada lema P di berkas PDF KBBI 2008
-  #cat kbbi4-{..}.txt > "$GROUPDIR"/kbbi4-P.txt
-  cat kbbi4-1003.txt > "$GROUPDIR"/kbbi4-Q.txt
-  cat kbbi4-{1004..1092}.txt > "$GROUPDIR"/kbbi4-R.txt
-  cat kbbi4-{1093..1259}.txt > "$GROUPDIR"/kbbi4-S.txt
-  cat kbbi4-{1260..1430}.txt > "$GROUPDIR"/kbbi4-T.txt
-  cat kbbi4-{1431..1459}.txt > "$GROUPDIR"/kbbi4-U.txt
-  cat kbbi4-{1460..1467}.txt > "$GROUPDIR"/kbbi4-V.txt
-  cat kbbi4-{1468..1481}.txt > "$GROUPDIR"/kbbi4-W.txt
-  cat kbbi4-1482.txt > "$GROUPDIR"/kbbi4-X.txt
-  cat kbbi4-{1483..1485}.txt > "$GROUPDIR"/kbbi4-Y.txt
-  cat kbbi4-{1486..1490}.txt > "$GROUPDIR"/kbbi4-Z.txt
+  cat kbbi4-{19..126}.txt > "$GROUPDIR"/kbbi4-A.txt
+  cat kbbi4-{127..261}.txt > "$GROUPDIR"/kbbi4-B.txt
+  cat kbbi4-{262..316}.txt > "$GROUPDIR"/kbbi4-C.txt
+  cat kbbi4-{317..391}.txt > "$GROUPDIR"/kbbi4-D.txt
+  cat kbbi4-{392..421}.txt > "$GROUPDIR"/kbbi4-E.txt
+  cat kbbi4-{422..444}.txt > "$GROUPDIR"/kbbi4-F.txt
+  cat kbbi4-{445..528}.txt > "$GROUPDIR"/kbbi4-G.txt
+  cat kbbi4-{529..582}.txt > "$GROUPDIR"/kbbi4-H.txt
+  cat kbbi4-{583..621}.txt > "$GROUPDIR"/kbbi4-I.txt
+  cat kbbi4-{622..668}.txt > "$GROUPDIR"/kbbi4-J.txt
+  cat kbbi4-{669..867}.txt > "$GROUPDIR"/kbbi4-K.txt
+  cat kbbi4-{868..977}.txt > "$GROUPDIR"/kbbi4-L.txt #Kesalahan entri ke-1: tidak ada koma diantara L dan l
+  cat kbbi4-{978..1079}.txt > "$GROUPDIR"/kbbi4-M.txt
+  cat kbbi4-{1080..1100}.txt > "$GROUPDIR"/kbbi4-N.txt
+  cat kbbi4-{1101..1114}.txt > "$GROUPDIR"/kbbi4-O.txt #Kesalahan pdf: menyatakan bahwa O huruf ke-5 (typo)
+  cat kbbi4-{1115..1258}.txt > "$GROUPDIR"/kbbi4-P.txt
+  cat kbbi4-1259.txt > "$GROUPDIR"/kbbi4-Q.txt
+  cat kbbi4-{1260..1351}.txt > "$GROUPDIR"/kbbi4-R.txt
+  cat kbbi4-{1352..1597}.txt > "$GROUPDIR"/kbbi4-S.txt
+  cat kbbi4-{1598..1783}.txt > "$GROUPDIR"/kbbi4-T.txt
+  cat kbbi4-{1784..1813}.txt > "$GROUPDIR"/kbbi4-U.txt
+  cat kbbi4-{1814..1821}.txt > "$GROUPDIR"/kbbi4-V.txt
+  cat kbbi4-{1822..1835}.txt > "$GROUPDIR"/kbbi4-W.txt
+  cat kbbi4-1836.txt > "$GROUPDIR"/kbbi4-X.txt
+  cat kbbi4-{1837..1839}.txt > "$GROUPDIR"/kbbi4-Y.txt
+  cat kbbi4-{1840..1844}.txt > "$GROUPDIR"/kbbi4-Z.txt
 
   # Pilah lema tertinggal sesuai huruf awal kata
   gawk "NR==20,NR==105" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-A.txt

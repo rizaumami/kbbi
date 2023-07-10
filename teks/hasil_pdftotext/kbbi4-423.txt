@@ -1,0 +1,80 @@
+faktor n 1 hal (keadaan, peristiwa) yg
+ikut menyebabkan (mempengaruhi)
+terjadinya sesuatu; 2 bilangan (atau
+bangun) yg merupakan bagian hasil
+perbanyakan;
+-- agihan Fis perubahan pengaruh
+sinaran (radiasi) sistem biologi yg
+disebabkan oleh agihan takseragam dr
+radioisotop yg masuk ke, dan
+mengeram di, dl sistem itu, spt radium
+yg cenderung mengumpul di tulang;
+faktor distribusi; -- awacemaran Fis
+nisbah keradioaktifan-jenis awal thd
+keradioaktifan-jenis akhir sebagai
+akibat pemisahan; faktor dekontaminasi;
+-- bilangan bulat Mat
+bilangan bulat yg menjadi faktor dr
+satu atau lebih bilangan bulat yg
+diberikan; -- biotik faktor lingkungan
+yg merupakan hasil dr organisme hidup
+dl kegiatan berbeda dr faktor fisik
+kimia, spt persaingan dan predasi; -diabetogen Kim faktor yg menimbulkan gejala diabetes (hiperglikemia,
+glukosuria, dan hetosis), yg melawan
+kerja hormon insulin;
+-- edafilik
+keadaan tanah yg berpengaruh thd
+tumbuhan (ditentukan oleh faktor fisik,
+kimiawi, tumbuhan, dan hewan tanah);
+-- ekologi setiap kondisi lingkungan yg
+memengaruhi kehidupan satu atau
+lebih organisme; -- derau Fis nisbah
+daya derau total per satuan lebar-pita
+ke terminal keluaran pd frekuensi
+keluaran yg bersangkutan, thd sebagian
+dr daya derau tsb yg dihasilkan oleh
+terminasi masukan pd frekuensi isyarat
+masuk pd suhu derau standar 290 K;
+gambaran derau; -- emisi Kim nisbah
+banyaknya pencemar yg diluahkan thd
+pencemar yg dihasilkan; -- fungsional
+Man faktor yg berpengaruh langsung
+
+thd pelaksanaan dan hasil pelaksanaan
+suatu pekerjaan; -- gesekan Kim
+bilangan tanpa dimensi yg digunakan
+dl pengkajian gejala gesekan; -integral Mat pd persamaan diferensial,
+suatu fungsi yg apabila dikalikan dng
+persamaan diferensial, maka persamaan diferensial tsb dapat diintegralkan; -- intrinsik Kim faktor
+mutlak diperlukan dl suatu proses, msl
+mukoprotein dl getah lambung yg
+bersenyawa dng vitamin B12 bebas dan
+membantu absorpsi vitamin itu dr dl
+usus; faktor hakiki; -- kebolehjadian
+Kim faktor (tetapan) yg berharga satu
+untuk fungsi gelombang yg normal
+atau ternormalkan; faktor probabilitas;
+-- keruh Met perbandingan antara
+koefisien penghilangan atmosfer sejati
+dan koefisien penghilangan molekul; -kompresibilitas Kim faktor penunjuk
+penyimpangan gas dr sifat keidealan
+(faktor ini berharga satu untuk gas
+ideal) yg merupakan fungsi dr
+temperatur dan tekanan; -- konversi
+faktor yg dipakai untuk mengkonversi
+satuan fisik spt liter, barel, ton, dan
+kubik untuk dijadikan satuan energi spt
+joule, btu, kesetaraan thd batu bara
+(tce), kesetaraan thd minyak bumi (boe
+atau toe); -- lingkungan faktor fisika,
+kimia, hayati, budaya, estetika, dan
+lain-lain yg memberikan sumbangan
+kpd kualitas hidup; -- motivasi Man
+faktor yg memengaruhi perasaan para
+karyawan tt pekerjaan, msl sifat
+pekerjaan, prestasi kerja, dan tanggung
+jawab; -- pembatas Ikn segala
+komponen lingkungan yg esensial bagi
+kehidupan dan pertumbuhan yg berada
+dl keadaan kurang sehingga menghambat produksi, spt suhu dan
+

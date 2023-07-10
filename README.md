@@ -2,7 +2,7 @@
 
 <p align="center">Kamus Besar Bahasa Indonesia Edisi IV
 
-Repo `kbbi` ini adalah upaya untuk mengalihtuliskan berkas PDF [Kamus Besar Bahasa Indonesia edisi IV](http://bse.mahoni.com/data/umum/Kamus_Bahasa_Indonesia_2008.pdf) terbitan [Pusat Bahasa Departemen Pendidikan Nasional](http://badanbahasa.kemdikbud.go.id) menjadi berkas teks biasa (_plain text_).
+Repo `kbbi` ini adalah upaya untuk mengalihtuliskan berkas PDF [Kamus Besar Bahasa Indonesia edisi IV](https://oldi.lipi.go.id/public/Kamus%20Indonesia.pdf) terbitan [Pusat Bahasa Departemen Pendidikan Nasional](http://badanbahasa.kemdikbud.go.id) menjadi berkas teks biasa (_plain text_).
 
 Script `kbbi4` membutuhkan paket-paket berikut:
 
