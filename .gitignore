@@ -1,6 +1,6 @@
 CHECKED
 **/*.tmp
 backup
-teks/hasil_pdftoteks/*
+teks/hasil_pdftotext/*
 teks/hasil_pengelompokkan/*
 backup/*
