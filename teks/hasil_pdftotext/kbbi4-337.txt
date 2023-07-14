@@ -1,0 +1,93 @@
+mendasarkan v memakai sbg dasar (alasan
+   dsb): ia ~ pendapatnya itu pd dugaan dan
+   kata orang saja
+2
+  dasar n Mat dalam bentuk a , besaran a
+                                n
+
+   dinamakan bilangan dasar dan n
+   dinamakan pangkatnya
+ -- sistem bilangan n Mat dasar untuk
+   melakukan perhitungan, setiap bilangan
+   selalu dapat dituliskan dalam bentuk cn
+    n        n-l     1    0
+   b +cn-1 b ++c1 b +c0b ; b disebut dasar
+   sistem bilangan dan c merupakan
+   bilangan bulat positif yang lebih kecil
+   dari b
+ -- sistem logaritma n Mat bilangan a yang
+   merupakan dasar dari fungsi logaritma
+   dari suatu bilangan positif; jika suatu
+                                        a
+   logaritma mempunyai basis a, maka log
+                 x
+   M = x bila a = M
+3
+  dasar n Fis komponen frekuensi terendah
+   dalam gelombang kompleks; juga disebut
+   harmonik pertama, larasan dasar atau
+   komponen fundamental
+dasasila n sepuluh ketentuan dasar;
+ -- bandung sepuluh ketentuan dasar yg
+   merupakan hasil keputusan konferensi
+   Asia-Afrika di Bandung pd tahun 1955
+dasawarsa n sepuluh tahun: peringatan --
+   berdirinya Ikatan Dokter Indonesia
+dasawindu num sepuluh windu (80 tahun)
+dasi n perlengkapan pakaian yg dibuat dr
+   sutra dsb, dipasang (dikalungkan) pd
+   leher kemeja dan bergantung di dada;
+ -- askot dasi lebar dng lipit-lipit yg
+   membuat dasi itu mengecil pd bagian yg
+   mengikat leher, diikatkan secara longgar
+   dan dipakai di belakang kerah yg terbuka
+ -- kupu-kupu dasi pendek yg simpulnya
+   spt sayap kupu-kupu;
+berdasi memakai dasi
+dasimeter /dasiméter/ n Kim instrumen
+   untuk mengukur panas yg hilang dr
+   sebuah tungku dng cara analisis gas yg
+   terbuang
+dasipur n keluarga bintang yg bersabuk
+daster n gaun wanita yg dibuat longgar
+   untuk dipakai di rumah
+dasun n bawang putih, Allium sativum;
+ -- tunggal 1 bawang putih yg tunggal; 2 ki
+   bentuk hidung yg elok: hidungnya bak ~;
+mendasun, ~ tunggal Sas elok sbg dasun
+   tunggal (tt bentuk hidung yg elok)
+dat n yg menyebabkan sesuatu menjadi
+   ada; wujud
+1
+ data n 1 kenyataan yg ada yg berfungsi
+   sbg bahan sumber untuk menyusun suatu
+   pendapat; 2 keterangan yg benar:
+   pengumpulan — untuk memperoleh
+   keterangan tt kehidupan petani; 3
+   keterangan atau bahan yg dipakai untuk
+   penalaran atau penyelidikan
+ -- analog Komp data yg dinyatakan dl
+   bentuk bersinambung
+ -- dasar pasien data yg diperoleh dr klien
+   atau pasien yg dapat dijadikan dasar oleh
+   tenaga kesehatan untuk melakukan
+   tindakan atau pelayanan kesehatan
+ -- kategoris Komp data yg diperoleh sbg
+   hasil pengukuran dng skala yg
+   berkategori
+ -- langsung Komp data yg langsung
+   diberikan dl instruksi
+ -- lisan data yg diperoleh melalui tutur
+   kata;
+ -- numerik data yg hanya berisi
+   sekumpulan angka
+ -- pribadi data yg berkenaan dng ciri
+   responden msl diri; nama, umur, jenis
+   kelamin, alamat, dsb;
+ -- termodinamika n Kim data yang berupa
+   panas, kerja, entalpi, dan bentuk energi
+   lainnya
+pendataan pengumpulan data pencarian
+   data
+mendatakan v 1 mengambil sbg data; 2
+   memasukkan data;

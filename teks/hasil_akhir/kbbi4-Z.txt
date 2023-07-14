@@ -112,7 +112,23 @@ zohrah n nama salah satu bintang siarah;  Venus
 zoidiofoli n Bio penyerbukan bunga oleh  hewan
 zoidiogami n Bio pembuahan oleh gamet  jantan motil
 zombi n mayat hidup
-zona n  salah satu dr Iima bagian besar  permukaan bumi yg dibatasi oleh garisgaris khayal di sekeliling bumi sejajar  dng khatulistiwa (satu zona tropik, dua  zona sedang, dan dua zone kutub); jalur  iklim;  daerah yg ditandai dng kehidupan jenis binatang atau tumbuhan tertentu  yg juga ditentukan oleh kondisi-kondisi  tertentu dr sekitarnya;  daerah (dl kota)  dng pembatasan pembatasan khusus;  kawasan;  -- ekonomi eksklusif wilayah Iaut sejauh  m dr pantai suatu negara yg kekayaan ekonominya (msl ikan, sumber  alam) menjadi hak milik negara itu;  -- fotik Iapisan permukaan air yg terkena  sinar matahari; -- Iitoral daerah pantai yg  biasanya sampai kedalaman kurang Iebih  meter; -- netral daerah perbatasan  antara dua atau beberapa negara yg tidak  boleh dijadikan tempat-tempat pasukan  tentara, tempat kubu-kubu pertahanan  dsb; -- pasang surut daerah bagian pantai yg terletak antara batas surut terendah  dan pasang tertinggi;  kit pes yg merupakan penyakit tikus)  secara Iangsung atau ditularkan melalui  serangga
+zona n  salah satu dr Iima bagian besar  permukaan bumi yg dibatasi oleh garisgaris khayal di sekeliling bumi sejajar  dng khatulistiwa (satu zona tropik, dua  zona sedang, dan dua zone kutub); jalur  iklim;  daerah yg ditandai dng kehidupan jenis binatang atau tumbuhan tertentu  yg juga ditentukan oleh kondisi-kondisi  tertentu dr sekitarnya;  daerah (dl kota)  dng pembatasan pembatasan khusus;  kawasan;  -- ekonomi eksklusif wilayah Iaut sejauh  m dr pantai suatu negara yg kekayaan ekonominya (msl ikan, sumber  alam) menjadi hak milik negara itu;  -- fotik Iapisan permukaan air yg terkena  sinar matahari; -- Iitoral daerah pantai yg  biasanya sampai kedalaman kurang Iebih  meter; -- netral daerah perbatasan  antara dua atau beberapa negara yg tidak  boleh dijadikan tempat-tempat pasukan  tentara, tempat kubu-kubu pertahanan  dsb; -- pasang surut daerah bagian pantai yg terletak antara batas surut terendah  dan pasang tertinggi;  -- pemanfaatan area di sekitar kawasan  Iindung yg dapat dimanfaatkan oleh  masyarakat; dilakukan dng tetap memperhatikan kelestariannya ekosistem  setempat;  -- pembuangan zona tertentu yg digunakan sbg tempat dan wadah buangan dl  bentuk padat atau cair
+zonal a berkaitan dng zona
+zonasi n perzonaan
+zoobentos /zoobéntos/ n Bio hewan yg  hidup dl danau atau Iaut
+zoobiotik n Bio makhluk hidup sbg parasit  hewan
+zooekologi /zooékologi/ n Bio penelaahan  hubungan hewan dng Iingkungannya
+zoofag n Bio makanan hewan
+zoofili n Bio tumbuhan yg diserbuki oleh  hewan selain serangga
+zoofit n binatang Iaut tidak bertulang belakang, mempunyai bentuk bercabang sehingga menyerupai tumbuhan (bunga  karang dsb)
+zooflagelata /zooflagélata/ n protozoa yg  menyerap benda organik ke dl tubuhnya,  bersifat parasit
+zoogamet /zoogamét/ n Bio gamet yg mampu mengembara krn memiliki flagela  penggerak; planogamet
+zoogenesis /zoogénésis/ n Bio perkembangan dan evolusi jenis hewan; ontogeni
+zoogenetika /zoogénétika/ n Bio cabang  genetika yg mendalami kebakaan dan  variasi hewan
+zoogeogenesis /zoogéogénésis/ n Bio asalusul dan kehidupan hewan di bumi
+zoologi n ilmu tt kehidupan binatang dan  pembuatan klasifikasi aneka macam bentuk binatang di dunia
+zoonomi n Bio penelaahan fisiologi hewan
+zoonosis n Tern penyakit pd binatang yg  dapat ditularkan kpd manusia (spt penyakit pes yg merupakan penyakit tikus)  secara Iangsung atau ditularkan melalui  serangga
 zooplankton n binatang mengapung yg  hanyut terbawa arus Iaut
 zooplasma n Bio bahan atau substansi  hidup yg hidupnya bergantung pd hasil  organisme Iain
 zoospora n Bio  spora yg dibentuk secara  takkawin oleh ganggang dan berbagai  jamur, dpt bergerak karena adanya flagela;  tubuh-tubuh yg sangat kecil  berbentuk flagela atau ameba yg bergerak-gerak, yg dihasilkan oleh sporosista dr protozoa

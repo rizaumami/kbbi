@@ -1,0 +1,85 @@
+ data n Mat 1 huruf-huruf, simbol-simbol,
+  dan kuantitas analog yg dapat dianggap
+  sbg masukan bagi pemrosesan komputer;
+  2 informasi yang mempunyai makna
+  untuk keperluan tertentu
+-- analog n Mat data yang dinyatakan dlm
+  bentuk kontinu
+-- kategoris n Mat hasil pengukuran
+  dengan skala yang berkategori; data ini
+  biasanya merupakan cacahan; misalnya,
+  kecenderungan politis dari seseorang
+  dapat dikategorikan sebagai liberal,
+  moderat, atau konservatif; kebiasaan
+  merokok dapat digolongkan menjadi
+  tidak pernah merokok, mantan perokok,
+  dan perokok; dan kesembuhan pasien
+  setelah menjalani suatu operasi dapat
+  diperingkat sebagai sembuh total, hampir
+  sembuh, tidak sepenuhnya sembuh, dan
+  tidak sembuh
+-- keterandalan dan mutu n Fis data yang
+  menunjukkan tingkat keteran-dalan suatu
+  untai atau alat yang biasanya diukur
+  dengan umur-kerja alat, sedangkan mutu
+  alat bersangkutan dengan presisi keluaran
+  alat dibandingkan dengan spesifikasi
+  yang ditetapkan
+-- kuantitatif n Mat berhubungan dengan
+  data dalam bentuk besaran numerik
+  seperti hasil pengukuran atau cacahan,
+  sebaliknya, data yang tidak terukur secara
+  numerik, seperti jenis kelamin, agama,
+  atau warna kulit disebut data kualitatif
+-- langsung n Mat data yang langsung
+  diberikan dalam instruksi
+-- numerik n Mat data yang hanya dapat
+  berisi sekumpulan angka
+datagram n satuan informasi dl internet,
+  biasanya sekaligus berisi alamat asal dan
+  alamat tujuan pengirim
+datang v 1 sampai (tiba) di tempat yg
+  dituju: ia -- tepat waktu; 2 berasal dr:
+  pelajar -- dr desa; 3 hadir muncul: ia --
+  ke pesta itu dng anaknya; 4 hari
+  kemudian; kelak: di masa --;
+-- tampak muka, pulang tampak
+  punggung, pb hendaklah selalu bersopan
+  santun apabila di rumah orang atau pergi
+  dr rumah orang;
+-- bulan haid; -- hati sampai hati; tega;
+datang-datang adv 1 baru saja datang: ~
+  disuruh mencuci; 2 sekalinya datang: ~
+  mau pinjam buku; 3 selalu datang lagi:
+  walau sudah jauh, ia masih ~ juga;
+berdatang, ~ sembah kl berkata dng
+  hormat (pd waktu menghadap raja):
+  utusan itu hadap raja seraya ~;
+berdatangan datang ramai datang dr
+  berbagai tempat: rakyat ~ dr seluruh
+  peloso kota
+mendatang v 1 muncul dng tiba-tiba: pd
+  ketika itu ada pikiran ~; 2 kl datang
+  menyusul: jika tak ada aral hendaklah ~;
+  3 Sas yg akan datang (tt waktu); kelak:
+  ketekunan belajar saat muda berguna pd
+  hari ~;
+mendatangi v datang di; mengunjungi;
+  menyinggahi; menghampiri: di kota itu ia
+  ~ rumah kawan ayahnya;
+datang-mendatangi          v        kunjung-
+  mengunjungi; saling mengunjungi; saling
+  berkunjung;
+mendatangkan v 1 membawa dr tempat
+  lain ke suatu tempat: siapa yg mula-mula
+  ~ pohon kina ke Indonesia; 2
+  memasukkan;mengimpor:         pengusaha-
+  pengusaha nasional diberi kesempatan
+  untuk ~ mesin pertanian dr luar negeri; 3
+  memanggil: mereka ~ ambulans untuk
+  mengangkut korban kecelakaan; 4
+  menyebabkan; mengakibatkan: banjir
+  telah ~ kerugian besar; 5 mengundang
+  (untuk diajak bertanding): persatuan
+  sepak bola PSSI akan ~ kesebelasan
+  Brazil pd bulan depan;
