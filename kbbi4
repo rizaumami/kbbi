@@ -155,6 +155,7 @@ pdftotext_impl(){
     
     pdftotext -f "$1" -l "$1" -r 500 -eol unix -nopgbrk -x 1630 -y 465 -W 1625 -H 3800 -layout "$KBBI" "$1.tmp"
 
+    echo >> "$TXTDIR/kbbi4-$1.txt"
     isok=$(gawk -f "checkindent.awk" "$1.tmp")
     if [ $isok = "0" ]; then  #is not ok when there is no new entry in a page column
         gawk '{print " "$0}' "$1.tmp" >> "$TXTDIR/kbbi4-$1.txt" 
