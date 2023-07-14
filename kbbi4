@@ -45,6 +45,7 @@ readonly BCKPDIR="$KBBIDIR/backup"
 readonly TXTDIR="$KBBIDIROUT/hasil_pdftotext"
 readonly GROUPDIR="$KBBIDIROUT/hasil_pengelompokkan"
 readonly RESDIR="$KBBIDIROUT/hasil_akhir"
+readonly KOREKSIDIR="$KBBIDIR/koreksi"
 
 # FUNCTIONS --------------------------------------------------------------------
 
@@ -133,26 +134,55 @@ berkas_lama() {
   fi
 }
 
+
+pdftotext_impl(){
+    readonly firsts=(19 127 262 317 392 422 445 529 583 622 669 868 978 1080 1101 1115 1259 1260 1352 1598 1784 1814 1822 1836 1837 1840)
+
+    printf ':: - %s\r' "Halaman ${1} -> $TXTDIR/kbbi4-$1.txt"
+    if [[ " ${firsts[*]} " =~ " ${1} " ]]; then
+        pdftotext -f "$1" -l "$1" -r 500 -eol unix -nopgbrk -x 0 -y 905 -W 1625 -H 3800 -layout "$KBBI" "$1.tmp"
+    else 
+        pdftotext -f "$1" -l "$1" -r 500 -eol unix -nopgbrk -x 0 -y 545 -W 1625 -H 3800 -layout "$KBBI" "$1.tmp"
+    fi
+
+    isok=$(gawk -f "checkindent.awk" "$1.tmp")
+    if [ $isok = "0" ]; then  #is not ok when there is no new entry in a page column
+        gawk '{print " "$0}' "$1.tmp" > "$TXTDIR/kbbi4-$1.txt" 
+        rm "$1.tmp"
+    else 
+        mv "$1.tmp" "$TXTDIR/kbbi4-$1.txt" 
+    fi
+    
+    
+    pdftotext -f "$1" -l "$1" -r 500 -eol unix -nopgbrk -x 1630 -y 465 -W 1625 -H 3800 -layout "$KBBI" "$1.tmp"
+
+    isok=$(gawk -f "checkindent.awk" "$1.tmp")
+    if [ $isok = "0" ]; then  #is not ok when there is no new entry in a page column
+        gawk '{print " "$0}' "$1.tmp" >> "$TXTDIR/kbbi4-$1.txt" 
+        rm "$1.tmp"
+    else 
+        mv "$1.tmp" "$TXTDIR/kbbi4-$1.txt" 
+    fi
+}
+
 # Ubah pdf menjadi berkas biasa menggunakan pdftotext
 pdf_ke_teks() {
   teks_hijau 'Mengubah halaman PDF menjadi halaman teks biasa'
-  # dengan file kbbi baru, tinggi nomor sudah tidak bermasalah
-  #for i in {19..129}; do
-  #  printf ':: - %s\r' "Halaman ${i} -> $TXTDIR/kbbi4-$i.txt"
-  #  # Halaman untuk lema A memiliki tinggi bagian nomor yang berbeda dengan
-  #  # halaman lainnya (sekitar 600 px pada resolusi 500 dpi)
-  #  pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 600 -W 3250 -H 3636 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
-  #done
 
-  for i in {19..1844}; do
-    printf ':: - %s\r' "Halaman ${i} -> $TXTDIR/kbbi4-$i.txt"
-    pdftotext -f "$i" -l "$i" -r 500 -eol unix -nopgbrk -x 0 -y 450 -W 3250 -H 3800 "$KBBI" "$TXTDIR/kbbi4-$i.txt"
+
+
+  N=4 #paralellize up to 4
+  (
+  for p in {19..1844}; do
+    ((i=i%N)); ((i++==0)) && wait
+    pdftotext_impl $p &
   done
+  )
 
   # Lema_Tertinggal_KBBI_Ed._Keempat_Rev_Ver_4 hanya akan diubah ke teks
   # untuk selanjutnya disunting secara manual
   # printf ':: - %s\r' "${LEMA##*/} -> $TXTDIR/${LEMA##*/}.txt"
-  pdftotext -r 500 -eol unix -nopgbrk "$LEMA" "$TXTDIR/${LEMA##*/}".txt
+  # pdftotext -r 500 -eol unix -nopgbrk "$LEMA" "$TXTDIR/${LEMA##*/}".txt
 }
 
 # Kelompokkan kata berdasar huruf awal
@@ -163,54 +193,56 @@ kelompokkan_kata() {
     exit
   fi
 
+
+
   # Pindah ke dalam TXTDIR agar baris perintah lebih pendek
   cd "$TXTDIR" || exit
-
-  cat kbbi4-{19..126}.txt > "$GROUPDIR"/kbbi4-A.txt
-  cat kbbi4-{127..261}.txt > "$GROUPDIR"/kbbi4-B.txt
-  cat kbbi4-{262..316}.txt > "$GROUPDIR"/kbbi4-C.txt
-  cat kbbi4-{317..391}.txt > "$GROUPDIR"/kbbi4-D.txt
-  cat kbbi4-{392..421}.txt > "$GROUPDIR"/kbbi4-E.txt
-  cat kbbi4-{422..444}.txt > "$GROUPDIR"/kbbi4-F.txt
-  cat kbbi4-{445..528}.txt > "$GROUPDIR"/kbbi4-G.txt
-  cat kbbi4-{529..582}.txt > "$GROUPDIR"/kbbi4-H.txt
-  cat kbbi4-{583..621}.txt > "$GROUPDIR"/kbbi4-I.txt
-  cat kbbi4-{622..668}.txt > "$GROUPDIR"/kbbi4-J.txt
-  cat kbbi4-{669..867}.txt > "$GROUPDIR"/kbbi4-K.txt
-  cat kbbi4-{868..977}.txt > "$GROUPDIR"/kbbi4-L.txt #Kesalahan entri ke-1: tidak ada koma diantara L dan l
-  cat kbbi4-{978..1079}.txt > "$GROUPDIR"/kbbi4-M.txt
-  cat kbbi4-{1080..1100}.txt > "$GROUPDIR"/kbbi4-N.txt
-  cat kbbi4-{1101..1114}.txt > "$GROUPDIR"/kbbi4-O.txt #Kesalahan pdf: menyatakan bahwa O huruf ke-5 (typo)
-  cat kbbi4-{1115..1258}.txt > "$GROUPDIR"/kbbi4-P.txt
-  cat kbbi4-1259.txt > "$GROUPDIR"/kbbi4-Q.txt
-  cat kbbi4-{1260..1351}.txt > "$GROUPDIR"/kbbi4-R.txt
-  cat kbbi4-{1352..1597}.txt > "$GROUPDIR"/kbbi4-S.txt
-  cat kbbi4-{1598..1783}.txt > "$GROUPDIR"/kbbi4-T.txt
-  cat kbbi4-{1784..1813}.txt > "$GROUPDIR"/kbbi4-U.txt
-  cat kbbi4-{1814..1821}.txt > "$GROUPDIR"/kbbi4-V.txt
-  cat kbbi4-{1822..1835}.txt > "$GROUPDIR"/kbbi4-W.txt
-  cat kbbi4-1836.txt > "$GROUPDIR"/kbbi4-X.txt
-  cat kbbi4-{1837..1839}.txt > "$GROUPDIR"/kbbi4-Y.txt
-  cat kbbi4-{1840..1844}.txt > "$GROUPDIR"/kbbi4-Z.txt
+  cp "$KOREKSIDIR"/* "$GROUPDIR"
+  cat kbbi4-{19..126}.txt >> "$GROUPDIR"/kbbi4-A.txt
+  cat kbbi4-{127..261}.txt >> "$GROUPDIR"/kbbi4-B.txt
+  cat kbbi4-{262..316}.txt >> "$GROUPDIR"/kbbi4-C.txt
+  cat kbbi4-{317..391}.txt >> "$GROUPDIR"/kbbi4-D.txt
+  cat kbbi4-{392..421}.txt >> "$GROUPDIR"/kbbi4-E.txt
+  cat kbbi4-{422..444}.txt >> "$GROUPDIR"/kbbi4-F.txt
+  cat kbbi4-{445..528}.txt >> "$GROUPDIR"/kbbi4-G.txt
+  cat kbbi4-{529..582}.txt >> "$GROUPDIR"/kbbi4-H.txt
+  cat kbbi4-{583..621}.txt >> "$GROUPDIR"/kbbi4-I.txt
+  cat kbbi4-{622..668}.txt >> "$GROUPDIR"/kbbi4-J.txt
+  cat kbbi4-{669..867}.txt >> "$GROUPDIR"/kbbi4-K.txt
+  cat kbbi4-{868..977}.txt >> "$GROUPDIR"/kbbi4-L.txt 
+  cat kbbi4-{978..1079}.txt >> "$GROUPDIR"/kbbi4-M.txt
+  cat kbbi4-{1080..1100}.txt >> "$GROUPDIR"/kbbi4-N.txt
+  cat kbbi4-{1101..1114}.txt >> "$GROUPDIR"/kbbi4-O.txt 
+  cat kbbi4-{1115..1258}.txt >> "$GROUPDIR"/kbbi4-P.txt
+  cat kbbi4-1259.txt >> "$GROUPDIR"/kbbi4-Q.txt
+  cat kbbi4-{1260..1351}.txt >> "$GROUPDIR"/kbbi4-R.txt
+  cat kbbi4-{1352..1597}.txt >> "$GROUPDIR"/kbbi4-S.txt
+  cat kbbi4-{1598..1783}.txt >> "$GROUPDIR"/kbbi4-T.txt
+  cat kbbi4-{1784..1813}.txt >> "$GROUPDIR"/kbbi4-U.txt
+  cat kbbi4-{1814..1821}.txt >> "$GROUPDIR"/kbbi4-V.txt
+  cat kbbi4-{1822..1835}.txt >> "$GROUPDIR"/kbbi4-W.txt
+  cat kbbi4-1836.txt >> "$GROUPDIR"/kbbi4-X.txt
+  cat kbbi4-{1837..1839}.txt >> "$GROUPDIR"/kbbi4-Y.txt
+  cat kbbi4-{1840..1844}.txt >> "$GROUPDIR"/kbbi4-Z.txt
 
   # Pilah lema tertinggal sesuai huruf awal kata
-  gawk "NR==20,NR==105" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-A.txt
-  gawk "NR==106,NR==211" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-B.txt
-  gawk "NR==213,NR==216" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-C.txt
-  gawk "NR==218,NR==237" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-D.txt
-  gawk "NR==239,NR==258" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-E.txt
-  gawk "NR==260,NR==299" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-G.txt
-  gawk "NR==301,NR==304" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-H.txt
-  gawk "NR==306,NR==384" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-K.txt
-  gawk "NR==386,NR==398" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-L.txt
-  gawk "NR==400,NR==408" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-M.txt
-  gawk "NR==412,NR==419" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-N.txt
-  gawk "NR==421,NR==428" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-O.txt
-  gawk "NR==431,NR==463" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-P.txt
-  gawk "NR==466,NR==473" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-R.txt
-  gawk "NR==475,NR==499" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-S.txt
-  gawk "NR==502,NR==504" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-T.txt
-  gawk "NR==506,NR==508" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-U.txt
+  # gawk "NR==20,NR==105" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-A.txt
+  # gawk "NR==106,NR==211" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-B.txt
+  # gawk "NR==213,NR==216" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-C.txt
+  # gawk "NR==218,NR==237" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-D.txt
+  # gawk "NR==239,NR==258" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-E.txt
+  # gawk "NR==260,NR==299" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-G.txt
+  # gawk "NR==301,NR==304" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-H.txt
+  # gawk "NR==306,NR==384" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-K.txt
+  # gawk "NR==386,NR==398" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-L.txt
+  # gawk "NR==400,NR==408" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-M.txt
+  # gawk "NR==412,NR==419" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-N.txt
+  # gawk "NR==421,NR==428" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-O.txt
+  # gawk "NR==431,NR==463" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-P.txt
+  # gawk "NR==466,NR==473" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-R.txt
+  # gawk "NR==475,NR==499" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-S.txt
+  # gawk "NR==502,NR==504" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-T.txt
+  # gawk "NR==506,NR==508" "${LEMA##*/}.txt" > "$GROUPDIR"/lema-tertinggal-U.txt
 }
 
 # Perbaiki kata hasil konversi pdftotext
@@ -222,7 +254,7 @@ perbaiki_kata() {
   fi
 
   teks_hijau 'Memperbaiki karakter yang keliru diubah OCR'
-  for i in kbbi4-{A..Z} lema-tertinggal-{A..Z}; do
+  for i in kbbi4-{A..Z}; do
     if [[ -f $GROUPDIR/$i.txt ]]; then
       printf ':: - %s\r' "dalam lema $i"
 
@@ -236,6 +268,7 @@ perbaiki_kata() {
       # 4. Ubah "ĺ" menjadi "->"
       # 5. Ubah " o " menjadi "->" pada baris di bawah 5 kolom
       # 6. Gabung baris berdasar lema.
+      # new regex: https://regex101.com/r/RTvtF4/3
       gawk -v huruf="^[$HURUF${HURUF,,}]" '
         {
           !/^[[:digit:]]$/
@@ -244,7 +277,7 @@ perbaiki_kata() {
           gsub("ĺ", "->")
           /NF<5/gsub(" o ", "->")
         }
-        $0 ~ huruf {
+        $0 ~ /^\S/ {
           if (x && NF>1)
             print x
           else
@@ -262,6 +295,24 @@ perbaiki_kata() {
       # 1. baris paling atas yang hanya memiliki satu huruf
       # 2. baris yang memiliki satu kata dengan awalan huruf lema
       gawk -i inplace 'NF>1' "$RESDIR/$i.txt"
+
+      # 1. pada pdf baru, terdapat artefak seperti 'A b l d = ( ^ t ) Ldt ...' yang dapat dideteksi dengan
+      # regex yang panjang ini.
+      # 2. delete nomor 
+      # 3. rubah "   ..." menjadi "  " (tidak menjadi " " karena "  " digunakan untuk membedakan subentri dengan entri )
+      # untuk ilustrasi, entri "atur" memiliki subentri "beratur" yang dibisah dengan "  " daripada " "
+      # >> "atur v beratur  beratur v disusun"
+      # daripada:
+      # >> "atur v beratur beratur v disusun"
+      # ini akan membantu jika mau memparsing lagi 
+      # 4. rubah I -> l kecuali untuk huruf pertama 
+      # 5. hapus "-    \S" 
+      # 6. hapus leading space
+      cat "$RESDIR/$i.txt" | sed -E 's/(\b(\S{1,3}\s+){7,})|((\s+\S{1,3}){7,}\b)//g' \
+          | sed -E 's/[0-9]+//g' | sed -E 's/\s\s+/  /g' | sed -E 's/I/l/g' | sed -E 's/\bl/I/g' \
+          | sed -E 's/([a-Z])-\s{2,}([a-Z])/\1\2/g' | sed -E 's/^ *//g' | sed -E 's/ -- - / -- /g' > "$RESDIR/$i.tmp"
+
+      mv "$RESDIR/$i.tmp" "$RESDIR/$i.txt" 
     fi
   done
 }

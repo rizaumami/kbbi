@@ -1,1 +1,6 @@
 CHECKED
+**/*.tmp
+backup
+teks/hasil_pdftoteks/*
+teks/hasil_pengelompokkan/*
+backup/*
